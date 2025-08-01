@@ -1,0 +1,2735 @@
+01011052||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01011060||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01011081||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01011170||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01011250||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01011251||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01011275||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01011298||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01021713||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01100019||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100027||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100030||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100031||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100080||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100235||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100237||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01100241||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100255||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100258||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100294||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100295||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100336||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100380||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100381||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100382||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100384||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100392||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100461||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01100463||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100470||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100478||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100481||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100561||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100562||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100563||***Deleted***||***Deleted***||7||***Deleted***||***Deleted***
+01100566||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100645||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100669||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100678||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100690||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01100734||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100784||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100785||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100800||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100863||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01100889||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100891||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100916||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100924||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100925||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100928||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100958||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100966||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01100968||***Deleted***||***Deleted***||18||***Deleted***||***Deleted***
+01100973||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101012||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101042||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01101085||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101094||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101095||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101099||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101100||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01101121||***Deleted***||***Deleted***||20||***Deleted***||***Deleted***
+01101130||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101154||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101155||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01101157||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101163||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101172||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101175||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101178||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01101187||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101188||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101190||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101194||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101195||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01101200||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101206||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101230||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101239||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101266||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101276||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101292||***Deleted***||***Deleted***||7||***Deleted***||***Deleted***
+01101294||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101307||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101309||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101310||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101311||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01101312||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101314||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101315||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101316||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101318||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101319||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101321||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101336||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101375||***Deleted***||***Deleted***||16||***Deleted***||***Deleted***
+01101392||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101394||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101404||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01101409||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101410||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101478||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101526||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101538||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101550||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101557||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01101558||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01101621||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101629||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101644||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101663||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01101664||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101665||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01101666||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101669||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01101672||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101677||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101704||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101706||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101726||***Deleted***||***Deleted***||7||***Deleted***||***Deleted***
+01101778||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01101793||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101804||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01101808||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101810||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101814||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101824||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101826||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101830||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01101831||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101845||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01101854||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101878||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01101883||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101884||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01101891||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01101902||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101941||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01101945||***Deleted***||***Deleted***||19||***Deleted***||***Deleted***
+01101995||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102016||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102022||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102023||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01102025||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102031||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102034||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102060||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102073||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102084||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01102100||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102104||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102105||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102107||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102109||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102135||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01102139||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01102142||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102146||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01102148||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102160||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102164||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01102175||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102177||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102178||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102179||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102180||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102189||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102223||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102251||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01102253||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01102289||***Deleted***||***Deleted***||9||***Deleted***||***Deleted***
+01102308||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102435||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01102505||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102511||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102519||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102521||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01102566||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102571||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102610||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102619||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102656||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102665||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01102707||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102734||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102766||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102777||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102808||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102845||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102849||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102852||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01102853||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01102879||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01102881||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102883||***Deleted***||***Deleted***||7||***Deleted***||***Deleted***
+01102884||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01102885||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102890||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102900||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102912||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102930||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01102932||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102933||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01102943||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01103005||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103022||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01103026||***Deleted***||***Deleted***||7||***Deleted***||***Deleted***
+01103030||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01103046||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103047||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01103056||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01103069||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103078||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01103089||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103090||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103114||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103116||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103129||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01103167||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01103209||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103241||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103243||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103270||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01103335||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103390||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103497||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01103517||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01103528||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103587||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103620||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103621||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01103625||***Deleted***||***Deleted***||13||***Deleted***||***Deleted***
+01103627||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103638||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01103640||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103644||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103647||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01103651||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103666||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103678||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103707||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103709||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01103711||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103725||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103738||***Deleted***||***Deleted***||7||***Deleted***||***Deleted***
+01103741||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103745||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01103746||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103767||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01103786||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103787||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103804||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103847||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01103849||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103850||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01103855||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01103922||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103929||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103947||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103948||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01103957||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01103975||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01103976||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104007||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104011||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104019||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104044||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104045||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104049||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104053||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104054||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01104075||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104076||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104104||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104134||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104136||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104140||***Deleted***||***Deleted***||8||***Deleted***||***Deleted***
+01104141||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104142||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01104155||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104157||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104170||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104211||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104226||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104228||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104245||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104266||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01104334||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104345||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104351||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104382||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01104386||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104397||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104403||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104405||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01104407||***Deleted***||***Deleted***||9||***Deleted***||***Deleted***
+01104409||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104413||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104417||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104427||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104447||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104457||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104503||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104506||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104507||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104515||***Deleted***||***Deleted***||20||***Deleted***||***Deleted***
+01104520||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104527||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104528||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01104536||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104547||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104551||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104552||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104557||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104560||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104561||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104562||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104566||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104569||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104570||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104575||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104578||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104582||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104601||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104604||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104605||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104606||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01104616||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104630||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104631||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01104637||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104649||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104651||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104662||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104671||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01104680||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104684||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104693||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104694||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104699||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104701||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104705||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104706||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104717||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104724||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104728||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104748||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104771||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104787||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104791||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104806||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104822||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104825||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104843||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104844||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104859||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104862||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104865||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01104904||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104907||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104912||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104931||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104939||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01104943||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01104944||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01104948||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104962||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01104964||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105038||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105039||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105040||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01105052||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105063||***Deleted***||***Deleted***||9||***Deleted***||***Deleted***
+01105065||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105077||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105082||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105087||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105123||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105127||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105151||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105202||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105222||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105228||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105230||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105231||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105239||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105240||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105241||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105291||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105299||***Deleted***||***Deleted***||10||***Deleted***||***Deleted***
+01105304||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105308||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01105329||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105339||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105347||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105371||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01105374||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105375||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105376||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105378||***Deleted***||***Deleted***||14||***Deleted***||***Deleted***
+01105381||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01105391||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105392||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105405||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105441||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105451||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105462||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105475||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105476||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105477||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105479||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105481||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105489||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105500||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105502||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105509||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105520||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105524||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105525||***Deleted***||***Deleted***||10||***Deleted***||***Deleted***
+01105527||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105542||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105543||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105549||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105551||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105555||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105557||***Deleted***||***Deleted***||9||***Deleted***||***Deleted***
+01105561||***Deleted***||***Deleted***||13||***Deleted***||***Deleted***
+01105563||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105565||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105567||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105574||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105578||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105592||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105594||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105595||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105598||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105626||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105629||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105636||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105676||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105680||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105683||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105692||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105701||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105702||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105709||***Deleted***||***Deleted***||9||***Deleted***||***Deleted***
+01105710||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105714||***Deleted***||***Deleted***||8||***Deleted***||***Deleted***
+01105727||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105728||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105729||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105734||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105740||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105752||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105770||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01105774||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105781||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105785||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105804||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01105809||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105821||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105824||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105832||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105908||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105930||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105932||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105939||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105952||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105967||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105969||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105979||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105987||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01105988||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01105989||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105992||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01105995||***Deleted***||***Deleted***||11||***Deleted***||***Deleted***
+01105997||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01106002||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106020||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01106021||***Deleted***||***Deleted***||8||***Deleted***||***Deleted***
+01106022||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106024||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01106025||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106044||***Deleted***||***Deleted***||8||***Deleted***||***Deleted***
+01106062||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106068||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106069||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106072||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106073||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106077||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106082||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106087||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01106100||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106129||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106139||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106163||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106214||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106221||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106230||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106233||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106269||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106275||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106277||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106286||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106298||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01106320||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01106363||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106365||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01106377||***Deleted***||***Deleted***||7||***Deleted***||***Deleted***
+01106388||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106399||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106431||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106433||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106439||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106443||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01106446||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01106449||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01106450||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106454||***Deleted***||***Deleted***||8||***Deleted***||***Deleted***
+01106460||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106472||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01106474||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01106491||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106492||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106498||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106505||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106508||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106511||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106513||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106516||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106520||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106543||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106547||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106548||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106551||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106565||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106567||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106573||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106580||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01106589||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106595||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106603||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106662||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106665||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01106688||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106721||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106732||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01106735||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106770||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106772||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106773||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106775||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106801||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01106802||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106803||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106809||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106866||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106879||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106881||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106890||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01106893||***Deleted***||***Deleted***||11||***Deleted***||***Deleted***
+01106946||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106951||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106970||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01106973||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01106997||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107053||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01107054||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01107060||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01107065||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107071||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01107079||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01107094||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107101||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107267||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107283||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107314||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107316||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107353||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107363||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107380||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107396||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107407||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107410||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107429||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01107825||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01107828||***Deleted***||***Deleted***||9||***Deleted***||***Deleted***
+01107861||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107866||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01107950||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108003||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01108006||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108034||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108067||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108068||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108069||***Deleted***||***Deleted***||20||***Deleted***||***Deleted***
+01108070||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108085||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108168||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108242||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108270||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01108272||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108304||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108466||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108484||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108555||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01108565||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01108571||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108643||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01108760||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108761||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01108795||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01108915||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01109048||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01109127||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01109166||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01109486||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01109513||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01109544||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01109781||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01109900||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01110080||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01110088||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01110158||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01110729||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01110763||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01110779||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01110824||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01110826||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01110836||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01110837||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01110838||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01111168||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+01111172||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01111875||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01111877||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01111883||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01111889||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01111898||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01111916||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01111924||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01111939||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112037||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01112039||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112066||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112092||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112100||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112155||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112226||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01112275||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01112499||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112514||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01112549||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112562||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112565||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112574||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112579||***Deleted***||***Deleted***||10||***Deleted***||***Deleted***
+01112822||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112825||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01112966||***Deleted***||***Deleted***||8||***Deleted***||***Deleted***
+01113084||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01114251||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01114253||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01114258||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01114268||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01114270||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01114272||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01114275||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01114285||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+01114292||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01114293||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01799042||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01799048||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01799070||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01799093||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01799098||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01799099||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01799129||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01799131||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01799146||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01801031||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01801049||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01801123||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01801135||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01801228||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01801288||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01808434||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01808635||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01808643||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01808705||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01808709||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01808720||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+01808721||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01808768||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01808821||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01808847||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01808852||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01809000||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01809386||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01809839||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01809848||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01809880||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01809995||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01810127||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01818019||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01818447||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01818776||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01820036||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01820072||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01828005||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01829017||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01829027||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01829133||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01829320||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01829367||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01829386||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01829444||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01830001||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01830016||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01830333||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01830360||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01830487||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01830511||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831154||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831155||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831185||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831285||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831287||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831289||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831290||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831292||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01831297||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831299||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831315||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01831432||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01832017||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01832019||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01832052||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01832059||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01832064||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01832065||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01832120||***Deleted***||***Deleted***||9||***Deleted***||***Deleted***
+01832124||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01832125||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01834002||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01840084||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01840095||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01851013||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01851347||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01851443||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01851488||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01860154||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01860192||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01860247||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01860504||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01860515||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01860525||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01860569||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01860614||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01860622||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01860631||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01869048||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01869050||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01869056||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+01869099||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01901103||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01901144||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01901145||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+01901296||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01901342||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01901411||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+01901560||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02100078||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+02100119||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02100120||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02100179||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02100191||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02100276||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02100344||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02100478||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+02100614||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02101501||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02101764||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02101859||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02101870||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+02101959||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+02101961||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02101962||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02102703||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02102728||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02102795||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+02103147||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+02103994||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02104003||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02104497||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02104589||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02104640||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02104732||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02104817||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02104821||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+02105325||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02105405||***Deleted***||***Deleted***||5||***Deleted***||***Deleted***
+02105419||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02105571||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02105648||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+02105844||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+02105920||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02106077||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02106082||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02106083||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02106153||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02106391||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+02106563||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02106624||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02106740||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02107496||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+02107717||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02107817||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02107818||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02107831||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02107900||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02107903||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02107913||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02108001||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02108005||***Deleted***||***Deleted***||8||***Deleted***||***Deleted***
+02108010||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02108382||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02108433||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02108481||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02108584||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02108662||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+02108767||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02108939||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109043||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109054||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109096||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109202||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02109223||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+02109302||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+02109345||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109348||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02109349||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02109419||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109445||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109460||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109461||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109503||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02109517||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109524||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02109558||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+02109757||***Deleted***||***Deleted***||6||***Deleted***||***Deleted***
+02110204||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02110451||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+02111273||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02111295||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02799010||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02799036||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+02799201||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+03106119||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+04110232||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+05102129||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+06000003||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+06000013||***Deleted***||***Deleted***||4||***Deleted***||***Deleted***
+06000014||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+06000286||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+06000342||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+06000348||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+06000350||***Deleted***||***Deleted***||2||***Deleted***||***Deleted***
+09000001||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+09000003||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+09000004||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+09100057||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+09100072||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+09100084||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+09100085||***Deleted***||***Deleted***||3||***Deleted***||***Deleted***
+09100087||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+09100090||***Deleted***||***Deleted***||1||***Deleted***||***Deleted***
+10000010||Hati Yang Terluka||Broery Marantika||1||||A. Riyanto
+10000015||Angin Malam||Broery Marantika||1||||A. Riyanto
+10000016||Widuri||Broery Marantika||1||||Adriyadie
+10000021||Pergi Untuk Kembali||Broery Marantika||1||||Minggus Tahitu
+10000046||Surat Undangan||Poppy Mercury||1||||Rosyid Soemantri
+10000071||Kau||Nicky Astria||2||||Ly, Baiduri, Yusac
+10000075||Rindiani||Slam||2||||
+10000076||Gerimis Mengundang||Slam||3||||
+10000078||Tak Mungkin Berpaling||Slam||1||||
+10000081||Terasing Dalam Sepi||Slam||3||||
+10000098||Gereja Tua||Panbers||3||||Benny Panjaitan
+10000100||Ku Cari Jalan Terbaik (Ku Coba Untuk Bertahan)||Pance Pondaag||1||||Pance F. Pondaag
+10000106||Kisah Kasih Di Sekolah||Obbie Messakh||1||||Obbie Messakh
+10000108||Apa Salah Dan Dosaku||DLloyd||1||||Bartje VH
+10000112||Bagai Ranting Yang Kering||Iis Dahlia||1||||Yonny Dores, Zoel Anggara
+10000149||Rindu Yang Terlarang||Broery Marantika, Dewi Yull||1||||Harry Tasman
+10000151||Jangan Ada Dusta Di Antara Kita||Broery Marantika, Dewi Yull||4||||Harry Tasman
+10000275||Lilin Putih||Maya Angela||1||||
+10000279||Adakah Kau Setia ?||Stings||1||||
+10000280||Ku Sapu Air Mata Perpisahan||Stings||1||||
+10000283||Air Mata Di Hari Persandinganmu||Stings||1||||
+10000350||Isabella||Search||1||||
+10000360||Jika Cinta Dia||Geisha||8||||Roby Satria
+10000361||Papa Rock N Roll||Dance Company, The||1||||Nugie, Pongki, Baim, Aryo
+10000365||Siapa Yang Pantas||Domino||1||||Ade, Jeje
+10000367||Terbang Bersamaku||Kangen Band||6||||Dodhy Kangen
+10000384||Aku Harus Jujur||Kerispatih||9||||Badai Kerispatih
+10000385||Cinta Gila||Ungu||3||||Andrea Hirata
+10000389||Mau Dibawa Kemana||Armada||1||||Rizal
+10000392||Pelan-Pelan Saja||Kotak||6||||Dewiq, Pay, Kotak
+10000400||Cinta Kita||Slank||2||||Slank
+10000692||Sembilu||Ella||3||||Saari Amri
+10000694||Pengemis Cinta||Ella||1||||Ramli Sarip, Kartina
+10000720||Sandiwara Cinta||Nike Ardilla||1||||Deddy Dores
+10000721||Suara Hatiku||Nike Ardilla||1||||Saari Amri, Adit OB
+10000728||Izinkan||Nike Ardilla||1||||Youngky Suwarno, Cecep AS
+10000733||Bintang Kehidupan||Nike Ardilla||25||||Deddy Dores
+10000740||Mama Aku Ingin Pulang||Nike Ardilla||2||||Youngky RM
+10000741||Rindu Setengah Mati||D'Masiv||2||||Rian
+10000744||Semakin||D'Masiv||1||||Rian
+10000749||Dia Atau Aku||D'Masiv||1||||Rian
+10000775||Apa Salahku||D'Masiv||1||||Rian
+10000777||Cinta Monyet||Goliath||3||||
+10000793||Gerimis Mengundang||Saleem||1||||
+10000811||Empat Mata||D Bagindas||9||||Michael Christian
+10000814||Kenanglah Aku||Naff||15||||
+10000821||Bebas||Audy||1||||Ervin Syam Ilyas
+10000822||Aku Dan Perasaan Ini||Repvblik||3||||Ruri H Wantogia, Hexa, Hepi
+10000837||Takkan Terganti||Marcell||4||||Yovie widianto
+10000839||Tentang Rasa||Astrid||1||||Ade Domino
+10000845||C.I.N.T.A||D Bagindas||4||||Michael Christian
+10000848||Jangan Ganggu Pacarku||Lolita||1||||
+10000849||Kasmaran||Phantom||1||||Ahmad Bukhari, Iswan
+10000851||Rapuh||Agnez Mo||2||||Badai Kerispatih
+10000852||Rumah Kita||God Bless||1||||
+10000855||Takkan Terganti||Kahitna||1||||
+10000857||Ya Sudahlah||Bondan Prakoso, Fade2Black||8||||
+10000871||Dua Cincin||Hello||6||||Gavet
+10000874||Ku Punya Pacar||T2||1||||
+10000878||50 Tahun Lagi||Yuni Shara, Raffi Ahmad||1||||Dewiq
+10000879||Aishiteru||Zivilia||5||||Zulkifli
+10000923||Harga Diriku||Wali||1||||Apoy
+10000924||Jakarta Pagi Ini||Slank||1||||Bimbim
+10000937||Pergilah Kau||Sherina Munaf||1||||Sherina Munaf
+10000941||Apa Adanya||Naif||1||||
+10000951||Karena Ku Sanggup||Agnez Mo||6||||Agnes Monica, Andi Rianto
+10000957||Mimpi||Anggun||3||||Teddy Sujaya, Pamungkas NM
+10000959||Honey||Shaggy Dog||1||||Shaggy Dog
+10000962||Manusia Biasa||Yovie And Nuno||3||||Yovie Widianto Konser Yovie & Nuno
+10000965||Jaga Selalu Hatimu||Seventeen||6||||Herman, Ifan
+10000974||Keong Racun||Lissa||1||||
+10000984||Cinta Satu Malam||Melinda||13||||Tjahyadi
+10000988||Keong Racun||Putri Penelope||1||||Buy Akur
+10000993||Narsis||Saykoji||1||||
+10000997||Ada Bayangmu||Melinda||1||||Moh. Charly VH
+10001001||Hari Bersamanya||Sheila On 7||2||||Eross Candra
+10001005||Rindu Muhammadku||Haddad Alwi, Anti, Ebith Beat A.||2||||
+10001013||Diary Depresiku||Last Child||3||||Virgoun Teguh Putra
+10001019||Masih Adakah Cinta||Ada Band||1||||Dika
+10001029||Ku Menunggu||Rossa||1||||Mery LC
+10001041||Bukan Dia Tapi Aku||Judika||14||||Ilham
+10001052||Cinta Mati III||Mulan Jameela||3||||Ahmad Dhani
+10001057||Tertatih||Kerispatih||2||||Badai Kerispatih
+10001063||Buka Semangat Baru||Ello, Ipang, Berry Saint Loco, Lala||1||||
+10001067||Main Serong||Changcuters, The||2||||Changcuters
+10001068||Melepasmu||Drive||5||||Budi, Anji
+10001078||Lara Hati||La Luna||1||||Boyan
+10001080||Pilihan Hatiku||Lavina||1||||
+10001091||Puaskah||Wali||1||||Apoy
+10001101||Terbakar Cemburu||Padi||1||||
+10001108||Aku Tak Biasa||Syahrini||1||||
+10001112||Magic||Lyla||1||||
+10001113||Percaya Padaku||Ungu||1||||Sigit Purnomo
+10001114||Saat Bahagia||Ungu, Andien||3||||Arlonsy Miraldi
+10001123||Aku Terjatuh||ST12||4||||Moh. Charly VH
+10001125||Cinta Jangan Pergi||Kotak||1||||Possan Tobing
+10001129||Jangan Bertengkar Lagi||Kangen Band||1||||Dodhy 'Kangen Band'
+10001137||Harusnya Kau Pilih Aku||Terry||1||||Saritomo Agung Widayat
+10001143||Lagi Bohong||Marvells||1||||
+10001151||Kesaktianmu||Winner, The||2||||Dodhy Kangen
+10001167||Tentang Perasaanku||Irwansyah||1||||
+10001169||ALAY (Anak Layangan)||Lolita||2||||
+10001170||Bawalah Cintaku||Afgan||2||||Beby Romeo
+10001171||Biarlah||Killing Me Inside||2||||Josaphat, Onadio
+10001185||I Heart You||SMASH||4||||Buni, Decil, Hendi, Sogi
+10001188||Jalanmu Bukan Jalanku||Andra And The Backbone||1||||Andra
+10001195||Sempurna||Andra And The Backbone||6||||
+10001197||Aku Bukan Bang Toyib||Wali||10||||Apoy
+10001201||Satu-Satunya Cinta||Mahadewi||2||||Ahmad Dhani
+10001203||Beri Aku Waktu||Ungu||1||||Franco Wellyjat M
+10001206||Luka Disini||Ungu||4||||Pasha
+10001207||Terang Dalam Gelapku||Ungu||1||||Pasha
+10001209||Putri Iklan||ST12||16||||Moh. Charly VH
+10001210||SKJ (New Version)||ST12||2||||Moh. Charly VH
+10001211||Cari Pacar Lagi||ST12||10||||Moh. Charly VH
+10001212||Cinta Tak Direstui||ST12||1||||Moh. Charly VH
+10001213||Puspa (Putuskan Saja Pacarmu)||ST12||3||||Moh. Charly VH
+10001214||Jangan Pernah Berubah||ST12||6||||Moh. Charly VH
+10001215||Tak Dapat Apa-Apa (My Hot)||ST12||1||||Moh. Charly VH
+10001217||Atas Nama Cinta||Rossa||5||||Melly Goeslaw
+10001218||Aku Bukan Untukmu||Rossa||2||||Aji Mirza Hakim
+10001219||Pudar||Rossa||12||||Nda
+10001222||Dia Atau Diriku||Ungu||2||||Franco Wellyjat M
+10001254||Yesus Perlindunganku||Iwan Ang||1||||Franky Sihombing
+10001289||Berita Kepada Kawan||Ebiet G. Ade||2||||Ebiet G. Ade
+10001294||Camelia I||Ebiet G. Ade||1||||Ebiet G. Ade
+10001301||Janji||Andi Meriam Mattalata||1||||
+10001303||Camelia II||Ebiet G. Ade||1||||Ebiet G. Ade
+10001306||Hati Yang Luka||Betharia Sonatha||1||||Obbie Messakh
+10001329||Cinta Dan Benci||Geisha||11||||Roby Satria
+10001338||Lebih Dari Bintang||Lyla||1||||
+10001346||Penghujung Cintaku||Pasha, Adelia||1||||Pasha
+10001347||Di Saat Aku Mencintaimu||Dadali||2||||Yuda, Dyrga
+10001355||Hal Terindah||Seventeen||4||||Herman, Ifan
+10001356||Pasti Ku Bisa||Sheila On 7||1||||
+10001359||Kau Yang Memilih Aku||Syahrini||1||||Reza Herlambang
+10001371||Selalu Ada||Blackout||6||||
+10001374||Senyum Semangat||SMASH||2||||Buni, Decil, Kimberly, Francis
+10001382||Separuh Jiwaku Pergi||Anang Hermansyah||1||||Anang Hermansyah
+10001383||Ayat Ayat Cinta||Rossa||3||||Melly Goeslaw
+10001384||Laskar Pelangi (Ost Laskar Pelangi)||Nidji||2||||Nidji
+10001386||Demi Waktu||Ungu||5||||Franco Wellyjat M
+10001389||Kau Masih Kekasihku||Naff||8||||Ady
+10001390||Bersamamu||Vierra||2||||Raka, Kevin Aprilio
+10001392||Cinta Pertama Dan Terakhir||Sherina Munaf||3||||Sherina Munaf
+10001405||Merindu Lagi||Yovie And Nuno||2||||Yovie Widianto
+10001406||Aku Yang Tersakiti||Judika||6||||Judika
+10001411||Kesepian||Vierra||2||||Kevin Aprillio
+10001415||Terlalu Lama||Vierra||1||||Kevin Aprillio
+10001416||Pemain Cinta||Ada Band||2||||Dika
+10001420||Haruskah Ku Mati||Ada Band||2||||Krishna
+10001421||Surga Cinta||Ada Band||2||||Marshal, Donnie
+10001422||Setengah Hati||Ada Band||1||||Krishna
+10001423||Kau Auraku||Ada Band||1||||Krishna, Donnie
+10001424||Manusia Bodoh||Ada Band||11||||Khrisna, Donnie
+10001435||Playboy||7 Icons||3||||Dewiq
+10001446||Jangan Ada Dusta Di Antara Kita||Lucky, Iis Sugianto||1||||Harry Tasman
+10001455||Abracadabra||Mulan Jameela, Law, The||4||||
+10001470||Berartinya Dirimu||Anang Hermansyah, Krisdayanti||1||||Anang Hermansyah
+10001493||Panah Asmara||Afgan||1||||Tohpati
+10001516||Doaku Untukmu Sayang||Wali||1||||Apoy
+10001524||Pemilik Hati||Armada||2||||Radha, Andit, Maia
+10001525||Cinta Mati II||Mulan Jameela, Mita||2||||Ahmad Dhani
+10001532||Everybody Knew||Citra Scholastika||1||||Agus Setiawan
+10001550||Lebih Indah||Adera, Andre Dinuth||2||||Abietyasakti K.K
+10001560||Ku Pilih Hatimu||Ussy, Andhika Pratama||2||||Rama Mascapada
+10001573||Hamil Duluan||Tuty Wibowo||5||||Tjahjadi Djajanata, Ishak
+10001574||Kehilangan||Firman||11||||Moh. Charly VH
+10001583||Menemukanmu||Seventeen||7||||Yudhi
+10001594||Ku Pinang Kau Dengan Bismillah||Ungu, Rossa||1||||
+10001603||Dilema||Cherry Belle||1||||
+10001605||Mabuk Cinta||Armada||1||||Andika Mahendra Yuda, Tsandy Rizal Adi Pradana
+10001615||Cukuplah Sudah||XO-IX||1||||
+10001624||Rindu||Agnez Mo||6||||Eross Djarot
+10001625||Alamat Palsu||Ayu Ting Ting||7||||Dadan Ind
+10001628||Dengan Nafasmu||Ungu||1||||Franco Wellyjat M
+10001629||Andai Ku Tahu||Ungu||1||||Sigit Purnomo
+10001641||Suka Sama Kamu||D Bagindas||1||||Mike
+10001643||Nyanyian Rindu||Ebiet G. Ade||1||||Ebiet G. Ade
+10001654||Cinta Sebening Embun||Ebiet G. Ade||2||||Ebiet G. Ade
+10001655||Kupu-Kupu Kertas||Ebiet G. Ade||1||||Ebiet G. Ade
+10001667||Titip Rindu Buat Ayah||Ebiet G. Ade||11||||Ebiet G. Ade
+10001670||Kisah Cintaku||Chrisye||1||||Tito Soemarsono
+10001672||22 Januari||Iwan Fals||1||||Iwan Fals
+10001677||Beautiful||Cherry Belle||3||||
+10001686||Aku Punya Hati||Kahitna||1||||
+10001695||Berhenti Di Kamu||Anji||2||||Cynthia Dewi B, Parlin Burman
+10001697||Mau Dibawa Kemana||Marcell||2||||
+10001707||Terpuruk Ku Di Sini||KLA Project||1||||Katon Bagaskara
+10001709||Gerimis (Live)||KLA Project||1||||
+10001712||Romansa (Live)||KLA Project||2||||
+10001717||Semoga (Live)||KLA Project||1||||
+10001718||Tak Bisa Ke Lain Hati (Live)||KLA Project||1||||Katon Bagaskara, Adi
+10001728||Seluruh Nafas Ini||Last Child, Gisel||13||||Virgoun Teguh Putra
+10001737||Maafkan Aku||D Bagindas||1||||Michael Christian
+10001741||Makhluk Tuhan Paling Sexy||Mulan Jameela||4||||Dhani Ahmad
+10001743||Wonder Woman||Mulan Jameela||2||||Ahmad Dhani
+10001745||Hanya Ingin Kau Tahu||Repvblik||3||||Hexanantha Sayati
+10001750||Karena Aku Telah Denganmu||Ari Lasso, Ariel Tatum||2||||Teguh
+10001756||Sampai Akhir Waktu||Yovie And Nuno||3||||
+10001759||Mendua||Astrid||6||||Abdee
+10001769||Sewindu||Tulus||1||||Tulus
+10001771||Nenekku Pahlawanku||Wali||8||||Apoy
+10001773||Jangan Ada Dusta Diantara Kita||Rossa, Broery Marantika||1||||Harry Tasman
+10001774||123456||Budi Doremi||2||||Budi
+10001784||Aishiteru 2||Zivilia||1||||Zulkifli
+10001787||Indah Cintaku||Nicky Tirta, Vanessa Angel||1||||Alam Purba
+10001788||Aw Aw||Melinda||1||||Rahayu K.
+10001790||Terpuruk Ku Di Sini (Live)||KLA Project||1||||Katon Bagaskara
+10001796||Kau Tercipta Untukku||Betharia Sonatha||1||||Rinto Harahap
+10001807||Isabella||ST12||2||||Search, Bob
+10001809||Kupu-Kupu Malam||Peterpan||1||||Titik Puspa
+10001812||Aku Bukan Pilihan||Iwan Fals||3||||Pongky Barata
+10001834||Aku Atau Dia||5 Bidadari||1||||Tyo Adrian
+10001853||Pesawat Tempur||Iwan Fals||1||||Iwan Fals
+10001854||Sarjana Muda||Iwan Fals||1||||Iwan Fals
+10001856||Sore Tugu Pancoran||Iwan Fals||1||||Iwan Fals
+10001858||Puing||Iwan Fals||3||||Iwan Fals
+10001860||Hargai Aku||Armada||2||||Armada Band
+10001861||Buaya Buntung||Inul Daratista||5||||Kabul K., Yoni D.
+10001862||Iwak Peyek||Trio Macan||2||||H. Imron
+10001867||Akhirnya Ku Menemukanmu||Naff||43||||Ady
+10001869||Saat Terakhir||ST12||2||||Moh. Charly VH
+10001873||Bunga Terakhir||Afgan||1||||Beby Romeo
+10001876||My Heart (OST Heart)||Acha Septriasa, Irwansyah||3||||
+10001879||Tak Pernah Padam||Sandhy Sondoro||1||||Sandhy Sondoro
+10001880||Berdua Lebih Baik (OST Heart)||Acha Septriasa||1||||Melly Goeslaw
+10001881||Sampai Menutup Mata (OST Heart)||Acha Septriasa||1||||Anto Hoed, Melly Goeslaw
+10001882||Asmara Nusantara||Budi Doremi||2||||
+10001884||Ibu||Iwan Fals||6||||Iwan Fals
+10001885||Aw Aw Aw||Super Girlies||4||||Yerry, Supergirlies
+10001887||Kamu||Coboy Junior||4||||Patrick Effendy
+10001891||Could It Be||Raisa||1||||Adrianto A.S, Astono A, Ramadhan H, Raisa A
+10001892||Tak Sanggup Lagi||Rossa||2||||Aji Mirza Hakim
+10001899||Terlalu Cinta||Rossa||14||||Yovie Widianto
+10001905||Asmara||Setia Band||6||||Charly VH
+10001912||Heavy Rotation||JKT48||13||||
+10001920||Melekat Di Jiwa||Kerispatih||1||||Badai Kerispatih
+10001924||Perpisahan Termanis||Lovarian||1||||
+10001925||Putih Abu-Abu||Blink||1||||Shelly
+10001928||Sendiri Lagi||Blink||2||||Beage
+10001931||Terlambat||Adera||1||||Abietyasakti K.K
+10001936||Rahasia Besar||Govinda||1||||Ade 'Govinda'
+10001938||Bukan Milikmu Lagi||Agnez Mo||1||||Ari Bias, Mufari
+10001940||Tanpa Kekasihku||Agnez Mo||1||||Dewiq
+10001943||Tak Ada Logika||Agnez Mo||1||||Yudis Dwikorana, Yoyo
+10001952||Sorry Jack||2 Racun||1||||Buy Akur, Yudhi AR
+10001955||Arti Cinta||Ari Lasso||2||||Ricky FM, Ari lasso
+10001962||Cinta Terakhir||Ari Lasso||4||||Irfan, Samsons, Ari Lasso
+10001969||1 Atau 2||Gamma1||9||||Heri Susanto
+10001992||Hanya Untukmu||Ten 2 Five||1||||Frankun Darmadi
+10001993||Boy Band||Tipe-X||14||||
+10001994||Pujaan Hati||Yangseku||1||||Yangseku
+10001997||Cinta Terbaik||Cassandra||26||||Choky 'Cassandra'
+10002003||Pupus||Dewa 19||11||||Ahmad Dhani
+10002007||Cobalah Mengerti||Peterpan, Momo Geisha||4||||Lukman, Ariel
+10002013||Kangen||Dewa 19||22||||Ahmad Dhani
+10002014||Kamulah Satu-Satunya||Dewa 19||3||||Ahmad Dhani, Erwin
+10002015||Elang||Dewa 19||2||||Ahmad Dhani
+10002016||Cukup Siti Nurbaya||Dewa 19||1||||Ahmad Dhani
+10002017||Cintakan Membawamu Kembali||Dewa 19||2||||Ahmad Dhani
+10002018||Aku Milikmu||Dewa 19||4||||Ahmad Dhani, Andra, Ari
+10002020||Orang Ketiga||Hivi!||1||||
+10002029||Cinta Untuknya||Naif||1||||
+10002033||Bebaskan Diriku||Armada||9||||
+10002045||Pergilah Kasih||D'Masiv||3||||Tito Sumarsono
+10002046||Sandiwara Cinta||Repvblik||18||||Andi Deris
+10002074||Cari Berkah||Wali||1||||Adibal Sahrul
+10002083||Ujung Aspal Pondok Gede||Iwan Fals||1||||
+10002087||Apa Kabar Sayang||Armada||5||||Rizal, Radha, Mai
+10002092||1 Jam||Zaskia Gotik||3||||R. Kerta
+10002129||Butiran Debu||Terry||1||||Ribas
+10002131||Perahu Kertas (OST Perahu Kertas)||Maudy Ayunda||2||||Dewi Lestari
+10002134||Eeeaa||Coboy Junior||4||||Patrick Effendy
+10002153||Ajari Aku Cara Mencintaimu||Jamrud||1||||Aziz MS
+10002155||Cinta Tak Mungkin Berhenti||Tangga||1||||Harry Budiman, Dennis Nussy, Johandi Yahya
+10002194||Harus Terpisah||Cakra Khan||2||||Aldi Nada Permana
+10002200||Dia||Sammy Simorangkir||7||||Eric
+10002205||Kimi No Koto Ga Suki Dakara||JKT48||1||||
+10002206||Jarang Pulang||Lina Lady Geboy||1||||Tjahjadi, Ishak
+10002207||Berondong Tua||Siti Badriah||38||||Endang Raes
+10002210||Rindu Kamu||Maia||1||||
+10002234||Kecuali Kamu||Kotak||2||||Dewiq, Pay, Kotak
+10002242||Arjunanya Buaya||Inul Daratista||10||||Yodiz
+10002247||Kesakitanku||Ashanty||1||||Ashanty
+10002251||Tentang Cinta||Ipang||1||||
+10002272||Kaulah Segalanya||Sammy Simorangkir||1||||Tito Sumarsono
+10002278||Mama Papa Larang||Judika||16||||Judika
+10002284||DiReject||Jenita Janet||1||||Gilang Wahyudi
+10002289||Bukan Cinta Biasa||Rossa, Bebi Romeo||2||||Bebi Romeo
+10002292||Separuh Nafas||Dewa 19||16||||Andra Ramadhan, Ahmad Dhani
+10002306||Masih Bisa||D'Masiv||1||||Rian, Benny Hadislani
+10002316||Malaikat Juga Tahu||Glenn Fredly, Bakuucakar, The||1||||Dewi Lestari
+10002335||Cinta Sejati||Bunga Citra Lestari||7||||
+10002357||Selingkuh Di Belakangku||Lacy Band||1||||
+10002361||Sumpah Ku Mencintaimu||Seventeen||2||||Herman
+10002365||Kata Pujangga||Ridho Rhoma, Sonet 2 Band||2||||Rhoma Irama
+10002383||Aishiteru 3||Zivilia||2||||
+10002397||Berharap Tak Berpisah||Delia||1||||
+10002410||Mata Ke Hati||Hivi!||1||||
+10002411||Baby Baby Baby||JKT48||2||||
+10002412||Sekuat Hati||Last Child||2||||Virgoun
+10002414||Janji Manismu||Terry||2||||Adam Ahmad, Aishan
+10002439||Anti Playboy||Rainbow||3||||
+10002443||Cinta Butuh Waktu||Vierratale||1||||Kevin Aprilio
+10002446||Gerimis Mengundang||Budi Doremi, Brenda||1||||Saari Amri
+10002450||Ku Tak Bisa||Adista||2||||
+10002484||Aku Yang Tersakiti||Judika, Kotak||11||||Judika
+10002486||ABG Tua||Ratna Antika||1||||Iis Pl4t Band
+10002494||Jodoh Pasti Bertemu||Afgan||1||||Bemby Noor
+10002507||Langit Bumi||Wali||2||||Apoy
+10002511||Terpukau||Astrid||1||||Ade 'Govinda'
+10002529||Di Atas Awan||Nidji||1||||Nidji
+10002537||Aku Memilih Setia||Fatin||4||||Muhammad Fredy Harahap
+10002546||Terhebat||Coboy Junior||1||||Patrick Effendy
+10002552||Aku Ada Yang Punya||KimMi||1||||Bembi Noor
+10002596||Si Udin Bertanya||Wali||1||||Apoy
+10002603||Izinkan Aku Mencintaimu||Repvblik||1||||
+10002620||Lumpuhkan Ingatanku||Geisha||7||||Roby Satria
+10002624||Dua Hati||Siti Liza||1||||Arnold D Nainggolan
+10002641||Asmara Terindah||Ungu||1||||
+10002670||Sampai Akhir||Judika, Duma Riris||3||||Judika
+10002683||Jadilah Legenda||Superman Is Dead||1||||JRX
+10002696||1000 Alasan||Zaskia Gotik||37||||Hendra Starlight
+10002725||Masa Lalu||Inul Daratista||1||||Miswan Samudra
+10002729||Suamiku Kawin Lagi||Siti Badriah||3||||Endang Raes
+10002732||Ajari Aku Tuhan||Zaskia Gotik||1||||Endang Raes
+10002736||Jack Bahlul||2 Racun||1||||Buy Akur
+10002754||Rahasia Hati||Nidji||10||||Giring
+10002757||Di Ujung Jalan||Samsons||6||||Irfan
+10002784||Cintaku Istimewa||Siti Liza||1||||Siti Liza
+10002794||Basah Basah (Koplo)||Mella Anjani||1||||Endang Raes
+10002797||Fortune Cookie in Love||JKT48||4||||
+10002805||Matahariku||Agnez Mo||13||||Yuan Passer
+10002806||Teruskanlah||Agnez Mo||6||||Dewiq, Pay
+10002808||Ada Yang Hilang||Ipang||1||||
+10002810||Demi Cinta||Kerispatih||12||||Badai
+10002817||Seperti Mati Lampu||King Nassar||10||||Pasha Ungu
+10002819||Selimut Tetangga||Repvblik||1||||Repvblik
+10002828||Jangan Pergi||Killing Me Inside||1||||
+10002830||Cahaya Kecil (OST Cahaya Kecil)||/rif, Petra Sihombing||5||||
+10002843||Bara Bere||Siti Badriah||2||||Endang Raes
+10002863||Mantan Terindah||Raisa||3||||Yovie Widianto
+10002864||Cantik||Kahitna, Yovie And Nuno, 5Romeo||2||||Yovie Widianto
+10002867||Penipu Hati||Tata Janeeta||2||||Tata Janeeta, Franky
+10002901||Kolam Susu||Musikimia||1||||Yok Koeswoyo
+10002918||Belati Tuhan||Superman Is Dead||1||||Bobby Kool, JRX, Prima 'Geeksmile'
+10002920||Terlatih Patah Hati||Rain, The, Endank Soekamti||4||||Indra Prasta
+10003004||Sumpah Dan Cinta Mati||Nidji||4||||Giring
+10003006||Hikayat Cinta||Andra And The Backbone||1||||
+10003008||Teka-Teki||Raisa||1||||
+10003014||Kamu Cantik Kamu Baik||Lyla||1||||Naga 'Lyla'
+10003016||Bang Jono (Remix Version)||Zaskia Gotik||21||||Yogi
+10003030||Tak Pernah Ternilai||Last Child||1||||Virgoun Teguh Putra
+10003079||Baku Jaga||Ungu||1||||Ungu
+10003085||Klepek Klepek||Hesty Klepek Klepek||1||||Papa T. Bob
+10003091||Oplosan||Soimah||2||||Nur Bayan
+10003105||Akhir Cinta||Panbers||1||||Benny Panjaitan
+10003110||Deritaku||Panbers||1||||Benny Panjaitan
+10003111||Cinta Abadi||Panbers||1||||Benny Panjaitan
+10003112||Cinta Dan Permata||Panbers||1||||Benny Panjaitan
+10003144||Mantan Terbaik||Govinda||1||||Ade 'Govinda'
+10003179||Rahasia Hati||Element||5||||Ferdy, Harry Budiman
+10003182||Seisi Hati||Seventeen||1||||Herman
+10003185||Janji Suci||Yovie And Nuno||10||||Yovie Widianto
+10003189||Karena Cinta||Joy Tobing||2||||Glenn Fredly
+10003197||Separuh Aku||NOAH||8||||David Albert, Ihsan Nurrachman
+10003198||Hidup Untukmu Mati Tanpamu||NOAH||2||||Ariel, Ryan 'D'Masiv'
+10003199||Ini Cinta||NOAH||2||||Ariel
+10003212||Hijrah Cinta||Rossa||3||||Melly Goeslaw
+10003222||1 Malam||D Bagindas||1||||Michael Christian
+10003229||Esok Kan Bahagia||D'Masiv, Ariel NOAH, Giring Ganesha, Momo Geisha||1||||Ryan "D'Masiv"
+10003231||Takkan Terganti||Merpati Band||1||||
+10003249||Kekasih||Pance Pondaag||1||||Pance Pondaag
+10003265||Usah Kau Harap||Mercys||1||||Charles Hutagalung
+10003350||Remuk Jantungku||Geisha||1||||Roby
+10003351||Tak Kan Pernah Ada||Geisha||1||||Roby
+10003352||Pergi Saja||Geisha||1||||Roby Satria
+10003368||Lebih Baik Putus||Winner, The||1||||Winner
+10003396||Nirmala||Siti Nurhaliza||2||||Pak Ngah, Che'Kem
+10003418||Jangan Cintai Aku Lagi||Imey Mey||1||||
+10003424||Sang Dewi||Jodie||1||||
+10003459||Yang Terlupakan||Iwan Fals||1||||Iwan Fals
+10003466||Cinta||Vina Panduwinata||4||||Chrisye, Adjie Soetama
+10003473||Katakan Sejujurnya||Armada||2||||Rinto Harahap
+10003486||Dengarkan Aku||Seventeen||1||||Ifan Herman, Yudhi
+10003487||Jamin Rasaku||Wali||1||||Apoy
+10003490||Dengarlah Bintang Hatiku||Demeises||1||||
+10003548||Kamu Yang Kutunggu||Rossa, Afgan||1||||Andi Rianto
+10003552||Sama Sama Selingkuh||Siti Badriah, Endang Raes||1||||Endang Raes
+10003558||Aku Harus Sendiri||Geisha||1||||Roby Satria
+10003571||Kereta Malam||Juwita Bahar||1||||Rhoma Irama
+10003572||Simalakama||Juwita Bahar||1||||Yopie Latul
+10003573||Positive Thinking||Kobe||1||||
+10003574||Terlalu Lama Sendiri||Kunto Aji||1||||
+10003590||Pergi Pagi Pulang Pagi||Armada||16||||Armada
+10003606||Sunset Di Tanah Anarki||Superman Is Dead, Brianna Simorangkir||3||||JRX, Bobby Kool
+10003618||Tanpa Cinta||Yovie And Nuno||4||||Yovie Widianto
+10003620||Cinta Putih||Kerispatih||3||||Pay, Ayat, Sandy
+10003625||Kesalahan Yang Sama||Kerispatih||3||||Badai Kerispatih
+10003626||Lagu Rindu||Kerispatih||2||||Badai Kerispatih
+10003631||Ancur||Iwan Fals||1||||Azis MS
+10003640||Sampai Kau Jadi Milikku||Judika||1||||Judika
+10003649||1000 Tahun Lamanya||Tulus||1||||Pongki Barata
+10003679||Sakitnya Tuh Disini||Cita Citata||2||||Tjahjadi
+10003683||Aku Akan Berjuang||JKT48||2||||
+10003734||Ayah Aku Mohon Maaf||Ebiet G. Ade||2||||
+10003762||Kamulah Takdirku||Nagita Slavina, Raffi Ahmad||3||||Melly Goeslaw
+10003772||Satukanlah Hati Kami||Dian Piesesha||1||||Pance F. Pondaag
+10003775||Kalimera Athena||Cita Citata||1||||Doel Sumbang
+10003776||Perawan Atau Janda||Cita Citata||16||||Tjahjadi Ishak
+10003781||Hati Tak Bertuan||Rossa||1||||
+10003782||Istana Bintang||Setia Band||1||||Charly
+10003793||Goyang Dumang||Cita Citata||25||||Tjahjadi Ishak
+10003812||100% Cintaku||D Bagindas||1||||Mike
+10003816||Bernafas Tanpamu||Last Child||2||||Virgoun T Putra
+10003831||Ada Aku Disini||Dhyo Haw||3||||
+10003866||Aku Lelakimu||Virzha||12||||Anang Hermansyah
+10003872||Lapang Dada||Sheila On 7||3||||Eross
+10003891||Aku Mah Apa Atuh||Cita Citata||2||||Tjahjadi Ishak
+10003910||Kau Pikir Kaulah Segalanya||EdanE||2||||
+10003914||Seluruh Cinta||Siti Nurhaliza, Cakra Khan||4||||
+10003936||Meriang (Merindukan Kasih Sayang)||Cita Citata||3||||
+10003937||Benci Untuk Mencinta||Endank Soekamti, Naif||3||||
+10003938||Seperti Itu||Syahrini||1||||Melly Goeslaw
+10003975||Tak Mampu Pergi||Sammy Simorangkir||1||||
+10003978||KuasaMu||Bunga Citra Lestari||2||||Andi Rianto, Arie SW
+10004001||Pengorbanan Cinta||Setia Band||1||||Moh. Charly VH
+10004018||Aku Milikmu||Judika||2||||Andra, Ahmad Dhani, Ari Lasso
+10004043||Sendiri Saja||Ikke Nurjanah||1||||Edi Nuansa
+10004047||Angin Kencang||Noh Salleh||1||||Noh Salleh
+10004053||Jakarta Hongkong||Siti Badriah||1||||Endang Raes
+10004054||Melanggar Hukum||Siti Badriah||9||||
+10004056||Ada Gajah Dibalik Batu||Wali||5||||Apoy
+10004057||Tarik Selimut||Zaskia Gotik||6||||R Koeta, Yogi Gaijin, Roelswara
+10004062||Geboy Mujair||Ayu Ting Ting||5||||Dadan Indriana
+10004066||Wanita Terbahagia||Bunga Citra Lestari||1||||Dewiq, Pay
+10004071||Seujung Kuku||Elvy Sukaesih||1||||H. Ukat S
+10004073||Tetap Dalam Jiwa||Isyana Sarasvati||1||||
+10004076||Oleh Oleh||Rita Sugiarto||1||||Nanang Suwito
+10004089||Punya Abang||Selvi Kitty||1||||
+10004092||Selimut Malam||Siti Badriah||1||||
+10004103||Keenakan||Siti Badriah||1||||
+10004117||Siapkah Kau Tuk Jatuh Cinta Lagi||Hivi!||1||||Hivi!, Nino Kayam
+10004126||Gejolak Asmara||King Nassar||1||||
+10004130||Terbaik Untukmu||Raffi Ahmad||1||||Ogi 'Tic Band'
+10004137||Abang Goda||Duo Serigala||3||||
+10004169||Sayang||Gamma1||1||||
+10004176||Hati Yang Kau Sakiti||Rossa||2||||Enda 'Ungu'
+10004177||Hey Ladies||Rossa||19||||Melly Goeslaw
+10004178||Takdir Cinta||Rossa||2||||Melly Goeslaw
+10004179||Tega||Rossa||1||||Aji Mirza hakim
+10004180||Terlanjur Cinta||Rossa, Pasha||2||||Yoyo Prasetyo
+10004183||Tercipta Untukku||Ungu, Rossa||1||||Oncy
+10004218||Coba Coba||Imey Mey||1||||T Jahjadi Ishak
+10004220||Menunggumu||NOAH||2||||Ariel
+10004240||Haruskah Berakhir||Ridho Rhoma, Sonet 2 Band||4||||Rhoma Irama
+10004243||Menunggu||Ridho Rhoma, Sonet 2 Band||1||||Rhoma Irama
+10004244||Aku Bukan Pilihan Hatimu||Ungu||1||||Franco Wellyjat M
+10004245||Bayang Semu||Ungu||2||||Michael P.
+10004246||Cinta Dalam Hati||Ungu||3||||Arlonsy Miraldi
+10004248||Dilema Cinta||Ungu||3||||Arlonsy Miraldi
+10004249||Disini Untukmu||Ungu||1||||Franco Wellyjat M
+10004251||Kekasih Gelapku||Ungu||3||||Franco Wellyjat M
+10004253||Saat Indah Bersamamu||Ungu||2||||Arlonsy Miraldi
+10004254||Sayang||Ungu||1||||Sigit Purnomo
+10004256||Untukmu Selamanya||Ungu||2||||Franco Wellyjat M
+10004257||Waktu Yang Dinanti||Ungu||1||||Arlonsy Miraldi
+10004288||Take It Easy||Bondan Prakoso||1||||
+10004294||Bukan Pujangga||Base Jam||1||||Adon, Aris, Adnil, Anya, Sigit, Sita
+10004300||Kala Cinta Menggoda||Chrisye||2||||Guruh Soekarno Putra
+10004309||Seperti Yang Kau Minta||Chrisye||1||||Pongki Barata
+10004313||Diantara Kalian||D'Masiv||3||||Rian D'Masiv, Yayang Ariswan
+10004314||Merindukanmu||D'Masiv||3||||Rian D'Masiv, Anji Drive
+10004317||Ruang Rindu||Letto||2||||Letto
+10004320||Hapus Aku||Nidji||3||||Ariel, Giring
+10004321||Ada Apa Denganmu||Peterpan||2||||Ariel
+10004326||Andaikan Kau Datang||Koes Plus||2||||Tonny Koeswoyo
+10004372||Friendzone||Budi Doremi||1||||
+10004387||Ditinggal Lagi||Adista, Wanna Ali||1||||
+10004394||Lumpuhkan Ingatanku||Ika D'Academy||1||||Roby Satria
+10004455||Cikini Gondangdia||Duo Anggrek||1||||Yogi
+10004476||Suara Hati||Ayu Ting Ting||1||||Fauzi KDI
+10004488||Kuperlu Kau Tuhan||Brenda||1||||
+10004520||Cinta Yang Tersakiti||Dadali||2||||
+10004572||Cinta||GAC||1||||
+10004588||Terbaik Untukmu||Tic Band||1||||
+10004592||Sambalado||Ayu Ting Ting||9||||Dadan
+10004607||Sakit Jiwa||NTRL||1||||
+10004666||Harusnya Aku||Armada||8||||
+10004685||Laila Canggung||Iyeth Bustami||2||||
+10004693||Saat Kehilangan Cinta||Zigaz Band||1||||
+10004695||Pergi Pagi Pulang Pagi||Via Vallen||1||||
+10004698||Ijuk||Iyeth Bustami||2||||
+10004702||Ekspektasi||Kunto Aji||1||||
+10004719||Kesempurnaan Cinta||Rizky Febian||1||||Atila Akbar
+10004734||Laksmana Raja Di Laut||Iyeth Bustami||2||||NN
+10004747||Sabda Cinta||Erie Suzan, Iyeth Bustami||1||||Adibal Sahrul
+10004757||Cinta Rahasia||Dygta, Gisel||2||||
+10004763||Pulang Malu Tak Pulang Rindu||Armada||5||||Armada
+10004766||Tak Seimbang||Geisha, Iwan Fals||1||||Robby Satria
+10004783||Senandung Rindu||Erie Suzan||1||||
+10004787||Yang Terlupakan||Iwan Fals, NOAH||3||||Iwan Flas
+10004830||Hujan||Pia Utopia||3||||Utopia
+10004859||Halalin Aku||Dewi Persik||2||||Aden Garpu
+10004861||Jomblo Happy||Gamma1||3||||Christian Geller, Wolfgang Boss, Dmitry Kokhanovskiy
+10004874||Ga Romantis||Lyla||2||||
+10004883||Sesuatu Yang Sempurna||Hijau Daun||1||||Dose Hudaya
+10004894||Secawan Madu||Via Vallen||11||||Abunawas, Joe Roel
+10004895||Surat Cinta Untuk Starla||Virgoun||11||||Virgoun Teguh Putra
+10004907||Zapin Melayu||Lesti||2||||Pak Ngah
+10004918||Aku Tetap Cinta||Repvblik||4||||
+10004925||Jangan Berhenti Engkau Bernyanyi||DDHEAR||1||||
+10004927||Jika Kau Mengerti||Powerslaves||1||||
+10004943||Bendera||Cokelat||2||||
+10004966||Kemesraan||Iwan Fals, NOAH, Nidji, Geisha||1||||
+10004998||Kali Kedua||Raisa||6||||
+10005009||Bersama Bintang||Drive||3||||Anji & Budi
+10005010||Selamat Tinggal||Five Minutes||1||||Ricky FM
+10005018||Pelangi Dimatamu (Acoustic)||Jamrud||3||||Azis M.S
+10005034||Pelangi Di Matamu||Jamrud||18||||Azis MS
+10005047||Birunya Cinta||Tasya Rosmala, Gerry Mahesa||2||||
+10005048||Sayang (Koplo)||Via Vallen||2||||
+10005057||Gerimis Melanda Hati||Erie Suzan||6||||Adibal Sahrul
+10005062||Goyah||Rita Sugiarto||1||||Suto Pranto
+10005066||Dia||Anji||7||||Ahmad Fredy
+10005081||Jangan Hilangkan Dia||Rossa||1||||
+10005085||Aku Yang Jatuh Cinta||Dudy Oris||2||||Yovie Widianto
+10005087||Andaikan Kau Datang||NOAH||13||||Tonny Koeswoyo
+10005119||Indah Pada Waktunya||Dewi Persik||4||||
+10005120||Ingat Kamu||Maisaka||1||||
+10005127||Kebebasan||Grassrock, Boomerang, D'Bandhits||1||||
+10005132||Kepastian||Rossa||1||||
+10005134||Korbanmu||Tata Janeeta||4||||Tata Janeeta, Franky J.P
+10005160||Selingkuh||Repvblik||1||||
+10005176||Tergila-gila||Tulus||1||||Tulus
+10005198||Monokrom||Tulus||2||||
+10005202||Mama Kaulah Bintang||Romaria||1||||
+10005214||Pokemon||Dewi Persik||1||||Don Kinol
+10005217||Cinta Terlarang||Ilir 7||1||||Vic Ilir 7
+10005230||Jadi Aku Sebentar Saja||Judika||6||||Drajat
+10005236||Penantian||Armada||4||||Rizal, Radha
+10005264||Ku Dengannya Kau Dengan Dia||Afgan||3||||
+10005290||Duka||Last Child||3||||Virgoun
+10005292||Disaat Aku Pergi||Dadali||2||||
+10005299||Cahaya||Tulus||2||||Tulus, Ari Renaldi
+10005306||Cara Lupakanmu||Gisel||3||||Gisel, Irwan Simanjuntak
+10005309||Dealova||Once Mekel||2||||Opick
+10005315||Amnesia||Al Ghazali||1||||Firman Purnama
+10005332||Cinta Dan Rahasia||Yura Yunita, Glenn Fredly||28||||Glenn Fredly
+10005341||GGS (Ganteng Ganteng Swag)||Young Lex, SkinnyIndonesian24, Reza Oktovian, Dycal||2||||Young Lex
+10005347||Takkan Pisah||Wali||2||||Apoy
+10005351||Janda Anak Satu (JAS)||Almaheera||1||||Bramiana
+10005353||Terlalu Tinggi||Juicy Luicy||5||||
+10005360||Bila Benar Sayang||Bagindas||1||||Mike 'Bagindas'
+10005368||Sakit Sakit Hatiku||Via Vallen||1||||Dadali
+10005376||Dari Hati Ke Hati||Gamma1||1||||Herry 'Gamma1'
+10005385||Mati Rasa||Kotak||1||||Kotak
+10005400||Pelangi||Boomerang||1||||
+10005401||Selamat Jalan||Tipe-X||4||||
+10005434||Kimcil Kepolen||NDX A.K.A||11||||NDX A.K.A
+10005435||Bojoku Ketikung||NDX A.K.A||1||||NDX A.K.A
+10005438||Kemarin||Seventeen||4||||Herman Sikumbang
+10005460||Bertahan||Rama||2||||
+10005462||Egois||Lesti||4||||Hendro Saki
+10005466||Karena Ku Cinta Kau||Bunga Citra Lestari||6||||Pay, Dewiq, Dian Nebula
+10005467||Ilusi Tak Bertepi||Hijau Daun||9||||Dose Hudaya
+10005516||Galih & Ratna||GAC||1||||Guruh Soekarnoputra
+10005522||Aku Rela||Repvblik||1||||
+10005541||Aku Wanita||Bunga Citra Lestari, Dipha Barus||2||||
+10005545||Memory Berkasih||Siti Nordiana, Achik Spin||10||||
+10005572||Sayang||Via Vallen||9||||Anton Obama
+10005578||#OmKoploinOm||Jenita Janet, Narji||5||||Nur Bayan
+10005593||Gurauan Berkasih||Siti Nordiana, Achik Spin||11||||
+10005648||Asal Kau Bahagia||Armada||32||||Armada
+10005655||Kisah Cintaku||NOAH||1||||Tito Sumarsono
+10005656||Kupu-Kupu Malam||NOAH||1||||Titiek Puspa
+10005675||Cinta Itu Kamu||Geisha||1||||Roby Satria
+10005688||Kekasih Bayangan||Cakra Khan||31||||Fredy Harahap
+10005711||Baik Baik Sayang||Gemala, Ririn||1||||Apoy
+10005718||Lebih Dari Cinta||Judika||1||||
+10005727||Goyang Nasi Padang||Duo Anggrek||11||||Yogi Gaijin
+10005758||Harus Berpisah||Adista||2||||Abra
+10005769||Bidadari Tak Bersayap||Anji||10||||Dommy allen
+10005773||Kejujuran||Ade AFI||1||||Isyana Sarasvati
+10005778||Dari Hati||Club Eighties||1||||
+10005798||Akad||Payung Teduh||40||||Moh. Istiqamah Djamad
+10005799||Zona Nyaman||Fourtwnty||4||||Virgoun
+10005829||Selalu Rindu||Vita Alvia||1||||Herman Anggita
+10005836||Jawab||Armada||1||||
+10005891||Aku Takut||Repvblik||13||||
+10005895||Aku Tenang||Fourtwnty||1||||
+10005912||Jangan Rubah Takdirku||Andmesh||3||||Badai
+10005923||Kangen Mantan||NDX A.K.A||2||||NDX A.K.A Familia
+10005924||Baiknya||Ada Band||3||||Marshal
+10005926||Di Persimpangan Dilema||Terry||3||||
+10005929||Bukan Diriku||Samsons||2||||Irfan
+10005930||Luluh||Samsons||3||||Irfan
+10005932||Buat Aku Tersenyum||Sheila On 7||2||||Sakti
+10005933||Benci Untuk Mencinta||Naif||12||||David, Jarwo, Pepeng
+10005936||Ditinggal Rabi||Nella Kharisma||2||||
+10005941||Menghujam Jantungku||Tompi||2||||Tompi
+10005942||Buka Hatimu||Armada||7||||Armada Band
+10005946||Jangan Salah Menilai||Tagor Pangaribuan||9||||Wences Laus Maria
+10005947||Jangan Salah Menilai||Rany Simbolon||4||||Wences Laus Maria
+10005949||Bulan Dalam Kolam||Ayu Ting Ting||1||||
+10005954||Kau Tercipta Bukan Untukku||Nella Kharisma||8||||Obbie Messakh
+10005958||Kecewa||Bunga Citra Lestari||2||||Teguh Diswanto
+10005960||Pernah Muda||Bunga Citra Lestari||1||||Dewiq
+10005979||Belah Duren||Julia Perez||7||||Randi Yusuf, Rais N, Abunawas
+10005983||1 Jam Lagi||Zaskia Gotik||3||||
+10005985||Bukti||Virgoun||6||||Virgoun Teguh Putra
+10005998||Melamarmu||Badai Romantic Project||1||||
+10006016||Remaja||Hivi!||2||||
+10006042||Bulan Dikekang Malam||Rossa||5||||Melly Goeslaw
+10006053||Seberkas Sinar||Nike Ardilla||12||||
+10006055||Mardua Holong||Omega Trio||45||||Saut Barasa
+10006096||Anak Medan||Trio Lamtama||1||||Freddy Tambunan
+10006175||Takdir Manusia||Raffi Ahmad, Nagita Slavina||2||||Siska Salman, Nico Veryandi
+10006194||Di Atas Meja||Payung Teduh||1||||
+10006210||Juragan Empang||Nella Kharisma||2||||Trondol Melody
+10006229||Dia||Cita Citata||1||||
+10006237||Jikalau Kau Cinta||Judika||12||||Ryza Ahmad
+10006238||Penak Jamanku||Via Vallen||1||||
+10006248||Bojoku #PawangKuota||Siti Badriah, Mahesa Ofki, Temon||1||||
+10006252||Gerimis Melanda Hati||Fildan, Lesti||1||||
+10006258||Tua Tua Keladi||Hesty Klepek Klepek||4||||
+10006271||Film Favorit||Sheila On 7||2||||
+10006306||MilikMu||Boomerang||1||||
+10006308||Janda Beranak Dua||Kapten||1||||
+10006334||Tolong||Budi Doremi||1||||
+10006358||Cinta Seperti Ini||Happy Asmara||3||||REZA KOTCHEN
+10006362||Bojo Galak||Via Vallen||7||||
+10006367||Menunggu Kamu||Anji||3||||ANJI
+10006369||Harus Bahagia||Yura Yunita||1||||Yovie Widianto
+10006375||Tanpa Tergesa||Juicy Luicy||1||||Dennis Juicy Luicy
+10006377||Tentang Rindu||Virzha||5||||Virzha
+10006391||Lagi Syantik||Siti Badriah||3||||Yogi, Donall
+10006419||Jika Aku Mati||Repvblik||1||||Hexa
+10006433||Tiada Guna Lagi||Repvblik||3||||Repvblik
+10006436||Sang Penggoda||Tata Janeeta, Maia Estianty||13||||Tata Janeeta
+10006447||Sayang 2||Nella Kharisma||1||||ANTON OBAMA
+10006474||Semua Tak Sama||Padi||4||||Piyu
+10006475||Sang Penghibur||Padi||1||||Piyu
+10006489||Masih Ada||Kotak||2||||
+10006499||Fana Merah Jambu||Fourtwnty||2||||
+10006511||Wegah Kelangan||Jihan Audy||3||||DanangDanzt
+10006525||Disini Dibatas Kota Ini||Nella Kharisma||2||||Zahir C. Lubis
+10006533||Dengan Caraku||Arsy Widianto, Brisia Jodie||2||||
+10006540||Jangan||Marion Jola, Rayi Putra||1||||
+10006546||Ikat Aku Di Tulang Belikatmu||Sal Priadi||1||||
+10006551||Aisyah Jatuh Cinta Pada Jamilah||DJ Akimilaku||1||||
+10006579||Kukatakan Dengan Indah||Peterpan||1||||Ariel
+10006583||Berpisah Itu Mudah||Rizky Febian, Mikha Tambayong||2||||
+10006619||Pagar Makan Tanaman (Korban Sang Penggoda)||Hijau Daun||1||||Dose Hudaya
+10006620||Kering Air Mataku||Geisha||1||||
+10006626||Yank Haus||2TikTok||1||||Sella Selly
+10006633||Khayalan Tingkat Tinggi||Peterpan||1||||Ariel
+10006637||Walau Habis Terang||Peterpan||1||||Ariel
+10006638||Yang Terdalam||Peterpan||8||||Ariel
+10006639||Sebelas Duabelas||Nella Kharisma||7||||
+10006650||Bagai Langit Dan Bumi||Via Vallen||7||||Lasio
+10006690||Cinta Beda Agama||Vicky Salamor||3||||
+10006697||Ingin Lekas Memelukmu Lagi||D'Masiv, Pusakata||2||||Rian Ekky Pradipta
+10006721||Bobo Dimana||Aliff Syukri, Nur Sajat, Lucinta Luna||1||||
+10006732||Rumpang||Nadin Amizah||1||||Nadin Amizah
+10006756||Pergi Hilang dan Lupakan||Remember of Today||1||||
+10006775||Jangan Berhenti Mencintaiku||Titi DJ||1||||
+10006776||Mana Mungkin Mendua Hati||Trio Ambisi||1||||
+10006781||Gemu Fa Mi Re||Nyong Franco||3||||
+10006793||Di Sayidan||Shaggy Dog||6||||
+10006796||Korban Janji (Guyon Waton)||Via Vallen||4||||
+10006800||Bohoso Moto||Nella Kharisma||1||||Koming
+10006806||Binti Ayahnya||Kangen Band||1||||Dhodhy Kangen
+10006822||Cinta Luar Biasa||Andmesh||20||||Faisal Resi
+10006832||Allahumma Labbaik||Sabyan||1||||
+10006839||Separuhku||Nano||1||||
+10006847||Satu-Satunya||Hivi!||1||||Febrian Nindyo
+10006849||Mungkinkah||Stinky||11||||
+10006873||Memori Berkasih||Nella Kharisma, Fery||12||||Patrick Kamis (FMC Music Sdn Bhd)
+10006879||Republik Sulap||Tony Q Rastafara||1||||
+10006899||Lebih Dari Selamanya||Lesti, Fildan||2||||
+10006900||Pelangi Baruku||Dhyo Haw||1||||
+10006912||Sayur Kol||Punxgoaran||1||||
+10006914||Cintaku Kandas||Syahrini||1||||Ade Govinda
+10006931||Selamat (Selamat Tinggal)||Virgoun, Audy||4||||Virgoun Teguh Putra
+10006951||Sampai Tutup Usia||Angga Candra||1||||Angga Candra
+10006957||Gladiator||Pas Band||1||||
+10006961||Selamat Ulang Tahun||Jamrud||6||||
+10006972||Sorai||Nadin Amizah||3||||
+10007007||High Tension||JKT48||1||||
+10007040||Biar Menjadi Kenangan||Reza Artamevia, Masaki Ueda||3||||
+10007058||Adu Rayu||Yovie Widianto, Glenn Fredly, Tulus||10||||
+10007076||Ragu||Rizky Febian||1||||Rudi Pohang, Rizky Febian, Willy Dean
+10007088||Menerka Nerka||Nagita Slavina||2||||Aan Story, Nagita Slavina
+10007093||Waktu Yang Salah||Fiersa Besari, Tantri||5||||
+10007095||April||Fiersa Besari||3||||
+10007096||Celengan Rindu||Fiersa Besari||1||||
+10007119||Pamer Bojo||Nella Kharisma||1||||Didi Kempot
+10007120||Korban Janji||GuyonWaton||4||||andrypriyanta
+10007122||Karma||GuyonWaton||2||||najatbraves
+10007125||Penak Konco||Om Wawes, GuyonWaton||1||||Dhyen Ganjar P (Om Wawes), Miga Sadewa (Bravesboy)
+10007132||Hadapi Dengan Senyuman||Dewa 19||1||||
+10007143||Untuk Kita Renungkan||Ebiet G. Ade, Adera||1||||
+10007167||Mantul Mantul||Duo Semangka||1||||AYU PRINCESS
+10007168||Tanpa Status||Lucinta Luna, Dede Satria||1||||
+10007174||Hanya Rindu||Andmesh||1||||
+10007178||Aku Takut||Nella Kharisma||1||||
+10007216||Terlalu Sayang||Denda||1||||Denda
+10007235||Sebatas Teman||GuyonWaton||1||||Ahmad Arifin
+10007237||Kartonyono Medot Janji||Denny Caknan||4||||
+10007247||Amin Paling Serius||Sal Priadi, Nadin Amizah||1||||Sal Priadi
+10007252||Kopi Lambada||Nella Kharisma||1||||Lievy Y, Yonas P, Fahmy S
+10007262||Kartonyono Medot Janji||Nella Kharisma||3||||Denny Caknan
+10007268||Apalah Cinta||Ayu Ting Ting, Keremcem||1||||Ender Cabuker
+10007275||Cinta Karena Cinta||Judika||2||||
+10007281||Satu Hati Sampai Mati||Nella Kharisma, Fery||1||||Thomas Arya
+10007284||Kasmaran||Tasya Rosmala||2||||Adibal Sahrul
+10007294||Sakit Pinggang||Gamma1||1||||HERI GAMMA1
+10007307||Saat Coba Meraih Cintamu||Caramel||1||||Pay Caramel
+10007347||Buta Hati||Naif||8||||
+10007364||Satu Hati Sampai Mati||Lala Widy, Gerry Mahesa||1||||
+10007367||Satu Nama Tetap Di Hati||Via Vallen||2||||
+10007386||Cidro||Didi Kempot||1||||
+10007387||Banyu Langit||Didi Kempot||1||||Didi Kempot
+10007389||Pamer Bojo Versi Cendol Dawet||Nella Kharisma||4||||Didi Kempot
+10007390||Mundur Alon Alon||Nella Kharisma, ILUX ID||1||||Tata Janeeta, Cempaka Apsella
+10007395||Mawar Jingga||Juicy Luicy||2||||Denis Ligia, Iqbal Siregar
+10007416||Balungan Kere||Nella Kharisma||1||||Daru (ndarboy genk), Hendra Kumbara
+10007429||Pikiran Dan Perjalanan||Barasuara||1||||Rio Alhasymi
+10007482||Benci Kusangka Sayang||Sonia||1||||
+10007505||Kasih Slow||Vita Alvia, Mona Latumahina, Cathy Rahakbauw||1||||
+10007511||Ningrat||Jamrud||1||||
+10007515||Pelukku Untuk Pelikmu||Fiersa Besari||2||||Fiersa Besari
+10007518||Halu||Feby Putri||3||||Feby Putri
+10007529||Usik||Feby Putri||2||||Feby Putri
+10007546||Aku Percaya||Anji||4||||Anji
+10007566||Titik Balik di Hidupku||Virgoun||1||||Virgoun T Putra
+10007618||Sugeng Dalu||Denny Caknan||5||||Denny Caknan
+10007626||Secukupnya||Hindia||1||||Baskara Putra
+10007657||Sekali Lagi||Ipang||1||||
+10007658||Arang Tampurung||Regita||7||||
+10007683||Ada Dia||Nurma KDI||1||||Eko Saky
+10007688||Awas Jatuh Cinta||Armada||4||||Mai Armada
+10007697||Perlahan||GuyonWaton||4||||Andry Priyanta
+10007698||Tirani||Lesti||1||||Hendro Saky
+10007704||Teman Sampai Surga||Dengarkan Dia||1||||
+10007715||Rindu Aku Rindu Kamu||Dara Ayu, Bajol Ndanu||3||||Doel Sumbang
+10007717||Garis Terdepan||Fiersa Besari||2||||
+10007725||Menghapus Jejakmu||Bunga Citra Lestari, Ariel NOAH||4||||Ariel NOAH
+10007736||Rumah Ke Rumah||Hindia||3||||
+10007738||Menepi||GuyonWaton||5||||
+10007743||Hal Hebat||Govinda||1||||Ade Govinda
+10007749||Pipi Mimi||Siti Badriah||1||||Yogi RPH, Donall
+10007752||Tak Mungkin Bersama||Judika||1||||Judika
+10007760||Tatu||Happy Asmara||1||||Didi kempot
+10007783||O.. Gitu Ya||/rif||2||||
+10007789||Kala Cinta Menggoda||NOAH||3||||Guruh Sukarno Putra
+10007790||LOS DOL||Denny Caknan||7||||Denny Caknan, Lek Dahlan
+10007792||Mengapa Kita #TerlanjurMencinta||Lyodra||1||||Yovie Widianto
+10007793||Maafkan Aku #TerlanjurMencinta||Tiara Andini||1||||Yovie Widianto
+10007796||Keliru||Ruth Sahanaya||1||||Fatur, Capung
+10007799||Kulepas Dengan Ikhlas||Lesti||1||||
+10007806||365||Tiara Andini||5||||Laleilmanino, Wizzy
+10007808||Berbeza Kasta||Alwiansyah||1||||Rajali Asmarah, Elta Record
+10007811||Bahasa Kalbu||Raisa, Andi Rianto||2||||Titi DJ, Dorie Kalmas, Andi Rianto
+10007821||Putus Atau Terus||Judika||6||||Anji (Erdian Aji Prihartanto)
+10007835||Berbeza Kasta||Kalia Siska, SKA 86, DJ Kentrung||1||||Rajali Asmarah, Elta Record
+10007850||Kopi Dangdut||Vita Alvia||12||||Fahmi Shahab, Andi Hardi
+10007854||Indonesia Jaya||Lyodra, Tiara Andini, Ziva Magnolya, Mahalini||1||||Liliana Tanoesoedibjo
+10007857||Mungkin Hari Ini Esok Atau Nanti||Anneth||1||||Anneth
+10007858||Bertaut||Nadin Amizah||8||||Nadin Amizah, Zulqi Lael Ramadhana, Mikha Angelo
+10007870||Aku Ra Mundur (Tepung Kanji)||Via Vallen||1||||James AP
+10007883||Aku Ikhlas||Denny Caknan, Happy Asmara||1||||Andika Permana Putra AFTERSHINE
+10007899||Penolong Yang Setia||Melitha Sidabutar||1||||Ronald Pangemanan
+10007904||Tanpa Batas Waktu||Ade Govinda, Fadly Padi||2||||Ade Govinda
+10007912||C.H.R.I.S.Y.E.||Diskoria, Laleilmanino, Eva Celia||10||||Laleilmanino
+10007913||Satru||Denny Caknan, Happy Asmara||5||||Denny Caknan
+10007915||Emas Hantaran||Arief, Yollanda||3||||Erwin Agam
+10007920||Cintanya Aku||Tiara Andini, Arsy Widianto||2||||Yovie Widianto
+10007935||Gak Pernah Cukup||Denny Caknan||2||||Denny Caknan, Ary SW
+10007942||Seperti Kisah||Rizky Febian||1||||Koko Iryawansyah, Rizky Febian
+10007944||Terpikat Senyummu||Idgitaf||1||||Brigita Meliala (@idgitaf)
+10007953||Bahaya||Arsy Widianto, Tiara Andini||8||||Yovie Widianto
+10007955||Cidro 2 (Duet)||Esa Risty, Wandra||1||||Didi Reog
+10007962||Aku Yang Salah||Mahalini, Nuca||1||||Pika Iskandar
+10007973||Melawan Restu||Mahalini||5||||Kandria Kananta, Mahalini, Martinus Laynardo
+10007977||Cinta Tak Direstui||Nella Kharisma||1||||Alim, Amoenk (Kadal Band)
+10007981||Mesin Waktu||Budi Doremi||3||||Budi Syahbudin
+10007994||Pisah||GuyonWaton||3||||Hieronimos Ferry Widiyatmoko, Alvian Satya
+10007997||Orang Yang Sama||Virgoun||1||||Virgoun T. Putra
+10008002||Apa Kabar Mantan||NDX A.K.A||4||||Yonanda Frisna Damara
+10008007||Seamin Tak Seiman||Mahen||1||||Petrus Mahendra, Beraldy Dean
+10008008||Angel||Denny Caknan, Cak Percil||2||||Cak Blangkon
+10008009||Lantas||Juicy Luicy||5||||Denis Ligia, Iqbal Siregar
+10008011||Aku Bukan Jodohnya||Tri Suaka||1||||Tri Suaka
+10008017||Bawa Aku Ke Penghulu||Lesti||2||||Adibal Sahrul
+10008021||Waktu Dan Perhatian||Rimar||1||||Andmesh Kamaleng
+10008033||Widodari||Denny Caknan, GuyonWaton||5||||Denny caknan, Nurbayan
+10008041||Mendung Tanpo Udan||Denny Caknan, Ndarboy Genk||1||||Kukuh Prasetya Kudamai
+10008042||Bagaimana Kalau Aku Tidak Baik Baik Saja||Judika||6||||Judika
+10008047||Pesan Terakhir||Lyodra||7||||Mario G. Klau
+10008051||Jang Ganggu||Shine of Black||1||||Leazzy S.O.B
+10008052||Mendung Tanpo Udan||Ndarboy Genk||2||||Kukuh Prasetya Kudamai
+10008058||Bisa Tanpamu||Andmesh||2||||Andmesh Kamaleng
+10008074||Buktikan||Tiara Andini, Vidi Aldiano||2||||Bemby Noor, Yang Sultan Bestari, Emil Mahenra
+10008079||Sisa Rasa||Mahalini||10||||Mahalini, Tintin
+10008088||Berakhir Sama||ECLAT, Kaleb J||1||||Yeshua Abraham, Kaleb Jonathan, Louis Xander Liang, Belanegara Abe, Abraham Edo
+10008102||Bila Nanti||Nabila Maharani||1||||Tri Suaka
+10008105||Yang Terdalam||NOAH||3||||Ariel
+10008106||Haruskah Aku Mati||Arief||2||||Sapto, Wanda Mahardika
+10008109||Kepada Hati||Cakra Khan||1||||Ahmad Fredy
+10008110||Janji Kita||Mahalini, Nuca||2||||Resa Husin
+10008111||Takut||Idgitaf||1||||Brigita Meliala
+10008112||Bintang Di Surga||NOAH||3||||Ariel
+10008120||Menghapus Jejakmu||NOAH||4||||Ariel
+10008121||Merasa Indah||Tiara Andini||6||||Yovie Widianto
+10008123||Dibanding Dia||Lyodra||1||||Ade Govinda, Jeje Govinda
+10008125||Pergi Dan Jangan Kembali||Vicky Salamor, Justy Aldrin, Toton Caribo, Jacson Zeran||1||||Vicky Salamor, Justy Aldrin, Toton Caribo, Jacson Zeran
+10008131||Kok Iso Yo||GuyonWaton||1||||Andry Priyanta
+10008135||Sahabat Dulu||Prinsa Mandagie||1||||Pika Iskandar
+10008137||Madiun Ngawi||Happy Asmara, Denny Caknan||2||||Sonny Josz
+10008143||Cinta Sampai Mati||Kangen Band||2||||Ayu Rizki Yani
+10008152||Bertahan Terluka||Fabio Asher||2||||Trakast, Fabio Asher
+10008153||Tutur Batin||Yura Yunita||1||||Yura Yunita, Donne Maula
+10008156||Salah||Rizky Febian||1||||Melly Goeslaw
+10008162||Pecah Seribu||Yeni Inka||1||||Toto Ario
+10008166||Buih Jadi Permadani||Yeni Inka||1||||Saari Amri
+10008167||Ada Untukmu||Tyok Satrio||1||||Danurseto Bramana Adhi
+10008168||Tania||Vicky Salamor||1||||Robby Lailossa
+10008169||Bale Pulang||Justy Aldrin, Toton Caribo||1||||Justy Aldrin and Toton Caribo
+10008170||Mengejar Badai||Irwan||1||||Nanang Suwito
+10008171||Bidadari Cinta||Gerry Mahesa, Tasya Rosmala||1||||Adibal
+10008177||Tak Sedalam Ini||Arief||3||||Ajhay Pasma
+10008180||Peri Cintaku||Ziva Magnolya||1||||Yovie Widianto
+10008182||Hati-Hati Di Jalan||Tulus||4||||Tulus, Ari Renaldi
+10008184||Janji Setia||Tiara Andini||2||||Asta Andoko, Ramadhan Handy, Tiara Andini
+10008185||Hingga Tua Bersama||Rizky Febian||1||||Fery Hudaya
+10008186||Sewu Kutho||Denny Caknan||2||||Ari wibowo, Didi Kempot
+10008187||Sekali Ini Saja||Rossa||1||||Glenn Fredly
+10008189||Lilakno Lungaku||Happy Asmara||1||||Shasi Losskita, Tegar Binarta
+10008190||Kisah Sempurna||Mahalini||4||||Mahalini, Adrian Rahmat Purwanto, Marco Steffiano, Keke Kananta
+10008197||Rumah Singgah||Fabio Asher||8||||Trakast, Fabio Asher
+10008202||Jangan Tutup Dirimu||Stinky||1||||Ndank Hartono
+10008212||Tak Ingin Usai||Keisya Levronka||7||||Mario G. Klau
+10008218||Antara Nyaman Dan Cinta||Ona Hetharua||1||||Kenny batmomolin, Moerits Rupilu
+10008221||Kok Iso Yo||Denny Caknan, Bagus GuyonWaton||1||||Andry priyanta
+10008226||Koyo Jogja Istimewa||Ndarboy Genk||7||||Daru Jaya (Ndarboy)
+10008227||Sio Ado||Mnukwar||1||||Yorfix
+10008228||Ojo Dibandingke||Denny Caknan, Abah Lala||3||||Abah Lala
+10008238||BALE PULANG II||Toton Caribo, Justy Aldrin||1||||Justy Aldrin, Toton Caribo
+10008239||Putri Iklan||Keljo, Azhardi, Devin Adamn||1||||Moh. Charly VH.
+10008240||Tuhan Ku Tak Sanggup||Novia Bachmid||1||||Tintin, Indah Anastasya
+10008251||Bojo Loro||Denny Caknan, Happy Asmara, Yeni Inka||5||||Haris Senopati
+10008255||Lagi Lagi Ku Gak Bisa Tidur||3 Pemuda Berbahaya, Sallsa Bintan||4||||Dida Hati
+10008257||Parcuma (Beta Susah Di Rantau) (Ambon)||Pieter Saparuane, Mersye Sapulette||3||||Arie Sapulette
+10008261||Di Atas Normal||NOAH||1||||Ariel Noah
+10008262||Dermaga Biru||Maulana Ardiansyah||4||||Emen
+10008263||Ajarkan Aku||Arvian Dwi||1||||Arvian Dwi Pangestu
+10008264||Andai Tak Berpisah||Dosni Roha, Icha Annisa||1||||Erwin Agam
+10008269||Tertawan Hati||Awdella||4||||Audree Dewangga, David Elsandro, Yotari Kezia, Awdella
+10008270||Full Senyum Sayang||Evan Loss||2||||Evan Loss, Erri Gumregah
+10008273||Tiara||Difarina Indra, Fendik Adella||1||||M. Nasir
+10008279||Sekali Seumur Hidup||Lesti||2||||Adibal
+10008284||Casablanca||Nuha Bahrin, Naufal Azrin||1||||Daqmie, Abdulkarim Al Ali, Wan Saleh
+10008294||Dunia Tipu-Tipu||Yura Yunita||1||||Yura Yunita, Donne Maula
+10008298||Biarlah Berpisah||Thomas Arya, Yelse||1||||Rajali Asmara, Elta Record
+10008299||PPKM (Puadai Pappoji Ko Mappojiki)||Selfi Yamma||3||||Adi Sahrul Hartono
+10008305||Pilihan Yang Terbaik||Ziva Magnolya||1||||Seto Bramana
+10008307||Alun Alun Nganjuk||Denny Caknan, Yeni Inka||1||||Ndaru Antariksa
+10008309||Diri||Tulus||1||||Muhammad Tulus, Ari Renaldi
+10008313||Sang Dewi||Lyodra, Andi Rianto||12||||Andi Rianto, Titi Dj
+10008316||Peneman Malam Sepi||OKAAY||1||||anindyo baskoro (ninokayam), arya aditya ramadhya (lalepsi), ilman ibrahim isa (ilmanibrahim)
+10008325||Tiara||Farel Prayoga, Mufly Key||1||||M. Nasir
+10008328||Klebus||Denny Caknan||1||||Andry Priyanta
+10008329||Asmalibrasi||Soegi Bornean||1||||Dimec Tirta, Erick
+10008336||Andaikan Kau Datang||Andmesh||2||||Tonny Koeswoyo
+10008345||Tiara||Arief||4||||M. Nasir
+10008351||Satu-Satu||Idgitaf||1||||Brigita Meliala
+10008352||Klebus||GuyonWaton||2||||Andry Priyanta
+10008353||Genit||Endank Soekamti, Tipe-X||16||||Tresno Riyadi
+10008366||Rembulan Malam||Arief||5||||Arief
+10008369||Teteg Ati||Damara De||1||||Ilham Putratama, Febry Arya
+10008376||Sitinaja Musalai||Yoanna Bella||1||||Zankrewo
+10008378||Mantan||Fresly Nikijuluw||2||||Reno Titahena
+10008408||Lupa Nama Ingat Rasa||OKAAY||3||||Anindyo Baskoro, Arya Aditya Ramadhya, Ilman Ibrahim Isa
+10008414||Evaluasi||Hindia||1||||Baskara Putra
+10008419||Uperrengi||Selfi Yamma||2||||Selfi Yamma
+10008421||Deritaku||David Bayu||2||||David Bayu
+10008422||Teteg Ati||Denny Caknan||1||||Ilham Putratama, Febry Arya
+10008429||Siapkah Kau 'Tuk Jatuh Cinta Lagi||Endank Soekamti, Hivi!||1||||Lale, Ilman, Nino Kayam, Febrian Nindyo, Ilham Aditama
+10008434||Apa Mungkin||Bernadya||1||||Bernadya
+10008436||Kembali Pulang||Suara Kayu, Feby Putri||1||||Feby Putri, Audree Dewangga, Ingrid Tamara
+10008441||Mau Yang setia||Hendri Endico, Justy Aldrin||1||||Hendri Endico
+10008446||Rungkad||Happy Asmara, Saxobrothers, The||16||||Vicky Prasetyo
+10008457||Hilang Tanpa Bilang||Meiska||2||||Yafi Aria, Anastasya Luh Pandansuri
+10008461||Sayangnya||Juicy Luicy||3||||Denis Ligia, Iqbal Siregar
+10008462||Panek Diawak Kayo Diurang||Frans, Fauzana||1||||Frans, Fauzana
+10008464||Relaku Mengalah||Rheka Restu||1||||Wanda Mahardika
+10008467||Khayalan Tingkat Tinggi||NOAH||2||||Ariel NOAH
+10008470||Satu Rasa Cinta||Difarina Indra, Fendik Adella||4||||Ajay Pasma
+10008473||Tampar||Juicy Luicy||2||||Denis Ligia, Iqbal Siregar
+10008474||Semata Karenamu||Mario G. Klau||33||||Mario G Klau
+10008475||Usai||Tiara Andini||9||||Andmesh Kamaleng
+10008484||Ayah Ibu||Karnamereka||2||||Herida Baris Seto
+10008486||Tak Segampang Itu||Anggi Marito||7||||Mario G Klau
+10008487||Semata Karenamu||Happy Asmara||3||||Mario G Klau
+10008490||Mesra-Mesraannya Kecil-Kecilan Dulu||Sal Priadi||2||||Salmantyo Ashrizky Priadi
+10008498||Ada Di Mana Mana||Selfi Yamma||3||||Adibal Sahrul
+10008502||Monolog||Pamungkas||3||||Baharzah Martin, Pamungkas, Yayugaya
+10008504||Ku Puja Puja||Vita Alvia||1||||Ipank
+10008507||Mangku Purel||Denny Caknan, Anji||1||||Nurbayan
+10008508||Misal||Yovie And Nuno||2||||Arsy Widianto
+10008510||Tangis Terakhir||Dewa 19, Ari Lasso||1||||Ahmad Dhani
+10008511||Doa Untuk Mantan||Anji, PT. Menggelora||1||||Anji, PT Menggelora
+10008512||Hanya Bisa Merindu||Repvblik||1||||Ruri Repvblik
+10008517||Terlalu Rindu||Mario G. Klau, Angelo Klau||1||||Mario G Klau
+10008522||Begitu Indah||Padi Reborn||1||||Piyu
+10008531||Bintang Kehidupan||Adlani Rambe, Alessa||1||||Deddy Dores
+10008537||Runtah||Azmy Z, IMP ID||4||||Doel Sumbang
+10008538||Rasah Bali||LAVORA, Ena Vika||5||||Dika Fajar
+10008546||L||HAL||1||||hal stage
+10008547||Serana||for Revenge||3||||Moch Boniex Nurwega
+10008552||Bento||Iwan Fals||4||||Iwan Fals, Naniel
+10008553||Kemesraan||Iwan Fals||1||||Jhonny Sahilatua, Franky Sahilatua
+10008554||Bohongi Hati||Mahalini||7||||Mahalini, Tintin
+10008556||Saat Kau Telah Mengerti||Virgoun||1||||Virgoun Teguh Putra
+10008558||No Comment||Bunda Corla||1||||Tjahjadi Djajanata, Ishak
+10008564||Surti Tejo||Jamrud||1||||Azis Siagian
+10008566||Badai Telah Berlalu||Diskoria, Laleilmanino, Bunga Citra Lestari||1||||Laleilmanino
+10008580||Andai Tak Berpisah||Andra Respati, Gisma Wandira||3||||ERWIN Agam
+10008585||Ikan Dalam Kolam||Gita KDI||2||||Husein Bawafie
+10008586||Stasiun Balapan||Denny Caknan||1||||Didi Kempot
+10008590||Tanpa Rasa Bersalah||Fabio Asher||5||||Fabio Asher, Trakast, Yafi Aria
+10008591||Ego||Lyodra||2||||Mario G. Klau
+10008596||Bawalah Aku Pergi (OST: Mantan Tapi Menikah)||Rossa||1||||Budi Syahbudin
+10008600||Sial||Mahalini||6||||Andmesh Kamaleng, Mahalini, Mohammed Kamga
+10008601||Sakit Gigi||Yeni Inka, Ageng Music||2||||Obbie Messakh
+10008604||Komang||Raim Laode||7||||Raim Laode
+10008605||Ikan Dalam Kolam||Happy Asmara||8||||Husein Bawafie
+10008607||Sialan||Adrian Khalif, Juicy Luicy||13||||Denis Ligia, Iqbal Siregar, Faishal M Fasya, Mohammed Kamga
+10008617||Sanes||GuyonWaton, Denny Caknan||3||||Andry Priyanta
+10008619||Ada Selamanya||for Revenge, Fiersa Besari||1||||Arief Ismail, Moch Boniex Nurwega
+10008627||Biar Gendut Tetap Kucinta||3 Pemuda Berbahaya, Sallsa Bintan||4||||Cunduk Hura Hura
+10008628||Menyesal||Yovie Widianto, Lyodra, Tiara Andini, Ziva Magnolya||7||||Yovie Widianto
+10008629||Anugerah Terindah||Andmesh||14||||Andmesh Kamaleng
+10008645||Perceraian Lara||Ipank||5||||G. Diana
+10008663||Trauma||Elsya, Aan Story||2||||Aan Story, Prilly Latuconsina
+10008666||Tak Di Tanganku||Juicy Luicy, Mawar De Jongh||3||||Denis Ligia, Iqbal Siregar, Faishal Muhammad Fasya
+10008673||Lupakan Cinta||Rossa||1||||Tintin, Mahalini
+10008688||Risalah Hati||Dewa 19, Virzha||1||||Ahmad Dhani
+10008690||Khanti (OST: Bidadari Bermata Bening)||Rossa||1||||Melly Goeslaw
+10008696||Raiso Dadi Siji||Yeni Inka, Kevin Ihza||1||||Gendhut Gilaz
+10008700||Abadi||Dendi Nata, Hendra Kumbara||1||||Dendi Nata, Hendra Kumbara
+10008711||Bukan Ku Tak Sudi||Setia Band||1||||Mohammad Ramlee, Mohd Riza, Syed Abubakar, Syed Azlan
+10008715||Sia Sia Mengharap Cintamu||Cut Rani||1||||Gustrian Geno
+10008724||Nemen||Happy Asmara||4||||Gildcoustic
+10008734||Ikan Dalam Kolam||Arlida Putri, Dike Sabrina||5||||Husein Bawafie
+10008736||Jakarta Hari Ini||for Revenge, StereoWall||4||||Moch Boniex Nurwega, Rizki Djaling
+10008738||Itaneng Tenri Bolo||Niken Salindry||10||||Ahmad Ridha
+10008739||Bahasa Cinta||Novia Bachmid||1||||Pay Burman, Dewiq, Novia Bachmid
+10008750||Mencintaimu||Krisdayanti||2||||Bebi Romeo
+10008751||Buru Buru||Mahalini||1||||Mahalini, Rizky Febian, Mohammed Kamga, Kenny Gabriel
+10008752||Tak Pantas Terluka||Keisya Levronka||1||||Mario G. Klau
+10008762||Ikan Dalam Kolam||Yeni Inka||1||||Husein Bawafie
+10008766||Aku Yang Terluka||Judika||1||||Ifan Dewanto
+10008771||Jiwa Yang Bersedih||Ghea Indrawari||2||||Ghea Indrawari
+10008783||Besok Kita Pergi Makan||Sal Priadi||1||||Salmantyo Ashrizky Priadi
+10008790||Tega||Tiara Andini||4||||Tiara Andini, Andmesh
+10008797||Akhir Sebuah Cerita||Mas Bejo Hiyo||1||||Evie Tamala, Friez Arsudi
+10008798||Nemen||Niken Salindry||1||||Gilga Sahid
+10008805||Kehilangan||Idgitaf||1||||Brigita Meliala
+10008826||Nemen HipHop Dangdut Version||NDX A.K.A||18||||Yonanda Frisna Damara
+10008830||Nemen||Denny Caknan, Gilga Sahid||13||||Gildcoustic
+10008834||Tutupono||Aftershine||1||||Hasantoysss
+10008839||Luka Sekerat Rasa||Yollanda, Arief||1||||Erwin Agam
+10008845||Dadi Siji||Denny Caknan, Miqbal GA||2||||Miqbal G A
+10008847||Ekspektasi||Aruma, Raim Laode||2||||M. Aditia Sahid, Raim Laode
+10008848||Nemu||Gilga Sahid||2||||Iskandar Hanafi
+10008850||Dumes||Om Wawes, GuyonWaton||4||||Andry Priyanta
+10008851||Mimpi||Putri Ariani, Maia Estianty||1||||Teddy Sudjaja
+10008860||Cincin||Hindia||5||||Baskara Putra, Enrico Octaviano, Gamaliel Tapiheru
+10008869||Tak Mampu Lupa||Putri Ariani||1||||Ziming Weng
+10008871||Aku Memilihmu||Brisia Jodie, Fabio Asher||1||||Trakast, Yafi Aria
+10008873||Cundamani||Denny Caknan||4||||Denny Caknan
+10008882||Tak Kan Ada Cinta Yang Lain||Dewa 19, Ello||3||||Dhani Ahmad Prasetyo
+10008886||Tentang Percaya||Mario G. Klau, Jholand Mc, Niba Fred||1||||Mario G. Klau
+10008890||Alexandra||Hindia||1||||Baskara Putra, Enrico Octaviano, Kamga
+10008891||Bubrah||Happy Asmara||1||||Dimas Agung
+10008909||Nemu||Happy Asmara||1||||Iskandar Hanafi
+10008923||Kisinan||Masdddho||2||||Masdddho
+10008925||Dumes||Difarina Indra||1||||Andry Priyanta
+10008931||Pelanggaran||GuyonWaton||4||||Bagus Muhammad, Mr. Djo
+10008932||Tak Dianggap||Lyodra||1||||Mario G. Klau
+10008934||Cundamani||Difarina Indra||1||||Denny Caknan
+10008935||Dumes||Happy Asmara||1||||Andry Priyanta
+10008952||Malaikat Bawah Tanah||Superman Is Dead||1||||JRX
+10008955||Dawai (OST. Film Air Mata Di Ujung Sajadah)||Fadhilah Intan||1||||Hendro Djasmoro, Albert Juwono
+10008962||Merayu Tuhan||Tri Suaka, Dodhy Kangen Band||1||||Dodhy Kangen
+10008967||Lesung Pipi||Raim Laode||24||||Raim Laode
+10008973||Dumes||Denny Caknan, Om Wawes||5||||Andry Priyanta
+10008978||Terendap Laraku||Happy Asmara||1||||Rusyaedi Makmum
+10008980||Sia Sia Mengharap Cintamu||Difarina Indra, Fendik Adella||2||||Gustian Geno
+10008985||Cukup||Ziva Magnolya||16||||Mario G. Klau
+10008986||Nemu||Denny Caknan||1||||Iskandar Hanafi
+10008988||Merayu Tuhan||Kangen Band||1||||Dodhy Kangen
+10008997||Satu Bulan||Bernadya||1||||Bernadya
+10009015||Ini Laguku||Mahalini||2||||Mahalini, Tintin
+10009021||Sia Sia Mengharap Cintamu||Happy Asmara||3||||Gustian Geno
+10009028||Ada||Lyodra, Afgan||2||||Afgansyah Reza, Adrian Rahmat Purwanto, Rishanda Singgih, Simhala Avadana
+10009029||Semata Karenamu 2||Mario G. Klau||1||||Mario G. Klau
+10009040||Beritahu Aku||Stinky, Irwan Batara||1||||Irwan Batara
+10009047||Bojo Biduan||Shinta Arsinta, Vita Alvia||1||||Memed MJ
+10009054||Kisinan 2||Masdddho||3||||Masdddho
+10009055||Mengapa||Rony Parulian||2||||Mario G. Klau
+10009061||Santri Pekok||Niken Salindry||2||||Arif Citenx
+10009063||Penjaga Hati||Nadhif Basalamah||9||||Nadhif Basalamah, Petra Sihombing, Daffa Sirat
+10009066||Terkesan||Lesti||1||||Adibal, Yusup Tojiri
+10009068||Sak Dheg Sak Nyet||GuyonWaton, Bravesboy||1||||Migga Sadewa
+10009078||Wirang||Denny Caknan||2||||Chawing Huan
+10009079||Musisi||God Bless, Tohpati Orchestra||1||||Donny Fattah
+10009090||Di Akhir Perang||Nadin Amizah||3||||Nadin Amizah, Lafa Pratomo
+10009092||Masing Masing||Ernie Zakri, Ade Govinda||14||||Ade Govinda
+10009096||Kalah||Aftershine, Restianade||4||||Andika Permana Putra
+10009099||Tanpa Pesan Terakhir||Seventeen||4||||Riefian Fajarsyah, Yudhi Rus Harjanto
+10009106||Bunga Hati||Salma Salsabil||1||||
+10009109||Tapi Tahukah Kamu?||Dygta, Kamasean||5||||Yon Chasman
+10009116||Kisinan 1 & 2||Denny Caknan, Masdddho||5||||Masdddho
+10009117||Ku Ingin Pisah||Nabila Taqiyyah||2||||Clara Riva
+10009118||Sekecewa Itu||Angga Candra||5||||Angga Candra
+10009120||Aduh||MALIQ & D'Essentials||1||||Angga, Indah, Widi, Jawa, Ilman
+10009124||Anak Lanang||Ndarboy Genk||1||||Daru Jaya A.K.A Ndarboy, Hendra Kumbara
+10009126||Gagal Merangkai Cinta||Thomas Arya||1||||Aprilian
+10009142||Wirang||Denny Caknan, Masdddho||3||||Denny Caknan
+10009151||Kehadiranmu||Kiesha Alvaro||1||||Teguh Vagetoz
+10009153||Kisinan 2||Shinta Arsinta||1||||Masdddho
+10009154||Lampu Merah||Lantis, The||1||||Giri Virandi
+10009157||Samar||Masdddho||1||||Masdddho
+10009165||Wirang||Difarina Indra||1||||Denny Caknan
+10009169||Pelanggaran||Denny Caknan||1||||Bagus Muhammad, Mr. Djo
+10009176||Tresno Tekan Mati New Version||NDX A.K.A||11||||Andi Mbendol, Yonanda Frisna Damara
+10009193||Ibu Aku Ingin Bersandar||Nabila Maharani||1||||Tri Suaka, Ajhay Pasma
+10009202||Cinta Langit Dan Bumi||Andika Mahesa||1||||Andika Mahesa
+10009207||Angin||Lesti||1||||Lesti, Rizky Billar
+10009210||Cinta Terlarang 2 (Milik Temanku)||Virgin, The||1||||Mita
+10009218||Suasana Rumah (Ost. Pulang Tak Harus Rumah)||Raim Laode||1||||Raim Laode
+10009220||Wirang||GuyonWaton||6||||Bagus Muhammad, Denny Setiawan
+10009223||Bahtera Mahligai Cinta||Tri Suaka, Nabila Maharani||1||||Tri Suaka
+10009233||HAHAHA||Juicy Luicy||1||||Denis Ligia, Iqbal Siregar
+10009243||Berharap Kau Kembali||Fabio Asher||2||||Fabio Asher, Trakast, Yafi Aria
+10009249||Kata Mereka Ini Berlebihan||Bernadya||3||||Bernadya Ribka, Petra Sihombing
+10009250||Anak Lanang Original||Ndarboy Genk||5||||Daru Jaya a.k.a Ndarboy Genk, Hendra Kumbara
+10009257||Seventeen||JKT48||2||||Ogawa KOTA秋元康
+10009274||Wanita Biasa||Ziva Magnolya||1||||Trakast, Yafi Aria, Seto Bramana
+10009275||Lamunan||Niken Salindry||1||||Wahyu F. Giri
+10009289||Kalah||Happy Asmara, Hasan Toys||1||||Andika Permana Putra
+10009304||Kalah 2||Aftershine||2||||Andika Permana Putra
+10009306||Kisah Tanpa Dirimu||Anggis Devaki||1||||TINTIN
+10009311||Sinaran||Sheila Majid||2||||Aslan Abu HassenJohan Nawawi
+10009317||Cantik||Tiara Andini, Arsy Widianto||9||||Yovie Widianto
+10009319||Terima Kasih Sudah Bertahan||Ghea Indrawari||1||||Ghea Indrawari
+10009322||Dari Planet Lain||Sal Priadi||1||||Salmantyo Ashrizky Priadi
+10009333||Selendang Biru||Happy Asmara||2||||Gun Kriwol
+10009336||Piwales Tresno (New Version)||NDX A.K.A||1||||Yonanda Frisna Damara
+10009343||Sadrah||for Revenge||1||||Moch Boniex Nurwega, Arief Ismail, Ari Pribadi, Muhammad Mirza A
+10009345||Teramini||Ghea Indrawari||1||||Ghea Indrawari
+10009349||Sialan||Juicy Luicy, Adrian Khalif, Mahalini||15||||Denis Ligia, Iqbal Siregar, Faishal M Fasya, Mohammed Kamga
+10009353||Mati-Matian||Mahalini||11||||Andmesh, Mahalini
+10009355||Sepenuh Hati||Rony Parulian, Andi Rianto||4||||Andi Rianto, Monty Tiwa
+10009356||Dia Masa Lalumu, Aku Masa Depanmu||Vionita||2||||Raguel Lewy
+10009357||Cinta Begini||OKAAY, Adrian Khalif, Mahalini||1||||Johandi Yahya, Harry Budiman
+10009365||Langgeng Dayaning Rasa (LDR)||Denny Caknan||1||||Denny Caknan
+10009373||33x||Perunggu||2||||Adam Adenan, Ildo Hasman, Maulana Ibrahim
+10009376||Kupu - Kupu||Tiara Andini||3||||Anindyo Baskoro, Arya Aditya Ramadhya, Ilman Ibrahim Isa
+10009379||Lamunan||Happy Asmara, Gilga Sahid||2||||Wahyu F Giri
+10009380||Mungkin Takut Perubahan||Lomba Sihir||1||||Baskara Putra, Enrico Octaviano, Natasha Udu, Rayhan Noor
+10009385||Tak Pantas||Mytha Lestari||1||||Melly Goeslaw
+10009388||Tak Selalu Memiliki (OST: Ipar Adalah Maut)||Lyodra||2||||Yovie Widianto
+10009389||Alum||Gilga Sahid, Happy Asmara||1||||Gilga Sahid
+10009397||Iming Iming||Diva Hani||2||||Muchlas Adi Putra
+10009408||Semua Lagu Cinta||Sal Priadi||1||||Salmantyo Ashrizky Priadi
+10009414||Kini Mereka Tahu||Bernadya||1||||Bernadya Ribka
+10009417||Mundur Perlahan||Nyoman Paul||1||||Nyoman Paul, Lafa Pratomo
+10009425||Nganggur||Masdddho||1||||Masdddho
+10009437||Kopi Dangdut||Fahmi Shahab||1||||Fahmi Shahab, Andi Hardi
+10009438||Niscaya||Bilal Indrajaya||1||||Bilal Indrajaya, Laleilmanino
+10009439||Dola||Angga Dermawan||2||||Angga Dermawan
+10009444||Teteh||Doel Sumbang, Asep Balon, Sarah Saputri||1||||Doel Sumbang
+10009454||Berkali Kali||Selfi Yamma||2||||ADIBAL
+10009465||Bukan Karena Tak Cinta||Judika, Lesti||1||||Enda Ungu, Oncy Ungu
+10009468||Kenangan||Ziell Ferdian||1||||Ziell Ferdian
+10009477||Pulut Roham||Jun Munthe||2||||Roni Sihite
+10009482||Jaran Goyang New Version||NDX A.K.A||5||||Andi Mbendol
+10009485||Ada Rindu||Difarina Indra||1||||M A Thayib, Irenk Mashabi
+10009489||Jangan Khianati Aku||Azlan & The Typewriter||1||||Dark
+10009490||Sigar||Denny Caknan||7||||Denny Caknan
+10009492||Kita Ke Sana||Hindia||2||||Baskara Putra, Pringgo Aryo Pradana
+10009494||Dibalas Dengan Dusta||Glenn Fredly, Andi Rianto||2||||Glenn Fredly
+10009495||Gagal||Ngatmombilung||1||||Andry Priyanta
+10009499||Jatuh Cinta Lagi||Nadhif Basalamah||1||||Nadhif Basalamah, Mikha Angelo
+10009507||Lampu Kuning||Juicy Luicy||11||||Denis Ligia, Iqbal Siregar, Faishal M Fasya
+10009509||Jangan Pernah Berubah||Coldiac||1||||Melly Goeslaw
+10009511||Jatuh Rapuh||Anggis Devaki||1||||Andmesh Kamaleng
+10009513||Sialnya, Hidup Harus Tetap Berjalan||Bernadya||2||||Bernadya Ribka, Petra Sihombing
+10009514||Untungnya, Hidup Harus Tetap Berjalan||Bernadya||3||||Bernadya Ribka, Petra Sihombing
+10009519||Bukan Orangnya||Juicy Luicy||3||||Denis Ligia, Iqbal Siregar
+10009523||Obati Rinduku||Arief||1||||Faisal Asahan
+10009525||Kamulah Bintangku||Bagindas||1||||Pay Burman, Zaldy Djamaludin
+10009528||Hampa||Ari Lasso||4||||Ricky FM, Ari Lasso
+10009529||Aku Dan Dirimu||Ari Lasso, Bunga Citra Lestari||12||||Dian 'Nebula', Pay, Ari Lasso
+10009538||Cinta 24 Jam||Bella Nova||5||||Don Kinol
+10009546||Angin Rindu||Rony Parulian||3||||Rony Parulian
+10009547||Penyangkalan||for Revenge||1||||Moch Boniex Nurwega, Arief Ismail
+10009549||Keras Kepala||Meiska||5||||Meytaria Rosalina
+10009560||Terlalu Cinta||Yovie Widianto, Lyodra||1||||Yovie Widianto
+10009561||Bukan Karena Tak Cinta (Dangdut Version)||Lesti, Judika||4||||Enda Ungu, Oncy Ungu
+10009562||Tanpa Bicara||Rizwan Fadilah||1||||Racka Fandiana, Beraldy Dean
+10009573||Ashiap||Atta Halilintar, Joe Flizzow, MK K-Clique||1||||Atta Halilintar, Joe Flizzow, MK (K-Clique)
+10009575||Salahmu Sendiri||Andra Respati, Gisma Wandira||2||||Faisal Asahan
+10009583||Ngertenono Ati - NDXAKA Version||NDX A.K.A||4||||Yonanda Frisna Damara
+10009585||Terong Dicabein||Siti Badriah||5||||Endang Raes
+10009586||Gala Bunga Matahari||Sal Priadi||4||||Salmantyo Ashrizky Priadi
+10009594||SALAHMU SENDIRI||Difarina Indra, Fendik Adella||8||||Faisal Asahan
+10009595||Badut Baru||dbatlayar||1||||Dave Batlayar, Joy Batlayar
+10009597||Kawin Kontrak||Shinta Arsinta, Arya Galih||1||||Arif Citenx
+10009598||Salahmu Sendiri||Cut Rani||2||||Faisal Asahan
+10009602||Selamat Malam Dunia||Yuni Shara, Praz Teguh, Pongki Barata||2||||Pongki Barata
+10009605||Pujaningsih||Silvy Kumalasari||1||||Rw Aziz, Agus B
+10009610||Bunga Abadi||Rio Clappy||3||||Rizky Ceisa Rio
+10009617||Semenjak Ada Dirimu||Yovie Widianto, Hivi!||17||||Yovie Widianto
+10009625||Jadikan Aku Yang Kedua||Alessa, Astrid||3||||Novi Umar
+10009627||Berharap Tak Berpisah||Reza Artamevia||6||||Denny Chasmala
+10009638||Arteri||.Feast||1||||Baskara Putra, Dicky Renanda Putra, Arya Aditya Ramadhya, Anindyo Baskoro, Ilman Ibrahim Isa
+10009643||Nina||.Feast||18||||Adnan Satyanugraha, Baskara Putra, Dicky Renanda, Fadli Fikriawan
+10009644||Kita Kubur Sampai Mati||Bernadya||1||||Bernadya Ribka, Rendy Pandugo
+10009648||Sampai Menutup Mata||Mahalini||6||||Melly Goeslaw
+10009649||Tunggu Apa Lagi||Nyoman Paul||3||||Nyoman Paul, Rahman Sadli Waraiya, S/EEK
+10009660||Gagal||GuyonWaton||1||||Andry Priyanta
+10009663||Gara Gara Sebotol Minuman||Kalia Siska, SKA 86||8||||Safei Sroop
+10009665||Berakhir di Aku (OST. Home Sweet Loan)||Idgitaf||2||||Brigita Meliala
+10009668||Bahagiamu Adalah Lukaku||Thomas Arya||2||||Amri Damanin
+10009671||Pupus||Dewa 19, Virzha||4||||Ahmad Dhani
+10009672||Pangeran Cinta||Dewa 19, Virzha||1||||Ahmad Dhani
+10009687||Arjuna||Dewa 19, Ello||2||||Ahmad Dhani
+10009695||Flamboyanku||Diskoria, Danilla Riyadi||1||||Student Power
+10009707||Bukan Untukku||Tiara Andini||9||||Yovie Widianto
+10009715||Nresnani||LAVORA, Damara De||2||||Tadeus Waseso
+10009737||Hallo Ade Nona||Fresly Nikijuluw, Bryso||1||||Roy Sapulette
+10009743||Aku Butuh Perawatan||Siti Badriah||11||||Donall, Depp
+10009748||Salahmu Sendiri||Arief||1||||Faisal Asahan
+10009750||Pupus||Dewa 19, Virzha, Indonesian Philharmonic Orchestra||1||||Ahmad Dhani
+10009751||Roman Picisan||Dewa 19, Virzha, Indonesian Philharmonic Orchestra||3||||Ahmad Dhani
+10009752||Gala-Gala||Difarina Indra, Fendik Adella||2||||Rhoma Irama
+10009753||Selimut Hati||Kaleb J||1||||Andra Ramdhan
+10009754||Ciinan Bana||Fauzana||1||||Ajhay Pasma, Decky Ryan
+10009755||Beta Pilihan Bukan Tujuan||Willy Sopacua||3||||Rano Titahena
+10009761||Hilang||Justy Aldrin, Wizz Baker, Toton Caribo||1||||Justy Aldrin, Wizz Baker, Toton Caribo
+10009762||Selalu Untuk Selamanya||Hanin Dhiya, Stevan Pasaribu||4||||Capung Java Jive
+10009773||Bila Memang Kamu||Betrand Peto Putra Onsu||2||||Martinus Tintin, Clara Riva
+10009805||Na Atie Mappoji||Abi Rafdi||1||||Abi Rafdi
+10009806||Temmappesabbi||Fitri Adiba Bilqis||1||||Sandy Cheng
+10009807||Tak Ada Ujungnya||Rony Parulian||5||||Lafa Pratomo, Rony Parulian
+10009810||Mengapa Kau Berubah||Valdy Nyonk||2||||Tegar CS
+10009818||Bunga Maaf||Lantis, The||3||||Giri Virandi, Ravi Rinaldy, Dzaky Fauzan, Rendy Pandugo
+10009823||Dengarkan Sayang||Kangen Band||1||||Andika Mahesa
+10009836||Memori Baik||Sheila On 7, Aishameglio||2||||Eross Candra, Akhdiyat Duta Modjo, Adam Muhammad Subarkah
+10009843||Dirimu Yang Dulu||Anggis Devaki||1||||Mario G. Klau
+10009851||Baju Hitam||Mace Purba, D'ari||1||||Mace Purba
+10009859||1 Cinta 2 Dunia||StarBe||1||||Tintin, Clara Riva, Abram Lembono, Dhandy Annora, Fasya Bianca
+10009865||Bintang Yang Hilang||Arvian Dwi||1||||Arvian Dwi
+10009869||Apa Artinya Aku||Yovie Widianto, Lyodra, Tiara Andini, Ziva Magnolya||9||||Arsy Widianto
+10009872||Mencintaimu (OST. 2nd Miracle In Cell No.7)||Mahalini||2||||Bebi Romeo
+10009901||Sigar||Shinta Arsinta||1||||Denny Caknan
+10009904||Garam & Madu (Sakit Dadaku)||Tenxi, Naykilla, Jemsii||15||||Joan Pasha Syahputra, James Yusufa Diraja Nugroho, Nayya Rahmania
+10009916||Waktu Ku Kecil||Vita Alvia||1||||Ahmad Ridho
+10009925||Lestari||Arya Galih, Shinta Arsinta||1||||Dru Wendra Wedhatama, Vitto Fernanda
+10009926||Kalah||Shinta Arsinta, Arya Galih||1||||Abah Lala
+10009933||Mattajeng Ale-Ale||Fitri Adiba Bilqis||2||||Sardy Ume
+10009934||Sigar||Denny Caknan, Niken Salindry||1||||Riko Prayitno
+10009939||Bawa Dia Kembali||Mahalini||6||||Andrew Darmoko
+10009941||Tresno Tekan Mati New Version||NDX A.K.A, Shinta Arsinta, Wahyu Sax RC||1||||Andi Mbendol, Yonanda Frisna Damara
+10009953||Ribuan Memori||Lomba Sihir||2||||Baskara Putra, Enrico Octaviano, Natasha Rosanie Candarasjmi, Rayhan Noor, Tristan Juliano
+10009961||Matursuwun Gusti||Aftershine, Dinda Teratu||1||||Hasan
+10009969||Sugeng Dalu||Denny Caknan, Jasun Biber, Eri Pras||2||||Denny Caknan
+10009977||Berharap Pada Timur||Salma Salsabil||7||||Salma Salsabil, Clara Riva
+10009991||Tresno Tekan Mati||Difarina Indra, Fendik Adella||2||||Andi Mbendol
+10009996||Sesal||Salma Salsabil||2||||Salma Salsabil, Widya Ayu Permatasari, Bimantoro Prasetyo
+10009998||Mula Macenning Cappa' Makessing||Abi Rafdi||4||||Abi Rafdi
+10010000||#KuSangatSuka||JKT48||2||||Ito Shintaro, Yasushi Akimoto
+10010005||Bergema Sampai Selamanya||Nadhif Basalamah||6||||Petra Sihombing
+10010019||Rannu||Ashari Sitaba||2||||Enal Gassing
+10010026||Bunga Jiwaku||Yovie And Nuno||1||||Yovie Widianto
+10010027||Wirang||Denny Caknan, Jasun Biber, Eri Pras||1||||Denny Caknan
+10010028||Cintaku Tak Terbatas Waktu||Happy Asmara||1||||Deddy Dores
+10010035||Dua Sedjoli||Dewa 19, Once Mekel||1||||Ahmad Dhani
+10010048||Ubur Ubur Ikan Lele||Ochi Alvira, Dara Ayu, Shinta Gisul, Slamet Pengamen||1||||Dwi Bahariwan
+10010061||Bibir yang Telah Dicuri||JKT48||2||||Inoue Yoshimasa, Yasushi Akimoto
+10010082||Kumpul Bocah (OST: Jumbo)||MALIQ & D'Essentials||1||||Dodo Zakaria
+10010083||Everything U Are||Hindia||5||||Baskara Putra, Iga Massardi, Pradipta Beawiharta
+10010084||Aku Dah Lupa||Zia, Mikky||5||||F4dli
+10010106||Kepada Nya||Novia Bachmid||1||||Aldi Nada Permana
+10010107||Singkong & Keju||Yuni Shara||2||||Arie Wibowo
+10010115||Coba Lagi||Tenxi, Jemsii||1||||Joan Pasha Syahputra
+10010118||Iyya' Mataro Ada Nataue Mewa Mappettu Ada||Ashari Sitaba||1||||Erwin Agam
+10010120||Sinarengan||Denny Caknan, Bella Bonita||12||||Denny Caknan
+10010141||Kau Selalu Di Hati||Andi Rianto, Lyodra, Rony Parulian||1||||Andi Rianto, Lyodra, Rony Parulian
+10010145||Selalu Ada Di Nadimu (OST. Jumbo)||Bunga Citra Lestari||10||||Anindyo Baskoro, Arya Aditya Ramadhya, Ilman Ibrahim Isa
+10010161||Aku Bilang Jangan||Mikky, Zia, F4dli||1||||Fadli Hasan
+10010168||Sebatas Friendly||NDX A.K.A||2||||Yonanda Frisna Damara
+10010182||Stecu Stecu||Faris Adam||50||||Farid Egall
+10010206||Kita Usahakan Lagi||Batas Senja||7||||Masitong
+10010208||Sinarengan||Difarina Indra, Fendik Adella||1||||Denny Caknan
+10010218||Bahtera Cinta||Irwan, Fira Cantika||5||||H. Rhoma Irama
+10010220||Mangu||Fourtwnty, Charita Utami||54||||Andika Dwi Putra Arman, Ari Lesmana, Asep Nurohman, Roby Satria
+10010222||Pariban Dari Jakarta||Suryanto Siregar||3||||Suryanto Siregar
+10010223||Mode Pesawat||Dandy Barakati, Dante Nababan||4||||Dandy Barakati, Dante Nababan
+10010224||Tanpa Cinta||Yovie Widianto, Tiara Andini||21||||Yovie Widianto
+10010244||Kasih Aba-Aba||Naykilla, Tenxi, Jemsii||9||||
+10010246||Selalu Ada Di Nadimu||Ariel NOAH||2||||Anindyo Baskoro, Arya Aditya Ramadhya, Ilman Ibrahim Isa
+10010258||Bisakah?||Fabio Asher, Sammy Simorangkir||4||||Trakast, Fabio Asher, Yafi Aria
+10010262||Tak Ada Yang Sepertimu||Rony Parulian||1||||Rony Parulian, Krisna Trias
+10010286||Aku Baik Saja (Ost. Tak Ingin Usai Disini)||Rossa||5||||Andi Rianto, Monty Tiwa
+10010288||Pendampingmu #TahtaHatiku||Shabrina Leanor||4||||Yovie Widianto
+10010289||Tahta Hatiku #Pendampingmu||Fajar Noor||2||||Yovie Widianto
+10010303||Pica Pica||Juan Reza||20||||Juan Reza
+10010305||Pica Pica 2||Juan Reza||1||||Juan Reza
+10010310||Pica Pica||Ndarboy Genk, Juan Reza, Jacson Zeran, Wita Sofi||3||||Juan Reza
+10010322||Dalan Liyane||Masdddho, Hendra Kumbara||1||||Hendra Kumbara
+10010325||Aku Cah Kerjo||Denny Caknan||1||||Pendhoza
+10010330||A||||1||||
+10010346||Bila Kau Tak Disampingku||Sheila On 7||1||||E-Ross
+10010352||Walau Tak Mungkin||Ngatmombilung, GuyonWaton||1||||Andry Priyanta
+10010353||Aku Tak Berarti Bagimu||Fira Cantika, Rizal Pahlevi||2||||Legimin (Emen), Iwan MS
+10010356||Cinta Merah Jambu||Ajeng Febria||1||||H. Dharmawan
+10010367||Pada Satu Cinta||Piche Kota, Yovie Widianto||5||||Yovie Widianto
+10010368||Tak Kan Terganti||Shabrina Leanor, Yovie Widianto||1||||Yovie Widianto
+10010369||Sebatas Mimpi||Angie Carvalho, Yovie Widianto||2||||Yovie Widianto
+10010371||Menjaga Hati||Fajar Noor, Yovie Widianto||1||||Yovie Widianto
+10010389||Tanya||Bilal Indrajaya||1||||Bilal Ahmad Indrajaya
+10010392||Ko Bukan Pelangi||Fadlan Borut, Justy Aldrin||1||||
+10010413||Gagal Pasang Cincin||Willy Sopacua||1||||Rano Titahena
+10010414||Tamang Pung Kisah||Fresly Nikijuluw||2||||Fresly Nikijuluw
+10010420||Putri Iklan||Fajar Noor, Eka Gustiwana||7||||Charly Van Houten
+10010461||Nyong Timur||Gihon Marel, Jacson Zeran||1||||Juan Reza, Jacson Zeran, Oncho Flash
+20000179||Iris||Goo Goo Dolls||3||||J. Rzeznik
+20000344||I Will Always Love You||Whitney Houston||1||||Dolly Parton
+20000467||Always||Bon Jovi||2||||Jon Bon Jovi
+20000468||How Deep Is Your Love||Bee Gees||1||||Barry Gibb, Maurice Gibb, Robin Gibb
+20000473||My Heart Will Go On||Celine Dion||3||||James Horner & Will Jennings
+20000475||Let It Be||Beatles, The||2||||John Lennon, Paul McCartney
+20000522||It Must Have Been Love||Roxette||1||||Marie Frederiksson , Per Gessle
+20000646||Hotel California||Eagles||1||||Don Henley, Glenn Frey, Don Felder
+20000703||It's All Coming Back To Me Now||Celine Dion||1||||Tim Steinman
+20000723||Wannabe||Spice Girls||1||||Geraldine Halliwell, Victoria Adams, Emma Bunton, Melanie Brown, Melanie Chisholm, Matthew Rowbottom, Richard Stannard
+20000776||Making Love Out Of Nothing At All||Air Supply||1||||Jim Steinman
+20000795||If Ever You're In My Arms Again||Peabo Bryson||1||||Michael Masser, Tom Snow, Cynthia Weil
+20000798||Careless Whisper||George Michael||1||||George Michael, Andrew Ridgeley
+20000799||Saving All My Love For You||Whitney Houston||3||||Gerald Goffin, Michael Masser
+20000802||Greatest Love Of All||Whitney Houston||2||||Michael Masser, Linda Creed
+20000826||Take A Bow||Madonna||1||||Babyface, Ciccone Madonna
+20000832||Kiss Me (Ost She's All That)||Sixpence None The Richer||3||||
+20000833||I Want It That Way||Backstreet Boys||2||||Max Martin, Andreas Carlsson
+20000840||Baby One More Time||Britney Spears||1||||Max Martin
+20000869||Thank God I Found You||Mariah Carey||1||||William Collins, Peter Ham, Thomas Evans, Michael Gibbins, J. Mollands
+20000870||That's The Way It Is||Celine Dion||1||||Max Martin, Andread Carlsson, Kristian Lundin
+20000896||It's My Life||Bon Jovi||3||||Jon Bon Jovi, Richard Sambora, Max Martin
+20000989||When You Believe||Whitney Houston, Mariah Carey||1||||
+20000990||I Don't Wanna Miss A Thing [OST Armageddon]||Aerosmith||1||||Diane Warren
+20001028||As Long As You Love Me||Backstreet Boys||1||||Max Martin
+20001054||From This Moment On||Shania Twain||2||||Robert Lange
+20001061||If I Let You Go||Westlife||1||||Jorgen Elofsson, Per Magnusson, David Kreuger
+20001066||Snow On The Sahara||Anggun||1||||Eric Benzi, Monique Matheson
+20001076||My Love||Westlife||3||||Jorgen Elofsson, Per Magnusson, David Kreuger, Pelle Nulen
+20001266||Uptown Girl||Westlife||4||||Billy Joel
+20001284||Thank You For Loving Me||Bon Jovi||1||||Jon Bon Jovi, Richard Sambora
+20001553||Time In A Bottle||Jim Croce||1||||Jim Croce
+20001571||Nothing's Gonna Change My Love For You||George Benson||2||||Michael Masser, Gerry Goffim
+20001728||She Will Be Loved||Maroon 5||2||||Adam Levine, Jesse Carmichael, Ryan Dusick, James Valentine, Mickey Madden
+20001761||You're Beautiful||James Blunt||1||||James Blunt
+20001762||Because Of You||Kelly Clarkson||2||||Kelly Clarkson, David Hall Hodges, Ben Moody
+20001787||Welcome To The Black Parade||My Chemical Romance||1||||Gerrard Way
+20001945||You're Still The One||Shania Twain||5||||Twain, Lango
+20001986||Sweet Child O' Mine||Guns N Roses||1||||
+20001988||We Will Rock You||Queen||1||||Brian May
+20001993||Livin' On A Prayer||Bon Jovi||1||||Jon Bon Jovi, Desmond Child, Richard Sambora
+20002013||Bohemian Rhapsody||Queen||6||||
+20002071||A Thousand Miles||Vanessa Carlton||1||||Vanessa Carlton
+20002072||Smack That||Akon, Eminem||1||||Marshall Mathers, Luis Resto, Michael Strange, Aliaune Thiam
+20002099||That's Why (You Go Away)||Michael Learns To Rock||3||||Jascha Richter
+20002101||25 Minutes||Michael Learns To Rock||1||||Jascha Richter
+20002103||Paint My Love||Michael Learns To Rock||1||||Jascha Richter
+20002127||Flying Without Wings||Westlife||1||||Wayne Hector, Steve Mac
+20002128||Fool Again||Westlife||2||||Jorgen Elofsson, Per Magnusson, David Kreuger
+20002254||My Way||Frank Sinatra||1||||Jacques Revaux
+20002273||Sometimes||Britney Spears||1||||Jorgen Elofsson
+20002351||(I Can't Help) Falling In Love||UB40||3||||Weiss
+20002419||Complicated||Avril Lavigne||1||||Avril Lavigne
+20002427||Sk8ter Boi||Avril Lavigne||1||||Avril Lavigne
+20002437||I'm With You||Avril Lavigne||1||||Avril Lavigne
+20002442||Clocks||Coldplay||2||||Guy Berryman
+20002468||Where Is The Love||Black Eyed Peas||1||||Justin Timberlake
+20002633||Saint Of My Life||Superman Is Dead||1||||
+20002647||Listen (OST Dreamgirls)||Beyonce||1||||Anne Preven, Scott Cutler, Henry Kreiger, Beyonce Knowles
+20002655||Home||Michael Buble||2||||Michael Buble, Alan Chan, Gillies Foster
+20002661||A Little Piece Of Heaven||Avenged Sevenfold||2||||Zachary Baker, Brian Haner, Matthew Sanders, James Sullivan
+20002666||Seize The Day||Avenged Sevenfold||1||||
+20002675||Eenie Meenie||Justin Bieber, Sean Kingston||4||||
+20002680||Gunslinger||Avenged Sevenfold||1||||
+20002683||Kitty Kat||Beyonce||1||||
+20002689||Waka-Waka||Shakira||1||||
+20002713||Only One||Yellowcard||1||||
+20002717||Only Exception||Paramore||1||||Joshua Farro, Hayley Williams
+20002722||If I Ain't Got You||Alicia Keys||4||||Alicia Keys
+20002754||I'm Yours||Jason Mraz||1||||
+20002755||Lucky||Jason Mraz, Colbie Caillat||1||||Colbie Cailat, Timothy Fagan, Jason Mraz
+20002785||DJ Got Us Fallin In Love||Usher, Pitbull||2||||
+20002791||Down||Jay Sean, Lil Wayne||1||||Dwayne Carter, Jared Cotter, Kamaljit Jhooti, Robert Larow, Jeremy Skaller
+20002822||Just The Way You Are||Bruno Mars||1||||Khari Cain, Peter Hernandez, Philip Lawrence, Ari Levine, Khalil Walton
+20002823||Last Friday Night [T.G.I.F.]||Katy Perry||1||||Katy Perry, Bonnie Mckee, Max Martin, Lukasz Gottwald
+20002827||Disenchanted||My Chemical Romance||2||||Robert Bryar, Frank Iero, Raymond Toro, Gerard Way, Michael Way
+20002834||Favorit Girl||Justin Bieber||4||||Anesha Birchett, Dernst Emile, Delisha Thomas, Antea Birchett
+20002852||Like A G6||Far East Movement, Cataracs, The, Dev||1||||Max Martin, Alecia B Moore, Johan Schuster Karl
+20002857||Back To December||Taylor Swift||3||||Sean Hamilton, Ezekiel Lewis, Balewa Muhammad, Hyuk Shin
+20002859||Bad Romance||Lady Gaga||2||||Sebastiano Ruocco
+20002860||Tik Tok||KeSha||1||||Andrew Frampton, Stephen Kipner, Daniel O Donoghue, Mark Sheehan
+20002862||One Time||Justin Bieber||3||||
+20002876||Grenade||Bruno Mars||6||||Claude Kelly, Andrew Wyatt, Ari Levine, Philip Lawrence, Bruno Mars, Brody Brown, Peter Gene Hernandez
+20002927||Talking To The Moon||Bruno Mars||4||||
+20002928||Never Say Never||Justin Bieber||1||||Nasri Atweh, Justin Bieber, Thaddis Harrell, Adam Messinger, Omarr Rambert, Jaden Smith
+20002931||Jar Of Hearts||Christina Perri||3||||Barrett Noubar Yeretsian, Drew C. Lawrence, Christina Judith Perri
+20002955||Stand By Me||Oasis||2||||N. Gallagher
+20002956||Supersonic||Oasis||1||||
+20002965||Love of My Life||Queen||2||||
+20002970||Angel Eyes||ABBA||1||||Benny Andersson, Bjon Ulvaeus
+20002976||Without You||Air Supply||2||||Collins, Peter Ham, Tom Evans, Gibbins, Mollands
+20003055||Californication||Red Hot Chili Peppers||1||||
+20003071||Still Loving You||Scorpions||1||||Rudolf Schenker, Klaus Meine
+20003106||Goodbye||Air Supply||4||||David Foster, Linda Jenner
+20003144||Lazy Song||Bruno Mars||2||||Philip Lawrence, Ari Levine, Bruno Mars, Keinan Warsame, Peter Hernandez
+20003157||Rolling In The Deep||Adele||1||||Adele Laurie Blue Adkins, Paul Epworth
+20003158||Judas||Lady Gaga||2||||
+20003165||Under Cover Of Darkness||Strokes, The||1||||Julian Casablancas, Albert Hammond, Fabrizio Moretti, Nick Valensi
+20003171||Someone Like You||Adele||4||||Adele, Dan Wilson
+20003183||Set Fire To The Rain||Adele||3||||Fraser T Smith, Adele Laurie Blue Adkins
+20003207||Wish You Were Here||Avril Lavigne||2||||Avril Lavigne Ramona, Martin Sandberg Karl, Johan Schuster Karl
+20003211||That Should Be Me||Justin Bieber, Rascal Flatts||1||||Justin Bieber, Nasri Atweh, Luke Gottwald, Luke Boyd, Adam David Messinger
+20003220||California King Bed||Rihanna||1||||Priscilla Hamilton, Andre Harr, Jermaine Jackson
+20003226||Wind Of Change||Scorpions||1||||Klaus Meine
+20003261||Jet Lag||Simple Plan, Natasha Bedingfield||1||||Pierre Bouvier, Charles Andre Comeau, Jeff Ryan Petersen, Nolan Winfield Sipe
+20003267||In The End||Linkin Park||2||||Chester Bennington, Robert Bourdon, Bradford Delson, Joseph Hahn, Michael Shinoda
+20003270||Skyscraper||Demi Lovato||1||||
+20003291||All She Knows||Bruno Mars||1||||Philip Lawrence, Kasia Livingston, Bruno Mars, Justin Armstrong, Bennett Armstrong
+20003345||Love You Like A Love Song||Selena Gomez, Scene||1||||Adam Schmalholz, Antonina Armato, Tim James
+20003352||It Will Rain||Bruno Mars||5||||Bruno Mars, Philip Lawrence, Ari Levine
+20003356||We Found Love||Rihanna, Calvin Harris||2||||Adam Richard Wiles
+20003363||Sexy And I Know It||LMFAO||1||||E.E. Beck, G.M. Robertson, K. Oliver, D.J. Lsitenbee, S.K. Gordy
+20003371||Love On Top||Beyonce||3||||Beyonce Knowles, Terius Nash, Shea Taylor
+20003403||Fa La La||Justin Bieber, Boyz II Men||1||||Bernard Alexander Harvey, Justin Bieber, Taurian Shropshire
+20003417||All Night Long||Demi Lovato, Missy Elliott, Timbaland||3||||Lyrica Anderson Nasha, Melissa Elliott
+20003439||Before It Explodes||Charice, Bruno Mars||1||||Philip Lawrence, Ari Levine, Bruno Mars
+20003443||What Makes You Beautiful||One Direction||1||||Rami Yacoub, Carl Falk, Savan Kotecha
+20003462||Remember You||Siti Nurhaliza, Sean Kingston||1||||
+20003473||Stronger [What Doesn't Kill You]||Kelly Clarkson||1||||
+20003474||A Thousand Years||Christina Perri||9||||
+20003488||Domino||Jessie J||1||||Henry Walter, Lukasz Gottwald, Claude Kelly, Max Martin, Jessica Cornish
+20003503||Titanium||David Guetta, Sia||1||||Sia Furler, David Guetta, Giorgio Tuinfort, Nick Wall Van De
+20003508||On & On||Inna||1||||
+20003541||Somebody That I Used To Know||Gotye, Kimbra||1||||
+20003552||She's Gone||Steelheart||5||||Mike Matijevic
+20003553||Part Of Me||Katy Perry||2||||Bonnie Mckee, Katy Perry, Max Martin, Lukasz Gottwald
+20003570||November Rain||Guns N Roses||1||||Izzy Stradlin, W. Axl Rose, Saul Hudson, Duff Mc Kagan
+20003571||Bed Of Roses||Bon Jovi||3||||Jon Bon Jovi
+20003593||Don't You Remember||Adele||5||||Daniel Dodd Wilson, Adele Laurie Blue Adkins, Daniel D. Wilson
+20003609||Make You Feel My Love||Adele||1||||Bob Dylan
+20003621||Payphone||Maroon 5, Wiz Khalifa||1||||
+20003634||One And Only [Live]||Adele||1||||Daniel Dodd Wilson, Adele Laurie Blue Adkins, Greg Wells
+20003638||Give Your Heart A Break||Demi Lovato||7||||
+20003639||Beautiful In White||Shane Filan||3||||
+20003640||Enchanted||Taylor Swift||1||||
+20003662||Beez In The Trap||Nicki Minaj, 2 Chainz||1||||Tauheed Epps, Maurice Jordan, Onika Tanya Maraj
+20003670||Wide Awake||Katy Perry||1||||Bonnie Leigh Mckee, Max Martin, Katy Perry, Lukasz Gottwald, Henry Russell Walter, Bonnie Mckee
+20003680||Against All Odds||Phil Collins||4||||
+20003688||One More Night||Maroon 5||1||||
+20003721||Chasing Pavements||Adele||2||||Adele Adkins, Francis White
+20003738||As Long As You Love Me||Justin Bieber, Big Sean||1||||
+20003762||Scientist||Coldplay||1||||Guy Berryman, Jon Buckland, Will Champion, Chris Martin
+20003816||Beauty And A Beat||Justin Bieber, Nicki Minaj||2||||Max Martin, Anton Zaslavski, Savan Kotecha, Onika Maraj
+20003823||Diamonds||Rihanna||1||||Sia Furler, Benjamin Levin, Mikkel S. Eriksen, Tor Erik Hermansen
+20003827||Lock Out Of Heaven||Bruno Mars||1||||Bruno Mars, Hernandez Peter Gene, Phillip Lawrence, Lawrence Philip Martin Ii, Ari Levine
+20003882||Billionaire||Travie McCoy, Bruno Mars||2||||Philip Martin Lawrence, Ari Levine, Bruno Mars, Travis L Mccoy
+20003927||When I Was Your Man||Bruno Mars||5||||Philip Lawrence, Andrew Wyatt, Ari Levine, Bruno Mars
+20003932||Payphone||Boyce Avenue||1||||Benjamin Joseph Levin, Adam Noah Levine, Ammar Malik, Daniel Thomas Omelio, Shellback, Camreron Jibril Thomaz
+20003936||Scream And Shout||Will.I.Am, Britney Spears||1||||
+20003949||A Team||Ed Sheeran||1||||
+20003950||Learn To Love Again||Lawson||1||||Rami Yacoub, Joakim Berg, Carl Anthony Falk, Andy Brown, Eric Vincent Turner
+20003953||Stay||Rihanna||1||||
+20003958||Officially Missing You||Tamia||1||||
+20003969||Just Give Me A Reason||Pink, Nate Ruess||4||||Pink, Jeff Bhasker, Nate Ruess
+20003976||Wings||Little Mix||1||||
+20003990||Fall For You||Secondhand Serenade||2||||
+20004002||Fix You||Coldplay||7||||Guy Berryman, Jon Buckland, Will Champion, Chris Martin
+20004003||Yellow||Coldplay||1||||Guy Berryman, Jon Buckland, Will Champion, Chris Martin
+20004033||22||Taylor Swift||1||||
+20004069||Mirrors||Justin Timberlake||1||||James Edward Fauntleroy, Chris Godbey, Jerome Harmon, Timothy Z Mosley, Justin Timberlake
+20004093||Heart Attack||Demi Lovato||2||||
+20004099||Come And Get It||Selena Gomez||1||||
+20004119||Here's To Never Growing Up||Avril Lavigne||1||||
+20004128||To Love Somebody||Michael Buble||1||||Barry Gibb, Robin Gibb
+20004135||Demons||Imagine Dragons||1||||
+20004137||#Beautiful||Mariah Carey, Miguel||14||||Miguel Pimentel, Mariah Carey, Nathan Perez, Brook "D'Leau" Davis, Mac Robinson, Brian Keith Warfield
+20004229||All Too Well||Taylor Swift||2||||Taylor Swift
+20004263||Summertime Sadness||Lana Del Rey||1||||Elizabeth Grant, Rick Nowels
+20004277||Nothing Else Matters||Metallica||1||||James Hetfield, Lars Ulrich
+20004290||Unforgiven||Metallica||1||||Kirk Hammett, James Hetfield, Lars Ulrich
+20004304||La La La||Naughty Boy, Sam Smith||1||||
+20004345||Set Fire To The Rain [Reggae Version]||Adele||1||||Fraser T Smith & Adele Laurie Blue Adkins
+20004359||Gorilla||Bruno Mars||1||||Bruno Mars, Philip Lawrence, Ari Levine
+20004369||Great Pretender||Freddie Mercury||1||||Buck Ram
+20004372||All Of Me||John Legend||4||||Toby Gad, John Stephens
+20004381||Say Something||A Great Big World, Christina Aguilera||1||||Ian Axel, Chad Vaccarino
+20004429||Somewhere Only We Know||Lily Allen||1||||Tim Rice-Oxley. Tom Chaplin & Richard Hughes
+20004471||Stay The Night||Zedd, Hayley Williams||1||||Anton Zaslavski, Hayley Williams, Benjamin Eli Hanna, Carah Faye
+20004487||Highway To Hell||ACDC||1||||Bon Scott, Angus Young, Malcolm Young
+20004518||Let It Go||Idina Menzel||5||||Kristen Anderson-Lopez, Robert Lopez
+20004578||For The First Time In Forever [Ost. Frozen]||Idina Menzel, Kristen Bell||1||||Robert Lopez, Kristen Anderson-Lopez
+20004585||Prayer||Andrea Bocelli, Katharine McPhee||1||||David Foster, Tony Renis, Carole Bayer Sager, Alberto Testa
+20004662||In Case||Demi Lovato||4||||Jake Schmugge, Emanuel Kiriakou, Priscilla Renea
+20004685||Chandelier||Sia||2||||Sia Furler, Jesse Shatkin
+20004691||A Sky Full Of Stars||Coldplay||1||||Guy Berryman, Jonny Buckland, Will Champion, Chris Martin, Tim Bergling
+20004699||Only Love Can Hurt Like This||Paloma Faith||3||||Diane Warren
+20004708||Holy Grail||Jay-Z, Justin Timberlake||1||||Justin Timberlake, Shawn Carter, Terius "The-Dream" Nash, Timothy Mosley, Jerome Harmon, Ernest Wilson, Kurt Cobain, Dave Grohl, Krist Novoselic
+20004727||Power Of Love, The (You Are My Lady)||Celine Dion||1||||Mary Applegate, Wolfgang Detmann, Gunther Mende, Heidi Stern
+20004738||Extraordinary||Clean Bandit, Sharna Bass||1||||Jack Patterson, Grace Chatto, Gustave Rudman, James Napier
+20004754||Angels||Robbie Williams||1||||Robbie Williams, Guy Chambers
+20004758||When You Tell Me That You Love Me||Diana Ross||1||||John Betties, Albert Hammond
+20004901||I Don't Want To Miss A Thing||Aerosmith||3||||Diane Warren
+20004912||I Surrender||Celine Dion||3||||Louis Biancaniello, Samuel Watters
+20004913||I'm Not The Only One||Sam Smith||2||||Sam Smith, James Napier
+20004915||Lost Stars||Adam Levine||1||||Gregg Alexander, Danielle Brisebois, Nick Lashley, Nick Southwood
+20004973||Almost Is Never Enough||Ariana Grande, Nathan Sykes||7||||Ariana Grande, Harmony Samuels, Carmen Reece, Al Sherrod Lambert, Olaniyi-Akinpelu, Moses Samuels
+20004980||Cool Kids||Echosmith||1||||Jamie Sierota. Noah Sierota. Sydney Sierota. Graham Sierota. Jeffery David & Jesiah Dzwonek
+20005077||Bang Bang||Jessie J, Ariana Grande, Nicki Minaj||1||||Max Martin, Onika Maraj, Savan Kotecha, Rickard Göransson
+20005087||Photograph||Ed Sheeran||2||||Ed Sheeran, Johnny McDaid
+20005128||Blank Space||Taylor Swift||3||||Taylor Swift, Max Martin, Shellback
+20005171||18||One Direction||1||||Ed Sheeran, Oliver Frank
+20005224||Love Me Like You Do||Ellie Goulding||1||||Max Martin, Savan Kotecha, Ilya, Ali Payami, Tove Lo
+20005276||Style||Taylor Swift||2||||Taylor Swift, Max Martin, Shellback, Ali Payami
+20005290||Nights||Avicii||1||||Nicholas Furlong, Gabriel Benjamin, Jordan Suecof, John Feldmann, Tim Bergling
+20005334||Beat It||Michael Jackson||1||||Michael Jackson
+20005355||I Was Here||Beyonce||1||||Diane Warren
+20005412||Flashlight||Jessie J||2||||Sia Furler, Christian Guzman, Jason Moore, Sam Smith
+20005461||Under The Bridge||Red Hot Chili Peppers||1||||Flea, Frusciante, Kiedis, Smith
+20005470||Stitches||Shawn Mendes||1||||Danny Parker, Teddy Geiger, Daniel Kyriakides
+20005475||Black Magic||Little Mix||2||||Camille Purcell, Ed Drewett, Edvard Forre Erfjord, Henrik Michelsen
+20005506||Good For You||Selena Gomez||1||||Julia Michaels, Justin Tranter, Nick Monson, A$AP Rocky
+20005522||When You Tell Me That You Love Me||Westlife, Diana Ross||1||||Albert Hammond, John Bettis
+20005532||How Deep Is Your Love||Calvin Harris, Disciples||1||||Calvin Harris, Ina Wroldsen, Disciples
+20005586||Wildest Dreams||Taylor Swift||1||||Taylor Swift, Max Martin, Shellback
+20005751||When We Were Young||Adele||6||||Adele, Tobias Jesso Jr.
+20005765||Love Yourself||Justin Bieber||1||||Justin Bieber, Ed Sheeran, Benjamin Levin
+20006034||(Don't Fear) The Reaper||Blue Oyster Cult||2||||Buck Dharma
+20006112||Faded||Alan Walker||1||||
+20006130||All I Ask||Adele||20||||Adele Adkins, Bruno Mars, Philip Lawrence, Christopher Brody, Brown
+20006140||Dangerous Woman||Ariana Grande||1||||
+20006182||No||Meghan Trainor||1||||
+20006223||Nothing's Gonna Change My Love For You||Westlife||2||||
+20006392||This Is What You Came For||Calvin Harris, Rihanna||1||||Calvin Harris, Nils Sjoberg
+20006395||Send My Love (To Your New Lover)||Adele||1||||Adele Adkins, Max Martin, Shellback
+20006504||Otherside||Red Hot Chili Peppers||1||||Flea, Frusciante, Kiedis, Smith
+20006606||Closer||Chainsmokers, Halsey||5||||
+20006634||Scars To Your Beautiful||Alessia Cara||1||||Alessia Caracciolo, Warren Felder, Coleridge Tillman, Andrew Wansel
+20006721||Jealous||Labrinth||2||||Timothy McKenzie, Josh Kear, Natalie Hemby
+20006724||Till It Hurts||Yellow Claw, Ayden||4||||Brahim Fouradi, David Quinones, Nils Rondhuis, Jim Taihuttu, Leo Roelandschap, Max Oude Weernink, Joris Titawano
+20006742||Side To Side||Ariana Grande, Nicki Minaj||1||||Max Martin, Savan Kotecha, Alexander Kronlund, Ilya Salmanzadeh, Ariana Grande, Onika Maraj
+20006807||Love In The Dark||Adele||1||||Adele Adkins, Samuel Dixon
+20006842||Starboy||Weeknd, The, Daft Punk||1||||Abel Tesfaye, Guy-Manuel, de Homem-Christo, Thomas Bangalter, Martin McKinney, Henry Walter
+20006853||Cancer||Twenty One Pilots||2||||My Chemical Romance
+20006858||24K Magic||Bruno Mars||1||||Bruno Mars, Philip Lawrence, Christopher Brody Brown
+20006882||Hey Jude||Beatles, The||1||||Lennon–McCartney
+20006900||Imagination||Shawn Mendes||3||||Shawn Mendes, Geoffrey Warburton, Martin Terefe
+20006913||Hero||Cash Cash, Christina Perri||2||||Christina Perri, Jean Paul Makhlouf, Alexander Makhlouf, Samuel Frisch
+20006927||Versace On The Floor||Bruno Mars||7||||James Fauntleroy, Brody Brown, Philip Lawrence, Bruno Mars
+20006932||Nothing Lasts Forever||Maroon 5||1||||Adam Levine
+20006956||Too Good To Say Goodbye||Bruno Mars||1||||Jeff Bhasker, Brody Brown, Babyface, Philip Lawrence, Bruno Mars
+20006971||Everglow||Coldplay||1||||Will Champion, Jonny Buckland, Guy Berryman, Chris Martin
+20006995||Alone||Alan Walker||1||||Alan Walker
+20006998||I Feel It Coming||Weeknd, The, Daft Punk||1||||Doc McKinney, Cirkut, Eric Chedeville, Guy-Manuel de Homem-Christo, Thomas Bangalter, The Weeknd
+20007000||Chantaje||Shakira, Maluma||2||||Shakira, Juan Luis Londono Arias, Joel Antonio Lopez Castro, Kevin Mauricio Jimenez Londono, Bryan Snaider Lezcano Chaverra
+20007036||Dear No One||Tori Kelly||1||||Tori Kelly
+20007043||Forever And One||Helloween||2||||
+20007064||Paris||Chainsmokers||1||||Fredrik Haggstam, Kris Eriksson, Andrew Taggart
+20007069||Shape Of You||Ed Sheeran||1||||Ed Sheeran, Johnny McDaid, Steve Mac
+20007070||Location||Khalid||1||||Khalid
+20007164||Perfect||Ed Sheeran||1||||Matthew Sheeran, Ed Sheeran
+20007199||Despacito||Luis Fonsi, Daddy Yankee||1||||Erika Ender, Luis Fonsi
+20007232||Sign Of The Times||Harry Styles||1||||Tyler Johnson, Alex Salibian, Ryan Nasci, Mitch Rowland, Jeff Bhasker, Harry Styles
+20007236||Attention||Charlie Puth||1||||Charlie Puth, Jacob Kasher
+20007325||Power||Little Mix, Stormzy||2||||James Abrahart, Camille Purcell, Dan Omelio
+20007335||New Rules||Dua Lipa||1||||Emily Warren, Caroline Ailin, Ian Kirkpatrick, Dua Lipa
+20007343||Despacito||Justin Bieber, Luis Fonsi, Daddy Yankee||2||||Erika Ender, Luis Fonsi
+20007359||Wild Thoughts||DJ Khaled, Rihanna, Bryson Tiller||1||||PARTYNEXTDOOR, Asahd Tuck Khaled, Bryson Tiller, Rihanna, DJ Khaled
+20007369||More Than You Know||Axwell & Ingrosso||2||||Salem Al Fakir, Richard Zastenker, Axwell, Sebastian Ingrosso, Vincent Pontare
+20007381||Mi Gente||J Balvin, Willy William||1||||Willy William, J Balvin
+20007399||Fetish||Selena Gomez, Gucci Mane||1||||Leland. Selena Gomez, Gucci Mane, Gino "Farrago" Barletta, Brett McLaughlin, Jonas Jeberg, Joe Khajadourian, Alex Schwartz, Chloe Angelides
+20007464||My Heart Will Go On||Celine Dion||2||||
+20007494||Here Without You||3 Doors Down||3||||
+20007495||IDGAF||Dua Lipa||1||||Whiskey Waters, Skyler Stonestreet, Larzz Principato, MNEK, Dua Lipa
+20007513||Too Good At Goodbyes||Sam Smith||2||||Jimmy Napes, Sam Smith
+20007517||Super Far||LANY||1||||Ryan Tedder, Paul Klein
+20007518||Ready For It?||Taylor Swift||1||||Ali Payami, Shellback, Max Martin, Taylor Swift
+20007555||#0000FF||Jasmine Sokko||14||||
+20007608||Sway||Michael Buble||1||||Luis Demetrio, Norman Gimbel
+20007611||All Falls Down||Alan Walker, Noah Cyrus, Digital Farm Animals||1||||
+20007648||Dear God||Avenged Sevenfold||3||||Gates, Johny Christ, The Rev, Vengeance, Shadows
+20007726||All The Stars||Kendrick Lamar, SZA||1||||Sounwave, Al Shux, SZA, Kendrick Lamar
+20007750||You Are The Reason||Calum Scott||2||||Calum Scott, Jon Maguire, Corey Sanders
+20007753||A Million Dreams||Ziv Zaifman, Michelle Ingrid Williams, Hugh Jackman||4||||Justin Paul, Benj Pasek
+20007788||Rewrite The Stars||Zac Efron, Zendaya||1||||Justin Paul, Benj Pasek
+20007818||Friends||Marshmello, Anne-Marie||1||||Natalie Dunn, Anne-Marie, Marshmello
+20007836||Supermarket Flowers||Ed Sheeran||1||||Benny Blanco, Johnny McDaid, Ed Sheeran
+20007849||I Believe||DJ Khaled, Demi Lovato||6||||DJ Khaled, Demi Lovato
+20007884||Broken Clocks||SZA||1||||Cody Fayne, SZA
+20007892||Call Out My Name||Weeknd, The||1||||Nicolas Jaar, Frank Dukes, The Weeknd
+20007943||2002||Anne-Marie||3||||Anne-Marie, Steve Mac, Ed Sheeran, Julia Michaels, Benny Blanco
+20007961||Back To You||Selena Gomez||1||||Parrish Warrington, Diederik van Elsas, Micah Premnath, Amy Allen, Selena Gomez
+20008020||Girls Like You||Maroon 5, Cardi B||1||||Gian Michael Stone, Starrah, Adam Levine, Henry Walter, Jason Evigan
+20008056||Can'T Take My Eyes Off You||Joseph Vincent||4||||Bob Crewe, Bob Gaudio
+20008135||Atouna El Toufoule||Sabyan||1||||
+20008143||Best Part||Daniel Caesar, H.E.R.||7||||H.E.R., Daniel Caesar
+20008172||Trip||Ella Mai||1||||Quinton, DJ Mustard, Ella Mai, Varren Wade
+20008177||Chandelier||Fernando Daniel||1||||
+20008275||Shallow||Lady Gaga, Bradley Cooper||2||||Andrew Wyatt, Anthony Rossomando, Mark Ronson, Lady Gaga
+20008303||When The Party'S Over||Billie Eilish||1||||FINNEAS
+20008322||8 Letters||Why Don't We||1||||James Abrahart, Jonny Price, Jordan K. Johnson, Marcus Lomax, Stefan Johnson
+20008340||Always Remember Us This Way||Lady Gaga||2||||Lori McKenna, Hillary Lindsey, Natalie Hemby, Lady Gaga
+20008365||Rewrite The Stars||Anne-Marie, James Arthur||3||||Justin Paul, Benj Pasek
+20008387||Comethru||Jeremy Zucker||1||||Danny Rakow, Jeremy Zucker
+20008421||Everything I Need||Skylar Grey||1||||Elliott Taylor, Skylar Grey
+20008476||7 Rings||Ariana Grande||2||||Tayla Parx, Kimberly Krysiuk, Njomza Vitia, Scootie, Tommy Brown, Richard Rogers, Oscar Hammerstein II, Crazy Mike, Victoria Monet, Ariana Grande
+20008478||Shot Clock||Ella Mai||1||||Benjamin Bush, Timbaland, Drake, Mustard, Ella Mai, PARTYNEXTDOOR, Micah John
+20008535||Shut Up||Greyson Chance||1||||Willy Beaman, Greyson Chance
+20008656||Idontwannabeyouanymore||Billie Eilish||1||||Billie Eilish, FINNEAS
+20008668||A Whole New World||Zayn, Zhavia Ward||2||||Justin Paul, Benj Pasek, Tim Rice, Alan Menken
+20008730||Speechless||Naomi Scott||2||||Alan Menken, Benj Pasek, Justin Paul
+20008736||Senorita||Shawn Mendes, Camila Cabello||1||||Cashmere Cat, Jack Patterson, Charli XCX, ​benny blanco, ​watt, Ali Tamposi, Camila Cabello, Shawn Mendes
+20008768||BLOW||Ed Sheeran, Chris Stapleton, Bruno Mars||1||||Bard McNamee, Brody Brown, Frank Rogers, Greg McKee, J.T. Cure, Bruno Mars, Chris Stapleton, Ed Sheeran
+20008774||High Hopes||Panic! At The Disco||1||||Sam Hollander, Cook Classics, Tayla Parx, Jake Sinclair, LOLO, Ilsey, Jonas Jeberg, Jenny Owen Youngs, Brendon Urie
+20008787||How Do You Sleep?||Sam Smith||1||||Sam Smith, Max Martin, ILYA, Savan Kotecha
+20008821||100 Degrees||Rich Brian||1||||Montana Wayne, McCulloch Reid Sutphin, Daniel Hackett, Rich Brian
+20008853||Cruel Summer||Taylor Swift||2||||Taylor Swift
+20008863||Circles||Post Malone||3||||Louis Bell, Kaan Gunesberk, Billy Walsh, Frank Dukes, Post Malone
+20008871||Location Unknown||HONNE||2||||Georgia, HONNE
+20008919||Dance Monkey||Tones and I||1||||
+20008936||Love||Keyshia Cole||2||||Ron Fair, Greg Curtis, Keyshia Cole
+20008980||Killing Me Softly||Jessie J||1||||
+20008982||Everything I Wanted||Billie Eilish||1||||Billie Eilish, FINNEAS
+20009004||Into the Unknown||Idina Menzel, Aurora Ribero||2||||Kristen Anderson-Lopez, Robert Lopez
+20009011||Blinding Lights||Weeknd, The||1||||Oscar Holter, Max Martin, The Weeknd, Belly, DaHeala
+20009025||Put A Little Love On Me||Niall Horan||1||||Mike Needle, Daniel Bryer, Jamie Scott, Niall Horan
+20009056||All I Want||Olivia Rodrigo||1||||Olivia Rodrigo
+20009086||Lalala||Y2K, bbnoS||1||||Y2K, bbnoS
+20009105||Anyone||Demi Lovato||2||||ROMANS, Jay Moon, Bibi Bourelly, Dayyon Alexander, Eyelar, Demi Lovato
+20009121||Intentions||Justin Bieber, Quavo||1||||Jimmy Giannos, Poo Bear, Dominic Jordan, Quavo, Justin Bieber
+20009141||Feel Me||Selena Gomez||1||||Selena Gomez, Lisa Scinta, Phil Shaouy, Jonathan Mills, Kurtis McKenzie, Ammar Malik, Jacob Kasher, Ross Golan
+20009162||I Love Me||Demi Lovato||12||||Keith Sorrells, OAK, Anne-Marie, Jennifer Decilveo, Alex Niceforo, Sean Douglas, Demi Lovato
+20009182||Ocean Eyes||Billie Eilish||1||||FINNEAS
+20009218||Reflection (2020)||Christina Aguilera||1||||Matthew Wilder, David Zippel
+20009262||I Just Couldn't Save You Tonight||Ardhito Pramono, Aurelie Moeremans||2||||Ardhito Pramono
+20009274||Monster||Shawn Mendes, Justin Bieber||1||||Frank Dukes, Daniel Caesar, Mustafa, Justin Bieber, Shawn Mendes
+20009278||Exile||Taylor Swift, Bon Iver||2||||Joe Alwyn, Justin Vernon, Taylor Swift
+20009309||Drivers License||Olivia Rodrigo||2||||Dan Nigro, Olivia Rodrigo
+20009322||Minefields||Faouzia, John Legend||1||||Johnny Goldstein, Sam Martin, Jacob Kasher, Halatrax, Faouzia, Charlie Puth, Ali Tamposi
+20009330||1+1||Isyana Sarasvati, Rayhan Maditra||1||||Isyana Sarasvati, Rayhan Maditra
+20009357||Angels Like You||Miley Cyrus||6||||Miley Cyrus, Louis Bell, watt, Ali Tamposi, Ryan Tedder
+20009370||To The Bone||Pamungkas||2||||Pamungkas
+20009393||Astronaut In The Ocean||Masked Wolf||1||||Masked Wolf, Tyron Hapi
+20009401||Higher Power||Coldplay||1||||Max Martin, Denise Carite, Federico Vindver, Will Champion, Guy Berryman, Jonny Buckland, Chris Martin
+20009407||Let It Go||DJ Khaled, Justin Bieber, 21 Savage||1||||SkipOnDaBeat, Al Cres, DJ Khaled, Justin Bieber, 21 Savage
+20009416||Need To Know||Doja Cat||6||||Lydia Asrat, Dr. Luke, Doja Cat
+20009428||Stay||Kid LAROI, The, Justin Bieber||1||||Finatik, Zac, Haan, Omer Fedi, Cashmere Cat, Blake Slatkin, Charlie Puth, Justin Bieber, The Kid LAROI
+20009431||Beggin'||Maneskin||1||||Peggy Farina, Bob Gaudio
+20009432||Here's Your Perfect||Jamie Miller||3||||Jamie Miller, Bendik Moller, Gian Stone, salem ilese
+20009435||Happier Than Ever||Billie Eilish||9||||FINNEAS, Billie Eilish
+20009460||Reckless||Madison Beer||1||||One Love, Big Taste, Kinetics, Madison Beer
+20009461||My Universe||Coldplay, BTS||1||||Bill Rahko, Guy Berryman, Jonny Buckland, Will Champion, Chris Martin, Max Martin, Oscar Holter, RM, SUGA (BTS), ​j-hope
+20009466||Ghost||Justin Bieber||2||||Michael Pollack, Stefan Johnson, Jordan K. Johnson, Jon Bellion, Justin Bieber
+20009469||Easy On Me||Adele||4||||Greg Kurstin, Adele
+20009474||Traitor||Olivia Rodrigo||2||||Dan Nigro, Olivia Rodrigo
+20009501||W.H.U.T||Aisha Retno||1||||Aisha Retno
+20009504||Every Summertime||NIKI||3||||Jacob Ray, Nicole Zefanya
+20009568||As It Was||Harry Styles||1||||Kid Harpoon, Tyler Johnson, Harry Styles
+20009581||Memories||Conan Gray||1||||Dan Nigro, Conan Gray
+20009584||RIP. Love||Faouzia||2||||T.I Jakke, Fransisca Hall, Faouzia
+20009585||If U Could See Me Cryin' In My Room||Arash Buana, Raissa Anggiani||1||||Arash Buana, Raissa Ang
+20009608||Until I Found You||Stephen Sanchez||1||||Stephen Sanchez
+20009634||Heaven||Calum Scott, Lyodra||1||||Calum Scott, Hayley Warner, Nolan Sipe
+20009646||Glimpse Of Us||Joji||1||||Riley McDonough, Joel Castillo, Connor McDonough, Idarose, Joji
+20009675||Edamame||bbnoS, Rich Brian||1||||Diamond Pistols, Rich Brian, ​bbnoS
+20009691||Because I Liked A boy||Sabrina Carpenter||1||||John Ryan, JP Saxe, Julia Michaels, Sabrina Carpenter
+20009703||High School in Jakarta||NIKI||1||||Nicole Zefanya
+20009729||Come Inside Of My Heart||IV OF SPADES||1||||BLASTER (PH)
+20009739||Atlantis||Seafret||2||||Roy Stride, Harry Draper, Jack Sedman
+20009830||By My Side||Zack Tabudlo, Tiara Andini||2||||Zack Tabudlo, Tiara Andini
+20009862||Vandalize||One Ok Rock||1||||Takahiro Moriuchi, Andrew De Caro Publishing Designee, Rob Cavallo, Sasha Sirota, Tyler Carter
+20009884||Nasty||Tyga, Chris Brown||1||||Tyga, Chris Brown, Huakeem Green, Ebby Marango, Alexander Edwards
+20009885||Take Me Home||PinkPantheress||3||||Future Cut, PinkPantheress
+20009888||Line Without a Hook||Ricky Montgomery||5||||Ricky Montgomery
+20009889||Scaredy Cat||DPR Ian||3||||DPR CREAM, DPR IAN
+20009894||Kill Bill||SZA||3||||SZA, Rob Bisel, Carter Lang
+20009899||Bloody Mary||Lady Gaga||1||||DJ White Shadow, Lady Gaga, Fernando Garibay, DJ Snake, Clinton Sparks
+20009922||Escapism.||RAYE, 070 Shake||2||||RAYE, 070 Shake, Mike Sabath
+20010012||drunk text||Henry Moodie||1||||Henry Moodie, Joshua Mark McClelland, Andrew Bannister
+20010049||Anything You Want||Reality Club||2||||Fathia Izzati
+20010054||Sleep Well||d4vd||1||||​d4vd, Spencer Stewart, STINT
+20010099||Better On My Own||Keisya Levronka||1||||Harry Sommerdahl, Isak Alvedahl, Keisya Levronka
+20010103||Backburner||NIKI||3||||Nicole Zefanya
+20010137||Popular||Weeknd, The, Madonna, Playboi Carti||1||||The Weeknd, Johnny Flippin, Playboi Carti, Metro Boomin, Michael Walker, MIKE DEAN, Sam Levinson
+20010142||Not You||Alan Walker, Emma Steinbakken||1||||Alan Walker, Vinni, Marcus Arnbekk, Big Fred, Gunnar Greve Pettersen, Jesper Borgen, Magnus Clausen, Tommy La Verdi
+20010155||Loneliness||Putri Ariani||1||||Putri Ariani
+20010176||Vampire||Olivia Rodrigo||1||||Olivia Rodrigo, Dan Nigro
+20010186||Car's Outside||James Arthur||1||||Dave Gibson, Bradley Spence, Alex Beitzke, James Arthur
+20010188||One Of The Girls||Weeknd, The, Jennie, Lily-Rose Depp||2||||The Weeknd, Lily-Rose Depp, MIKE DEAN, Ramsey, Sam Levinson, Sage Skolfield, JENNIE
+20010254||Tally||BLACKPINK||2||||Nat Dunn, Danny Chung, David Phelan, Alex Oriet, Brian Lee, Soraya La Pread
+20010255||Bad Idea Right?||Olivia Rodrigo||1||||Olivia Rodrigo, Dan Nigro
+20010290||From The Start||Laufey||1||||Laufey, Spencer Stewart
+20010293||Flip It Up||Tiara Andini||2||||Hyuk Shin(153/Joombas), ByHVN(153/Joombas), Rosanna Ener(153/Joombas)
+20010295||Make It Out Alive||One Ok Rock||1||||Jamil Kazmi, Kane Churko, Takahiro Moriuchi
+20010354||Water||Tyla||1||||Sammy Soso, Tyla, Ari PenSmith, Mocha Bands, Jack LoMastro, Olmo Zucca, Tricky Stewart, Rayo, Believve
+20010362||You & Me||Jennie||1||||Danny Chung, Teddy Park, 24, Vince (KOR)
+20010393||A Night To Remember||beabadoobee, Laufey||2||||​beabadoobee, Laufey, Jacob Bugden
+20010426||Can't Catch Me Now (OST: The Hunger Games: The Ballad of Songbirds & Snakes)||Olivia Rodrigo||1||||Dan Nigro
+20010506||Ngeluwihi||Tiara Andini||3||||Hyuk Shin, Chris M. Yong, Tiara Andini
+20010533||Who I Am||Alan Walker, Putri Ariani, Peder Elias||1||||Alan Walker, Gunnar Greve Pettersen, Big Fred, Marcus Arnbekk, Slipmats, Christian Hartmann
+20010539||Beautiful Things||Benson Boone||1||||Benson Boone, Jack LaFrantz, Evan Blair
+20010614||We Can't Be Friends (Wait For Your Love)||Ariana Grande||1||||Ariana Grande, Max Martin, ILYA
+20010629||Way You Look At Me||Nyoman Paul, Andi Rianto||1||||Keith Follese, Andrew Fromm
+20010651||End of Beginning||Djo||2||||Djo, Adam Thein
+20010667||Espresso||Sabrina Carpenter||2||||Sabrina Carpenter, Julian Bunetta, Amy Allen, Steph Jones
+20010700||Intro (End Of The World)||Ariana Grande||3||||Ariana Grande, Shintaro Yasuda, Nick Lee, Aaron Paris
+20010745||Saturn||SZA||1||||SZA, Carter Lang, Solomonophonic, Rob Bisel, Monsune
+20010765||Boy Is Mine||Ariana Grande||1||||Ariana Grande, Max Martin, Shintaro Yasuda, DaviDior
+20010819||Delusion:All||One Ok Rock||1||||Derek Tyler Carter, Jason Aalon Butler, Dan Lancaster
+20010850||Something Ain't Right||XG||1||||Worldwide Fresh, BENJMN, Chancellor (챈슬러), Feli Ferraro, JAKOPS (야콥), Johnny Goldstein, Tayor
+20010876||Die With A Smile||Lady Gaga, Bruno Mars||10||||Lady Gaga, Bruno Mars, James Fauntleroy, D'Mile, ​watt
+20010883||Ghost Town||Benson Boone||1||||Tushar Apte, Nolan Sipe, JT Daly, Benson Boone
+20010888||Taste||Sabrina Carpenter||1||||Sabrina Carpenter, John Ryan, Julia Michaels, Amy Allen, Ian Kirkpatrick
+20010950||Birds Of A Feather||Billie Eilish||4||||Billie Eilish, FINNEAS
+20010952||Timeless||Weeknd, The, Playboi Carti||1||||Playboi Carti, The Weeknd, Pharrell Williams, Mark Williams, Raul Cubina, Twisco, MIKE DEAN, BBYKOBE, BL$$D, Lawson & BLESSED
+20010988||APT.||Rose, Bruno Mars||9||||ROSE, Amy Allen, Theron Thomas, Cirkut, Omer Fedi, Roget Chahayed, Bruno Mars, Philip Lawrence, Brody Brown, Nicky Chinn & Mike Chapman
+20011043||Number One Girl||Rose||2||||ROSE, Bruno Mars, Amy Allen, D'Mile, Omer Fedi, Carter Lang, Sir Dylan
+20011058||Squabble Up||Kendrick Lamar||1||||Kendrick Lamar, Scott Bridgeway, Jack Antonoff, Sounwave, Matthew "Mtech" Bernard, Sam Dew, Ink
+20011065||Toxic Till The End||Rose||1||||ROSE, Evan Blair, Michael Pollack, Emily Warren
+20011074||Waking Up Together With You||Ardhito Pramono||1||||Ardhito Pramono
+20011076||Blue||Yung Kai||6||||Yung Kai
+20011121||Igloo||Kiss of Life||1||||Ido Zmishlany, bulow, Blaise Railey, Carly Gibert, Devin Workman, Dominic Fike
+20011132||Abracadabra||Lady Gaga||1||||Lady Gaga, Siouxsie, Steven Severin
+20011176||Like Jennie||Jennie||2||||Jacoby Shaddix, Tobin Esperance, Anthony Esperance, Drew Fulk, Andrew Goldstein
+20011198||Angels For Each Other||Martin Garrix, Arijit Singh||1||||Martin Garrix, Arijit Singh, Simon Carmody, Shaun Farrugia, Michel Zitron, Avinash Chouhan, Bono
+20011210||Twilight Zone||Ariana Grande||3||||Ariana Grande, Max Martin, ILYA
+20011211||Dandelion||Ariana Grande||1||||Ariana Grande, Max Martin, ILYA
+20011216||Luther||Kendrick Lamar, SZA||2||||Kendrick Lamar, SZA, Sam Dew, Ink, Roselilah, Sounwave, Cardo Got Wings, Jack Antonoff, M-Tech, Kamasi Washington & Scott Bridgeway
+20011240||Wildflower||Billie Eilish||3||||Billie Eilish, FINNEAS
+20011254||Ordinary||Alex Warren||1||||Adam Yaron, Alex Warren, CAL, Mags Duval
+20011255||You'll Be In My Heart||NIKI||5||||Phil Collins
+30000582||老鼠爱大米||Huang Jiajia||1||||
+30001238||阿爸的菜园||Zhong Xingrui||1||||
+30001833||流星雨||JVKV||2||||
+30002767||甜蜜蜜||Deng Lijun||1||||Yi Ming
+30002778||月亮代表我的心||Deng Lijun||1||||Tang Ni
+30003078||蜿蜒||Pin Guan||2||||Peng Xue Bin
+30004117||Nobody||Wonder Girls||1||||
+30004496||情非的已||Yu Chengqing||1||||
+30004547||小薇||Huang Pinyuan||1||||
+30004576||你要的爱||Dai Peini||1||||
+30005489||我会等||Cheng Huan||3||||Lu Xi Yue, Cheng Li
+40000001||Blue Bird||Ayumi Hamasaki||1||||
+40000024||Blue Bird||Ikimono Gakari||2||||
+40000077||A||Rainbow||33||||
+40000101||心の友||Mayumi Itsuwa||2||||
+40000218||Sign||FLOW||1||||Takeshi Asakawa
+40000222||#GirlsSpkOut||Taeyeon, Chanmina||7||||Adien Lewis, Willie Weeks, Shawn Halim, Megan Lee, Eill (JP)
+40000241||Gurenge||LiSA||6||||LiSA, 草野華余子
+40000242||Probably||Yoasobi||5||||Ayase
+40000315||バニーガール||AKASAKI||1||||Akasaki
+40000353||プラスティック・ラブ||Mariya Takeuchi||3||||Mariya Takeuchi
+50000004||Nobody||Wonder Girls||1||||
+50000005||Dasi Man Nan Se Gye||Girls' Generation||3||||
+50000006||OH!||Girls' Generation||1||||
+50000026||Mis Eu Teo||Kara||1||||
+50000044||Sowon Eul Mal Hae Bwa||Girls' Generation||2||||
+50000076||Haenjeu Eob||2PM||3||||J.Y. Park
+50000089||U-KISS||330||1||||
+50000128||Gus Bai Beibi||Miss A||1||||
+50000147||Annyeong Ilago Mal Haji Ma||Davichi||1||||
+50000170||Apa||2NE1||2||||Kim Byunghoon, Sunwoo Jungah
+50000196||Naega Jeil Jal Naga||2NE1||1||||Teddy Park
+50000203||Hebeun||Ailee||1||||
+50000226||Panta Seu Tig Baby||Big Bang||2||||G-Dragon, T.O.P
+50000287||Teu Wing Keul||Girls' Generation||2||||
+50000301||Eo Geu Lli||2NE1||1||||
+50000354||Al Eum Daun Bam Iya||Beast||1||||
+50000357||Gang Nam Seu Tail||PSY||5||||
+50000358||Oppan Ttag Nae Seu Tail||PSY, HyunA||1||||
+50000379||Leo Bing Yu||Sistar||2||||
+50000451||Ai Gas Eo Boi||Girls' Generation||2||||
+50000498||Jen Teul Maen||PSY||1||||
+50000615||NoNoNo||Apink||1||||Shinsadong Tiger, Rado
+50000619||Ppa Ppa Ppa||Crayon Pop||1||||
+50000644||Geu Limja||Beast||1||||
+50000654||Cheos Salang Ni||F(X)||1||||
+50000673||Crooked||G-Dragon||1||||
+50000714||Gieog||F.T. Island||1||||
+50000846||Miseu Teo Miseu Teo||Girls' Generation||1||||
+50000868||Keom Baeg Hom||2NE1||1||||Teddy Park
+50000873||Sang Namja||BTS||1||||
+50000929||Miseu Teo Chyu||Apink||1||||Duble Sidekick, SEION, David Kim
+50000943||Naui Yesna Riyagi||IU||1||||
+50000944||Nun. Ko. Ib||Taeyang||3||||Taeyang, Teddy
+50001002||Ya Ya Ya||Super Junior||1||||
+50001077||Gus Boy||GD X Taeyang||1||||
+50001104||Yasaeng Hwa||Park Hyo-shin||1||||
+50001108||12Si 30Bun||Beast||1||||
+50001186||Bae Bae||Big Bang||3||||Teddy, G-Dragon, T.O.P
+50001187||Lujeo||Big Bang||1||||Teddy, G-Dragon, T.O.P
+50001195||I Nideu U||BTS||2||||
+50001213||Baeng Baeng Baeng||Big Bang||2||||Teddy, G-Dragon, T.O.P
+50001249||Lion Heart||Girls' Generation||2||||Jam Factory, Joy Factory
+50001273||Sindelella||CN Blue||2||||
+50001287||Daddy||PSY, CL||2||||
+50001300||Haluman||BTS||1||||
+50001313||Godoghan||2NE1||1||||
+50001341||Everytime||Chen, Punch||1||||
+50001354||Fire||BTS||2||||
+50001357||Cheer Up||Twice||1||||
+50001359||Hansum||Lee Hi||1||||
+50001361||Save Me||BTS||1||||
+50001449||Bumbaya||BLACKPINK||3||||Teddy, Bekuh Boom
+50001451||Golilla||Pentagon||1||||Gavin Jones, Ali Zackowski, Harry Sommerdahl
+50001461||Hwajaelo Noneun||BLACKPINK||1||||R. Tee, Teddy
+50001504||Meomuleuda||BLACKPINK||1||||Teddy Park, Seo Wonjin
+50001523||Sonagi||I.O.I||1||||
+50001546||Fine||Taeyeon||2||||Jin Li
+50001559||Bampyeonji||IU||1||||IU
+50001593||New Face||PSY||1||||PSY
+50001600||Ulgo Sipji Anh-a||Seventeen||1||||
+50001613||Cherry Bomb||NCT 127||1||||O Minju, Im Jeonghyo, Deepflow, Mark (NCT), Taeyong
+50001619||Majimagcheoleom||BLACKPINK||4||||Teddy Park, Choice37, Brother Su
+50001634||Ko Ko Bop||EXO||1||||CHEN (EXO), Hyun Ji Won, BAEKHYUN, Chanyeol
+50001645||Maeil Deudneun Nolae||Hwang Chi-yeul||1||||한울(Hanul), Han Gil
+50001720||Black Suit||Super Junior||1||||ESBEE (Korea), Lim Jeong Hyo, Oh Min-joo (Jam Factory), Cho Yun Kyoung, Lee Su Ran (Jam Factory)
+50001726||Bagsu||Seventeen||1||||Seungkwan, Dokyeom, Mingyu, Hoshi, Jeonghan (KPOP), Woozi, Bumzu
+50001729||Byutipul||Wanna One||1||||Kebee, Tenzo
+50001856||Gominboda||BTS||1||||
+50001880||Ttuduttudu||BLACKPINK||2||||Teddy Park
+50001881||Cookie Jar||Red Velvet||11||||
+50001912||KILLING ME||iKON||2||||B.I
+50001928||What Is Love||Twice||1||||
+50001930||Forever Young||BLACKPINK||2||||Teddy Park
+50001991||YES or YES||Twice||1||||David Amber
+50002000||SOLO||Jennie||2||||Teddy Park
+50002017||Justin Bieber||Coogie, Jay Park||1||||Jay Park, Coogie
+50002058||DALLA DALLA||ITZY||1||||
+50002077||Ibbeoleus||Seventeen||1||||Woozi (우지)
+50002117||Say Yes||Loco, Punch||1||||Loco (Korean), ROCOBERRY, Ji Hoon
+50002118||Kill This Love||BLACKPINK||1||||Teddy Park, Bekuh BOOM
+50002119||Don't Know What To Do||BLACKPINK||1||||Teddy Park
+50002131||Jag-eun Geosdeul-eul Wihan Si||BTS, Halsey||2||||Halsey, J-Hope, Emily Weisband, Suga (BTS), ”hitman” Bang, Michel Schulz, Melanie Joy Fontana, RM, Pdogg
+50002156||Geuliwohada||BTOB||1||||
+50002215||Yeppeoss-eo||DAY6||1||||Young K (DAY6)
+50002278||Geudaelaneun Si||Taeyeon||1||||Park Se Joon, Ji Hoon
+50002364||Psycho||Red Velvet||1||||Kenzie, EJAE, Cazzi Opeia, Andrew Scott
+50002427||ON||BTS||2||||Suga, Melanie Fontana, Pdogg, RM, j-hope, Julia Ross, Krysta Youngs, Mick Schultz, August Rigo, Antonina Armato
+50002443||Naui Sachungiege||BOL4||1||||
+50002456||How You Like That||BLACKPINK||2||||
+50002482||Helicopter||CLC||1||||(CLC) Jang Ye Eun, Jo Yoon-Kyung (조윤경), BreadBeat
+50002495||Lovesick Girls||BLACKPINK||1||||LØREN (Lee Seungjoo), Danny Chung, Jisoo, Teddy Park, JENNIE
+50002527||Black Mamba||Aespa||1||||유영진 (Yoo Young Jin)
+50002529||Life Goes On||BTS||1||||​j-hope, SUGA (BTS), Antonina Armato, Chris James Brenner, Ruuth, RM, Pdogg
+50002540||Christmassy!||Boyz, The||1||||Sunwoo (The Boyz), 황유빈 (Hwang Yoo Bin)
+50002568||Celebrity||IU||1||||IU
+50002602||After School||Weeekly||1||||Seo Ji Eum (서지음), 서정아 (Seo Jung Ah), Daniel Lund Jorgensen, David Quinones, Denzil "DR" Remedios, Katrine "Neya" Klith, Jazelle Paris, Ry
+50002635||Next Level||Aespa||1||||유영진 (Yoo Young Jin)
+50002646||Hello Future||NCT Dream||1||||Kenzie (KOR)
+50002669||Only||Lee Hi||1||||Ahn Shin Ae (안신애)
+50002690||Beautiful||NCT 2021||1||||유영진 (Yoo Young Jin), Johnny (NCT), Taeyong (NCT), Jeno (NCT), Mark (NCT), Hendery (NCT)
+50002718||TOMBOY||(G)I-DLE||1||||JEON SOYEON, Poptime, JENCI
+50002720||Feel My Rhythm||Red Velvet||1||||Seo Ji Eum (서지음)
+50002727||Love Dive||IVE||2||||Seo Ji Eum (서지음), Sophia Brenan, Elle Campbell, Nick Hahn
+50002737||Fearless||Le Sserafim||1||||SCORE (13), Megatone (13), Supreme Boi, BLVSH (songwriter), JARO (writer), Nikolay Mohr, "hitman" Bang, Oneye, Josefin Glenmark, Emmy kasai. Kyler Niko. PAU (writer) & Destiny Rogers
+50002742||Beatbox||NCT Dream||1||||정하리 (Jeong Ha Ri)
+50002780||Pink Venom||BLACKPINK||1||||Teddy Park, 24, R.Tee, Danny Chung, IDO (KOR)
+50002784||After LIKE||IVE||1||||Ryan S. Jhun, Anders Nilsen, Seo Ji Eum (서지음), Andre Jensen, ISELIN, Mommy Son (마미손), REI (IVE)
+50002796||Shut Down||BLACKPINK||1||||Teddy Park, Danny Chung, Vince (KOR), 24
+50002847||Still Life||RM, Anderson .Paak||7||||RM, Ninos Hanna, Emil Schmidt, Adam Kulling, GHSTLOOP
+50002848||All About You||Boyz, The||12||||Carlyle Fernandes, Jom Donato, Isac Halldin, Aaro Haapanen, 김혜정 (Kim Hye Jung), Juyeon (THE BOYZ), Q (THE BOYZ), SUNWOO, Eric (THE BOYZ)
+50002849||BIBI Vengeance||BIBI||12||||BIBI (비비), The Need (KOR)
+50002850||No Blueberries||DPR Ian, DPR Live, CL||17||||DPR IAN, DPR LIVE
+50002851||Fire Saturday||SECRET NUMBER||21||||BEATAMIN, Jessi (제시)
+50002855||Beautiful Christmas||Red Velvet, Aespa||24||||김재원 (Kim Jae Won), J-Hype, ALYSA (KOR), JJean (KOR)
+50002863||FAM||Stray Kids||4||||BANG CHAN, CHANGBIN, HAN (Stray Kids), KM-Markit
+50002864||One||DRIPPIN||2||||TAK (탁), Corbin (NEWTYPE)
+50002874||Always Be Your Star (OST : The Red Sleeve)||Lia (ITZY)||1||||HUMBLER, Eo Young Soo (어영수), 김성현 (Kim Seong Hyun)
+50002936||Flower||Jisoo||1||||Vince (KOR), KUSH (쿠시), 24, VVN, Teddy Park
+50002945||I Am||IVE||1||||김이나 (Kim Eana), Ryan S. Jhun, Audun Agnar, Eline Noelia, Kristin Marie
+50002958||Unforgiven||Le Sserafim, Nile Rodgers||1||||SCORE (13), Megatone (13), Supreme Boi, Oneye, Josefin Glenmark, Anders Gukko, Anne Judith Wik, Nermin Harambasic, BENJMN, Feli Ferraro, Kris Jana, Kyler Niko, YoungChance, BELLE (songwriter), Gizzle, MK xyz & Believve
+50003033||Memories||Riize||1||||Anne Judith Wik, Ronny Svendsen, Bobii Lewis, Adrian Thesenvitz, Pizzapunk, KENZIE (KOR)
+50003068||Perfect Night||Le Sserafim||1||||SCORE (13), Megatone (13), Sofia Quinn, hitman Bang, Kiddo A.I., Marcus Andersson, Lauren Aquilina, Jorge Luis Perez, HUH YUNJIN (허윤진), Niklas Persson, Zikai & Ninos Hanna
+50003074||Drama||Aespa||1||||방혜현 (Bang Hye Hyun), Ellie Suh, No Identity (노 아이덴티티), Waker (155/Joombas), EJAE, Charlotte Wilson
+50003080||Chill Kill||Red Velvet||1||||Cazzi Opeia, Ellen Berg, 문샤인 (Moonshine), KENZIE (KOR)
+50003129||Love Wins All||IU||2||||IU (아이유), Seo Dong Hwan (서동환)
+50003161||Nectar||Boyz, The||1||||조윤경 (Cho Yun Kyoung), 82oom, Noah (PAPERMAKER), Kyler Niko, 차이린 (​chaeryn), Distract, Eric (THE BOYZ)
+50003165||SHEESH||BabyMonster||1||||Choice37, Sonny (KOR), Lil G (KOR), LP (KOR), CHOI HYUN SUK, Sandra Wikstrom, Yang Hyun Suk (양현석)
+50003198||Sudden Shower (OST: Lovely Runner)||Eclipse||1||||Han Seong Ho (한성호), 수윤 (Sooyoon), 문 킴 (Moon Kim), 박수석 (Park Soo Suk)
+50003222||Forever||BabyMonster||1||||BLVSH, Choice37, Sonny (KOR), Lil G (KOR), LP (KOR), Masta Wu
+50003224||Cosmic||Red Velvet||1||||KENZIE (KOR), Jonatan Gusmark, Ludvig Evers, Adrian McKinnon, Ellen Berg
+50003281||LOVE, MONEY, FAME||Seventeen, DJ Khaled||1||||WOOZI (우지), BUMZU, DJ Khaled, Rudi Daouk, Jakob Mihoubi, Carlyle Fernandes, Charli Taft, Daniel Obi Klein, 박기태 (Park Ki Tae), VERNON (버논) & Robb Roy
+50003293||Drip||BabyMonster||2||||AiRPLAY (KOR), Sandra Wikstrom, Illjun, G-Dragon (지드래곤), Yang Hyun Suk (양현석), Masta Wu, Choice37, Sonny (KOR)
+50003350||Sudden Shower||Eclipse||2||||Han Seong Ho, Sooyoon, Moon Kim, Park Soo Suk)
+50003366||Chase||Hearts2Hearts||1||||KENZIE (KOR), Lauren Faith, Hannah Yadi, Jorja Douglas, Renee Downer, Stella Quaresma, ​no2zcat
+60000001||Bole Chudiyan||Shah Rukh Khan||2||||Kavita Krishanamurthy, Alka Yagnik, Amit Kumar, Udit Narayan, Sonu Nigam
+60000002||Kuch Kuch Hota Hae (OST Kuch Kuch Hota Hae)||Shah Rukh Khan||2||||Udit Narayan, Alka Yagnik
+60000003||Kal Ho Naa Ho||Shah Rukh Khan||2||||Sonu Nigam
+60000006||Suraj Huan Maddham||Shah Rukh Khan||2||||Alka Yagnik, Sonu Nigam
+60000013||Chaiyya Chaiyya||Shah Rukh Khan||7||||
+60000130||Dhadkan - Dil Ne Yeh Kaha Hai Dil Se||Akshay Kumar||1||||
+60000147||Har Dil Jo Pyar Karega - Piya Piya Oh Piyar||Preity Zinta, Rani Mukherjee||1||||
+60000164||Mujhe Dosti Karoge - Andheki Anjaani||Hrithik Roshan||1||||
+60000166||Mujhe Dosti Karoge - Oh My Darling||Hrithik Roshan||1||||
+60000169||Dil Hai Tumhaara - Dil Hai Tumhaara||Preity Zinta||1||||
+60000171||Dil Hai Tumhaara - Kasam KhaKe Kaho||Preity Zinta||1||||
+60000226||Dilwale - Gerua||Shah Rukh Khan, Kajol||1||||
+60000227||Tum Hi Ho||Arijit Singh||2||||
+60000228||Janam Janam||Arijit Singh, Antara Mitra||1||||Amitabh Bhattacharya
+91000001||Buleud Remix||Azmy Z, IMP ID||1||||Dose Hudaya
+91000021||Breakbeat Indo 2024 (DJ ALBreakbeatVersi)||DJ AL BREAKBEAT||1||||
+91000025||Gaun Merah X Hidup Segan Mati Tak Mau||DJ Breakbeat||1||||
+91000030||Funkot Jangan Tanggung-Tanggung||DJ Almira Berto||1||||
+91000032||Dj Dugem Discotik 2024||DJ Goban||3||||
+91000033||Koyo Jogja Istimewa||Ndarboy Genk, Bandar Disco, Cupi Cupita||2||||Daru Jaya a.k.a Ndarboy Genk
+91000041||Kini Setelah Kutemukan Dia X Salahmu Sendiri (Dj Version)||DJ OZAWA RMX||1||||
+92000052||DJ BREAKBEAT 1||DJ Tripleks||6||||
+92000053||DJ BREAKBEAT 2||DJ Tripleks||1||||
+92000056||DJ JUNGLE DUTCH 1||DJ Tripleks||1||||
+92000071||Samarinda Sekut Remix||DJ Rycko Ria||5||||
+92000078||DJ SIKOK BAGI DUO BASS BETON INS||DJ OPE||4||||
+92000083||Breakbeat Dugem Diskotik 2023||||1||||
+92000084||Que Pasa||Whisnu Santika||4||||
+92000085||Tequila||Whisnu Santika, East Blake, Adnan Veron||5||||
+92000086||Sahara||Whisnu Santika, Volts||1||||
+92000087||Chitty Chitty Bang||Whisnu Santika, Amy B||1||||
+92000088||Booty Call||Whisnu Santika, Bravy||3||||
+92000089||Cartel||Whisnu Santika, hbrp, Keebo||14||||Dian Warunda Martha, Habib Harpi, Whisnu Santika
+92000093||Mambo Jambo||Whisnu Santika, Adnan Veron, Dub It, Liquid Silva||5||||David Agust Pasaribu, Hasib Paco Mosharraf, Veronanda Satar, Whisnu Santika
+93000008||All Of Me (Tiesto Remix)||John Legend||1||||John Stephens, Toby Gad
+93000009||DJ Tripleks 001 (Remix)||DJ Tripleks||1||||
+93000010||DJ Tripleks 002 (Remix)||DJ Tripleks||1||||
+93000135||Madu dan Racun (DJ Brian Bie Versi)||DJ Brian Bie||1||||
