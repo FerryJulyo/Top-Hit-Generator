@@ -159,7 +159,8 @@ class BatchDecryptGUI:
             self.log_message("Tidak ada file .enc ditemukan di folder sumber.")
             return
 
-        self.progress["maximum"] = self.total_files
+        total_export_steps = len(files) + len(set(f[:5] for f in files)) + 1
+        self.progress["maximum"] = total_export_steps
 
         decrypted_files = []
 
@@ -181,7 +182,9 @@ class BatchDecryptGUI:
             self.progress_label.config(text=f"{idx + 1}/{self.total_files} file diproses")
             self.root.update_idletasks()
 
-        self.process_and_merge_data(decrypted_files, dst)
+        self.process_and_merge_data(decrypted_files, dst, progress_update_callback=self.update_progress)
+        self.progress["value"] = self.progress["maximum"]
+
 
         summary = f"Selesai! {self.success_count} berhasil, {self.failure_count} gagal dari {self.total_files} file."
         self.set_buttons_state(tk.NORMAL)
@@ -199,41 +202,9 @@ class BatchDecryptGUI:
         with open(out_file, "wb") as f:
             f.write(plaintext)
 
-    def process_and_merge_data(self, file_list, output_path):
+    def process_and_merge_data(self, file_list, output_path, progress_update_callback=None):
         result = defaultdict(lambda: defaultdict(int))
-
-        for file in file_list:
-            try:
-                 with open(file, "rb") as f:
-                    office_file = msoffcrypto.OfficeFile(f)
-                    office_file.load_key(password="secret")
-
-                    decrypted = io.BytesIO()
-                    office_file.decrypt(decrypted)
-
-                    decrypted.seek(0)  # WAJIB!
-                    book = xlrd.open_workbook(file_contents=decrypted.read())
-                    sheet = book.sheet_by_name("Lap1")
-
-                    group_key = os.path.basename(file)[:5]
-                    for row_idx in range(1, sheet.nrows):
-                        song_id = str(sheet.cell(row_idx, 0).value).strip()
-                        jumlah_cell = sheet.cell(row_idx, 1).value
-
-                        if not song_id or jumlah_cell in (None, ''):
-                            continue
-
-                        try:
-                            jumlah = int(float(jumlah_cell))
-                            result[group_key][song_id] += jumlah
-                        except ValueError:
-                            print(f"[WARN] Baris {row_idx+1} di file {file}: jumlah tidak valid → {jumlah_cell}")
-                            continue
-            except Exception as e:
-                self.log_message(f"Gagal proses file {file}: {e}")
-
-    def process_and_merge_data(self, file_list, output_path):
-        result = defaultdict(lambda: defaultdict(int))
+        all_data = defaultdict(lambda: defaultdict(int))  # 🆕 Rekap semua data
 
         # Buat dictionary lookup dari master
         song_dict = {}
@@ -271,7 +242,10 @@ class BatchDecryptGUI:
 
                         try:
                             jumlah = int(float(jumlah_cell))
+                            if jumlah == 0:
+                                continue  # ⛔ abaikan data dengan jumlah 0
                             result[group_key][song_id] += jumlah
+                            all_data["ALL"][song_id] += jumlah  # 🆕 Rekap data global
                         except ValueError:
                             print(f"[WARN] Baris {row_idx+1} di file {file}: jumlah tidak valid → {jumlah_cell}")
                             continue
@@ -306,7 +280,7 @@ class BatchDecryptGUI:
                 matched_info = {"Song": "", "Singer": ""}
                 final_song_id = song_id_clean  # default
                 for master_id, info in song_dict.items():
-                    if master_id and master_id in song_id_clean:
+                    if master_id and song_id_clean in master_id:
                         matched_info = info
                         if master_id != song_id_clean:
                             final_song_id = master_id  # ganti jika tidak persis sama
@@ -325,9 +299,75 @@ class BatchDecryptGUI:
             with pd.ExcelWriter(output_file, engine="openpyxl") as writer:
                 for lang, records in lang_data.items():
                     df_sheet = pd.DataFrame(records)
+                    df_sheet.sort_values(by="Jumlah Pengguna", ascending=False, inplace=True)
                     df_sheet.to_excel(writer, sheet_name=lang[:31], index=False)
 
             self.log_message(f"File berhasil dibuat: {output_file}")
+            if progress_update_callback:
+                progress_update_callback()
+
+
+        # 🔽 Simpan file rekap semua grup
+        if all_data["ALL"]:
+            lang_data_all = defaultdict(list)
+            for song_id_raw, jumlah in all_data["ALL"].items():
+                # 🔁 Normalisasi
+                song_id_clean = re.sub(r"[A-Za-z]", "", song_id_raw).lstrip("0")
+
+                # 🔁 Kategorisasi
+                lang = "Lain-Lain"
+                if song_id_clean.startswith(("10", "11", "12", "13", "14", "15", "16", "17", "19")):
+                    lang = "Indonesia Pop"
+                elif song_id_clean.startswith("18"):
+                    lang = "Indonesia Daerah"
+                elif song_id_clean.startswith("2"):
+                    lang = "English"
+                elif song_id_clean.startswith("3"):
+                    lang = "Mandarin"
+                elif song_id_clean.startswith("4"):
+                    lang = "Jepang"
+                elif song_id_clean.startswith("5"):
+                    lang = "Korea"
+
+                # 🔁 Match master
+                matched_info = {"Song": "", "Singer": ""}
+                final_song_id = song_id_clean
+                for master_id, info in song_dict.items():
+                    if master_id and song_id_clean in master_id:
+                        matched_info = info
+                        if master_id != song_id_clean:
+                            final_song_id = master_id
+                        break
+
+                lang_data_all[lang].append({
+                    "Judul Lagu": matched_info["Song"],
+                    "Penyanyi": matched_info["Singer"],
+                    "Jumlah Pengguna": jumlah,
+                    "ID": final_song_id
+                })
+
+            # 🔁 Simpan ke file
+            output_file_all = os.path.join(output_path, "IDLAGU_ALL.xlsx")
+            with pd.ExcelWriter(output_file_all, engine="openpyxl") as writer:
+                for lang, records in lang_data_all.items():
+                    df_sheet = pd.DataFrame(records)
+                    df_sheet = df_sheet.groupby("ID", as_index=False).agg({
+                        "Judul Lagu": "first",
+                        "Penyanyi": "first",
+                        "Jumlah Pengguna": "sum"
+                    })
+
+                    df_sheet.sort_values(by="Jumlah Pengguna", ascending=False, inplace=True)
+                    df_sheet.to_excel(writer, sheet_name=lang[:31], index=False)
+
+            self.log_message(f"File gabungan berhasil dibuat: {output_file_all}")
+            if progress_update_callback:
+                progress_update_callback()
+
+    def update_progress(self):
+        self.progress["value"] += 1
+        self.root.update_idletasks()
+
 
 if __name__ == "__main__":
     root = tk.Tk()
