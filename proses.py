@@ -166,7 +166,16 @@ class BatchDecryptGUI:
 
         for idx, file_name in enumerate(files):
             enc_file = os.path.join(src, file_name)
-            dec_file = os.path.join(dst, file_name[:-4] + ".xls")
+            base_name = os.path.basename(enc_file)[:5]
+            new_name = f"{base_name}.xls"
+            dec_file = os.path.join(dst, new_name)
+
+            # Jika file sudah ada, tambahkan nomor
+            counter = 2
+            while os.path.exists(dec_file):
+                new_name = f"{base_name}({counter}).xls"
+                dec_file = os.path.join(dst, new_name)
+                counter += 1
             try:
                 self.decrypt_file(enc_file, dec_file, self.encryption_key.get())
                 decrypted_files.append(dec_file)
