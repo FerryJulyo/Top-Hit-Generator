@@ -1,25 +1,34 @@
 import os
+import io
+import msoffcrypto
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
+import re
 import hashlib
 import threading
 import datetime
+import pandas as pd
+import xlrd
+from collections import defaultdict
 
 class BatchDecryptGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Batch Decrypt File")
-        self.root.geometry("800x600")
+        self.root.title("Generate Top Hit")
+        self.root.geometry("750x600")
 
         self.source_folder = tk.StringVar()
         self.destination_folder = tk.StringVar()
-        self.encryption_key = tk.StringVar(value="60132323abcd")  # Key diset default dan tidak tampil
+        self.database_file = tk.StringVar()
+        self.encryption_key = tk.StringVar(value="60132323abcd")
 
         self.total_files = 0
         self.success_count = 0
         self.failure_count = 0
+
+        self.df_db = None
 
         self.setup_ui()
 
@@ -27,29 +36,32 @@ class BatchDecryptGUI:
         main_frame = ttk.Frame(self.root, padding="20")
         main_frame.pack(fill=tk.BOTH, expand=True)
 
-        # Source folder
         ttk.Label(main_frame, text="Folder Sumber:").grid(row=0, column=0, sticky=tk.W)
         ttk.Entry(main_frame, textvariable=self.source_folder, width=60).grid(row=0, column=1, padx=10)
-        ttk.Button(main_frame, text="Pilih", command=self.browse_source).grid(row=0, column=2)
+        self.btn_browse_source = ttk.Button(main_frame, text="Pilih", command=self.browse_source)
+        self.btn_browse_source.grid(row=0, column=2)
 
-        # Destination folder
         ttk.Label(main_frame, text="Folder Tujuan:").grid(row=1, column=0, sticky=tk.W, pady=(10, 0))
         ttk.Entry(main_frame, textvariable=self.destination_folder, width=60).grid(row=1, column=1, padx=10, pady=(10, 0))
-        ttk.Button(main_frame, text="Pilih", command=self.browse_destination).grid(row=1, column=2, pady=(10, 0))
+        self.btn_browse_destination = ttk.Button(main_frame, text="Pilih", command=self.browse_destination)
+        self.btn_browse_destination.grid(row=1, column=2, pady=(10, 0))
 
-        # Tombol proses
-        ttk.Button(main_frame, text="Mulai Proses", command=self.start_decryption).grid(row=2, column=0, columnspan=3, pady=20)
+        ttk.Label(main_frame, text="File Database (xlsx):").grid(row=2, column=0, sticky=tk.W, pady=(10, 0))
+        ttk.Entry(main_frame, textvariable=self.database_file, width=60).grid(row=2, column=1, padx=10, pady=(10, 0))
+        self.btn_browse_database = ttk.Button(main_frame, text="Pilih", command=self.browse_database)
+        self.btn_browse_database.grid(row=2, column=2, pady=(10, 0))
 
-        # Progress bar dan label
+        self.btn_start = ttk.Button(main_frame, text="Mulai Proses", command=self.start_decryption)
+        self.btn_start.grid(row=3, column=0, columnspan=3, pady=20)
+
         self.progress = ttk.Progressbar(main_frame, orient="horizontal", length=400, mode="determinate")
-        self.progress.grid(row=3, column=0, columnspan=3, pady=(0, 10))
+        self.progress.grid(row=4, column=0, columnspan=3, pady=(0, 10))
 
         self.progress_label = ttk.Label(main_frame, text="")
-        self.progress_label.grid(row=4, column=0, columnspan=3)
+        self.progress_label.grid(row=5, column=0, columnspan=3)
 
-        # Kotak log progres
         progress_log_frame = ttk.LabelFrame(main_frame, text="Log Progres File", padding="10")
-        progress_log_frame.grid(row=5, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=10)
+        progress_log_frame.grid(row=6, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=10)
         progress_log_frame.columnconfigure(0, weight=1)
         progress_log_frame.rowconfigure(0, weight=1)
 
@@ -60,9 +72,8 @@ class BatchDecryptGUI:
         scrollbar.grid(row=0, column=1, sticky=(tk.N, tk.S))
         self.progress_text.configure(yscrollcommand=scrollbar.set)
 
-        # Kotak log umum
         log_frame = ttk.LabelFrame(main_frame, text="Log Status", padding="10")
-        log_frame.grid(row=6, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=10)
+        log_frame.grid(row=7, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=10)
         log_frame.columnconfigure(0, weight=1)
         log_frame.rowconfigure(0, weight=1)
 
@@ -83,6 +94,11 @@ class BatchDecryptGUI:
         if folder:
             self.destination_folder.set(folder)
 
+    def browse_database(self):
+        file = filedialog.askopenfilename(filetypes=[("Excel files", "*.xlsx")])
+        if file:
+            self.database_file.set(file)
+
     def log_message(self, message):
         timestamp = datetime.datetime.now().strftime("%H:%M:%S")
         self.log_text.insert(tk.END, f"[{timestamp}] {message}\n")
@@ -96,19 +112,37 @@ class BatchDecryptGUI:
         self.root.update_idletasks()
 
     def start_decryption(self):
+        self.set_buttons_state(tk.DISABLED)
         thread = threading.Thread(target=self.decrypt_all_files)
         thread.start()
+
+    def set_buttons_state(self, state):
+        self.btn_browse_source.config(state=state)
+        self.btn_browse_destination.config(state=state)
+        self.btn_browse_database.config(state=state)
+        self.btn_start.config(state=state)
+
 
     def decrypt_all_files(self):
         src = self.source_folder.get()
         dst = self.destination_folder.get()
+        db_path = self.database_file.get()
 
         if not os.path.isdir(src):
             messagebox.showerror("Error", "Folder sumber tidak valid.")
             return
-
         if not os.path.isdir(dst):
             messagebox.showerror("Error", "Folder tujuan tidak valid.")
+            return
+        if not os.path.isfile(db_path):
+            messagebox.showerror("Error", "File database tidak ditemukan.")
+            return
+
+        try:
+            self.log_message("Sedang membaca file master...")
+            self.df_db = pd.read_excel(db_path, sheet_name="Song", usecols=["SongId", "Song", "Sing1", "Sing2", "Sing3", "Sing4", "Sing5"])
+        except Exception as e:
+            self.log_message(f"Gagal membaca database: {e}")
             return
 
         self.total_files = 0
@@ -127,25 +161,30 @@ class BatchDecryptGUI:
 
         self.progress["maximum"] = self.total_files
 
+        decrypted_files = []
+
         for idx, file_name in enumerate(files):
             enc_file = os.path.join(src, file_name)
-            dec_file = os.path.join(dst, file_name[:-4] + ".xls")  # Ubah ekstensi menjadi .xls
+            dec_file = os.path.join(dst, file_name[:-4] + ".xls")
             try:
                 self.decrypt_file(enc_file, dec_file, self.encryption_key.get())
+                decrypted_files.append(dec_file)
                 self.success_count += 1
                 self.log_message(f"✓ Berhasil: {os.path.basename(enc_file)}")
                 self.log_progress(f"✓ {os.path.basename(enc_file)} berhasil didekripsi")
             except Exception as e:
                 self.failure_count += 1
-                message = f"✗ Gagal: {os.path.basename(enc_file)} - {str(e)}"
-                self.log_message(message)
-                self.log_progress(f"✗ {os.path.basename(enc_file)} gagal: {message}")
+                self.log_message(f"✗ Gagal: {os.path.basename(enc_file)} - {str(e)}")
+                self.log_progress(f"✗ {os.path.basename(enc_file)} gagal: {str(e)}")
 
             self.progress["value"] = idx + 1
             self.progress_label.config(text=f"{idx + 1}/{self.total_files} file diproses")
             self.root.update_idletasks()
 
+        self.process_and_merge_data(decrypted_files, dst)
+
         summary = f"Selesai! {self.success_count} berhasil, {self.failure_count} gagal dari {self.total_files} file."
+        self.set_buttons_state(tk.NORMAL)
         self.log_message(summary)
         messagebox.showinfo("Selesai", summary)
 
@@ -159,6 +198,136 @@ class BatchDecryptGUI:
 
         with open(out_file, "wb") as f:
             f.write(plaintext)
+
+    def process_and_merge_data(self, file_list, output_path):
+        result = defaultdict(lambda: defaultdict(int))
+
+        for file in file_list:
+            try:
+                 with open(file, "rb") as f:
+                    office_file = msoffcrypto.OfficeFile(f)
+                    office_file.load_key(password="secret")
+
+                    decrypted = io.BytesIO()
+                    office_file.decrypt(decrypted)
+
+                    decrypted.seek(0)  # WAJIB!
+                    book = xlrd.open_workbook(file_contents=decrypted.read())
+                    sheet = book.sheet_by_name("Lap1")
+
+                    group_key = os.path.basename(file)[:5]
+                    for row_idx in range(1, sheet.nrows):
+                        song_id = str(sheet.cell(row_idx, 0).value).strip()
+                        jumlah_cell = sheet.cell(row_idx, 1).value
+
+                        if not song_id or jumlah_cell in (None, ''):
+                            continue
+
+                        try:
+                            jumlah = int(float(jumlah_cell))
+                            result[group_key][song_id] += jumlah
+                        except ValueError:
+                            print(f"[WARN] Baris {row_idx+1} di file {file}: jumlah tidak valid → {jumlah_cell}")
+                            continue
+            except Exception as e:
+                self.log_message(f"Gagal proses file {file}: {e}")
+
+    def process_and_merge_data(self, file_list, output_path):
+        result = defaultdict(lambda: defaultdict(int))
+
+        # Buat dictionary lookup dari master
+        song_dict = {}
+        if self.df_db is not None:
+            for _, row in self.df_db.iterrows():
+                song_id = str(row["SongId"]).strip()
+                song_name = str(row["Song"]).strip() if not pd.isna(row["Song"]) else ""
+                singers = [str(row[col]).strip() for col in ["Sing1", "Sing2", "Sing3", "Sing4", "Sing5"] if not pd.isna(row[col]) and str(row[col]).strip()]
+                song_dict[song_id] = {
+                    "Song": song_name,
+                    "Singer": " - ".join(singers)
+                }
+
+        # Proses semua file terenkripsi
+        for file in file_list:
+            try:
+                with open(file, "rb") as f:
+                    office_file = msoffcrypto.OfficeFile(f)
+                    office_file.load_key(password="secret")
+
+                    decrypted = io.BytesIO()
+                    office_file.decrypt(decrypted)
+
+                    decrypted.seek(0)
+                    book = xlrd.open_workbook(file_contents=decrypted.read())
+                    sheet = book.sheet_by_name("Lap1")
+
+                    group_key = os.path.basename(file)[:5]
+                    for row_idx in range(1, sheet.nrows):
+                        song_id = str(sheet.cell(row_idx, 0).value).strip()
+                        jumlah_cell = sheet.cell(row_idx, 1).value
+
+                        if not song_id or jumlah_cell in (None, ''):
+                            continue
+
+                        try:
+                            jumlah = int(float(jumlah_cell))
+                            result[group_key][song_id] += jumlah
+                        except ValueError:
+                            print(f"[WARN] Baris {row_idx+1} di file {file}: jumlah tidak valid → {jumlah_cell}")
+                            continue
+            except Exception as e:
+                self.log_message(f"Gagal proses file {file}: {e}")
+
+        # Simpan output per group
+        for group, items in result.items():
+            lang_data = defaultdict(list)
+
+            for song_id_raw, jumlah in items.items():
+                # 1️⃣ Normalisasi SongId
+                song_id_clean = re.sub(r"[A-Za-z]", "", song_id_raw)  # Hapus huruf
+                song_id_clean = song_id_clean.lstrip("0")             # Hapus prefix 0
+
+                # 2️⃣ Kategorisasi berdasarkan awal angka
+                lang = "Lain-Lain"
+                if song_id_clean.startswith(("10", "11", "12", "13", "14", "15", "16", "17", "19")):
+                    lang = "Indonesia Pop"
+                elif song_id_clean.startswith("18"):
+                    lang = "Indonesia Daerah"
+                elif song_id_clean.startswith("2"):
+                    lang = "English"
+                elif song_id_clean.startswith("3"):
+                    lang = "Mandarin"
+                elif song_id_clean.startswith("4"):
+                    lang = "Jepang"
+                elif song_id_clean.startswith("5"):
+                    lang = "Korea"
+
+                # 3️⃣ Cari kecocokan master SongId (LIKE match)
+                matched_info = {"Song": "", "Singer": ""}
+                final_song_id = song_id_clean  # default
+                for master_id, info in song_dict.items():
+                    if master_id and master_id in song_id_clean:
+                        matched_info = info
+                        if master_id != song_id_clean:
+                            final_song_id = master_id  # ganti jika tidak persis sama
+                        break
+
+                # 4️⃣ Tambahkan ke kategori lang
+                lang_data[lang].append({
+                    "Judul Lagu": matched_info["Song"],
+                    "Penyanyi": matched_info["Singer"],
+                    "Jumlah Pengguna": jumlah,
+                    "ID": final_song_id
+                })
+
+            # Buat Excel writer untuk setiap group
+            output_file = os.path.join(output_path, f"IDLAGU_Outlet_{group}.xlsx")
+            with pd.ExcelWriter(output_file, engine="openpyxl") as writer:
+                for lang, records in lang_data.items():
+                    df_sheet = pd.DataFrame(records)
+                    df_sheet.to_excel(writer, sheet_name=lang[:31], index=False)
+
+            self.log_message(f"File berhasil dibuat: {output_file}")
 
 if __name__ == "__main__":
     root = tk.Tk()
