@@ -345,11 +345,70 @@ class BatchDecryptGUI:
 
             # Buat Excel writer untuk setiap group
             output_file = os.path.join(output_path, f"IDLAGU_Outlet_{group}.xlsx")
+
+            language_categories = {
+                "Indonesia Pop": "Indonesia Pop",
+                "Indonesia Daerah": "Indonesia Daerah",
+                "English": "English",
+                "Mandarin": "Mandarin",
+                "Jepang": "Jepang",
+                "Korea": "Korea",
+                "Lain-Lain": "Lain-Lain"
+            }
+
+            category_sums = {}
+
             with pd.ExcelWriter(output_file, engine="openpyxl") as writer:
                 for lang, records in lang_data.items():
                     df_sheet = pd.DataFrame(records)
                     df_sheet.sort_values(by="Jumlah Pengguna", ascending=False, inplace=True)
-                    df_sheet.to_excel(writer, sheet_name=lang[:31], index=False)
+                    sheet_name = lang[:31]  # Excel sheet name max length = 31
+                    df_sheet.to_excel(writer, sheet_name=sheet_name, index=False)
+
+                    worksheet = writer.sheets[sheet_name]
+                    row_count = len(df_sheet) + 2  # +2 because of header
+
+                    # Write "Jumlah" and SUM formula in each sheet
+                    worksheet.cell(row=row_count, column=1).value = "Jumlah"
+                    worksheet.cell(row=row_count, column=3).value = f"=SUM(C2:C{row_count-1})"
+
+                    # Simpan referensi formula hasil jumlah untuk sheet "Total"
+                    category_sums[lang] = f"='{sheet_name}'!C{row_count}"
+
+                # Setelah semua sheet selesai, tulis sheet "Total"
+                total_sheet = writer.book.create_sheet("Total")
+
+                # Baris header kategori
+                headers = list(language_categories.keys())
+                total_sheet.append(headers + ["Total"])
+
+                # Baris jumlah (dengan formula per sheet)
+                sum_row = []
+                for lang in headers:
+                    formula = category_sums.get(lang, "0")
+                    sum_row.append(f"={formula}")
+                total_col_letter = get_column_letter(len(headers))
+                sum_row.append(f"=SUM(A3:{total_col_letter}3)")
+                total_sheet.append(sum_row)
+
+                # Baris label "Prosentase"
+                total_sheet.append(["Prosentase"] * len(headers) + ["Total"])
+
+                # Baris header ulang
+                total_sheet.append(headers + [""])
+
+                # Baris prosentase
+                percent_row = []
+                for i in range(len(headers)):
+                    col_letter = get_column_letter(i + 1)
+                    percent_row.append(f"={col_letter}3/H3")  # asumsi total di H3
+                percent_row.append("=H3/H3")
+                total_sheet.append(percent_row)
+
+                # Optional: rapikan align center
+                for row in total_sheet.iter_rows(min_row=1, max_row=5, min_col=1, max_col=8):
+                    for cell in row:
+                        cell.alignment = Alignment(horizontal="center")
 
             self.log_message(f"File berhasil dibuat: {output_file}")
             if progress_update_callback:
@@ -397,17 +456,71 @@ class BatchDecryptGUI:
 
             # 🔁 Simpan ke file
             output_file_all = os.path.join(output_path, "IDLAGU_ALL.xlsx")
+
+            language_categories = {
+                "Indonesia Pop": "Indonesia Pop",
+                "Indonesia Daerah": "Indonesia Daerah",
+                "English": "English",
+                "Mandarin": "Mandarin",
+                "Jepang": "Jepang",
+                "Korea": "Korea",
+                "Lain-Lain": "Lain-Lain"
+            }
+
+            category_sums = {}
+
             with pd.ExcelWriter(output_file_all, engine="openpyxl") as writer:
                 for lang, records in lang_data_all.items():
                     df_sheet = pd.DataFrame(records)
-                    df_sheet = df_sheet.groupby("ID", as_index=False).agg({
-                        "Judul Lagu": "first",
-                        "Penyanyi": "first",
-                        "Jumlah Pengguna": "sum"
-                    })
-
                     df_sheet.sort_values(by="Jumlah Pengguna", ascending=False, inplace=True)
-                    df_sheet.to_excel(writer, sheet_name=lang[:31], index=False)
+                    sheet_name = lang[:31]  # Excel sheet name max length = 31
+                    df_sheet.to_excel(writer, sheet_name=sheet_name, index=False)
+
+                    worksheet = writer.sheets[sheet_name]
+                    row_count = len(df_sheet) + 2  # +2 because of header
+
+                    # Write "Jumlah" and SUM formula in each sheet
+                    worksheet.cell(row=row_count, column=1).value = "Jumlah"
+                    worksheet.cell(row=row_count, column=3).value = f"=SUM(C2:C{row_count-1})"
+
+                    # Simpan referensi formula hasil jumlah untuk sheet "Total"
+                    category_sums[lang] = f"='{sheet_name}'!C{row_count}"
+
+                # Setelah semua sheet selesai, tulis sheet "Total"
+                total_sheet = writer.book.create_sheet("Total")
+
+                # Baris header kategori
+                headers = list(language_categories.keys())
+                total_sheet.append(headers + ["Total"])
+
+                # Baris jumlah (dengan formula per sheet)
+                sum_row = []
+                for lang in headers:
+                    formula = category_sums.get(lang, "0")
+                    sum_row.append(f"={formula}")
+                total_col_letter = get_column_letter(len(headers))
+                sum_row.append(f"=SUM(A3:{total_col_letter}3)")
+                total_sheet.append(sum_row)
+
+                # Baris label "Prosentase"
+                total_sheet.append(["Prosentase"] * len(headers) + ["Total"])
+
+                # Baris header ulang
+                total_sheet.append(headers + [""])
+
+                # Baris prosentase
+                percent_row = []
+                for i in range(len(headers)):
+                    col_letter = get_column_letter(i + 1)
+                    percent_row.append(f"={col_letter}3/H3")  # asumsi total di H3
+                percent_row.append("=H3/H3")
+                total_sheet.append(percent_row)
+
+                # Optional: rapikan align center
+                for row in total_sheet.iter_rows(min_row=1, max_row=5, min_col=1, max_col=8):
+                    for cell in row:
+                        cell.alignment = Alignment(horizontal="center")
+
 
             self.log_message(f"File gabungan berhasil dibuat: {output_file_all}")
             if progress_update_callback:
