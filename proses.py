@@ -2,15 +2,20 @@ import os
 import io
 import msoffcrypto
 import tkinter as tk
-from tkinter import filedialog, messagebox, ttk
-from Crypto.Cipher import AES
-from Crypto.Util.Padding import pad, unpad
 import re
 import hashlib
 import threading
 import datetime
 import pandas as pd
 import xlrd
+import tempfile
+
+from openpyxl import load_workbook
+from tempfile import NamedTemporaryFile
+from xlrd.biffh import XLRDError
+from tkinter import filedialog, messagebox, ttk
+from Crypto.Cipher import AES
+from Crypto.Util.Padding import pad, unpad
 from collections import defaultdict
 
 class BatchDecryptGUI:
@@ -166,16 +171,7 @@ class BatchDecryptGUI:
 
         for idx, file_name in enumerate(files):
             enc_file = os.path.join(src, file_name)
-            base_name = os.path.basename(enc_file)[:5]
-            new_name = f"{base_name}.xls"
-            dec_file = os.path.join(dst, new_name)
-
-            # Jika file sudah ada, tambahkan nomor
-            counter = 2
-            while os.path.exists(dec_file):
-                new_name = f"{base_name}({counter}).xls"
-                dec_file = os.path.join(dst, new_name)
-                counter += 1
+            dec_file = os.path.join(dst, file_name[:-4] + ".xls")
             try:
                 self.decrypt_file(enc_file, dec_file, self.encryption_key.get())
                 decrypted_files.append(dec_file)
@@ -230,36 +226,80 @@ class BatchDecryptGUI:
         # Proses semua file terenkripsi
         for file in file_list:
             try:
-                with open(file, "rb") as f:
-                    office_file = msoffcrypto.OfficeFile(f)
-                    office_file.load_key(password="secret")
+                # 1. Verifikasi file exists
+                if not os.path.exists(file):
+                    self.log_message(f"File tidak ditemukan: {file}")
+                    continue
 
-                    decrypted = io.BytesIO()
-                    office_file.decrypt(decrypted)
+                # 2. Coba baca langsung dengan pandas (untuk file tidak terenkripsi)
+                try:
+                    # 1. Coba baca langsung tanpa dekripsi
+                    df = pd.read_excel(file, sheet_name="Lap1")
+                    self.log_message(f"File {file} berhasil dibaca tanpa dekripsi")
+                except:
+                    # 2. Jika gagal, coba dekripsi dengan msoffcrypto
+                    try:
+                        with open(file, "rb") as f:
+                            office_file = msoffcrypto.OfficeFile(f)
+                            office_file.load_key(password="secret")  # Ganti dengan password yang sesuai
+                            
+                            # Decrypt file ke dalam memory
+                            decrypted = io.BytesIO()
+                            office_file.decrypt(decrypted)
 
-                    decrypted.seek(0)
-                    book = xlrd.open_workbook(file_contents=decrypted.read())
-                    sheet = book.sheet_by_name("Lap1")
-
-                    group_key = os.path.basename(file)[:5]
-                    for row_idx in range(1, sheet.nrows):
-                        song_id = str(sheet.cell(row_idx, 0).value).strip()
-                        jumlah_cell = sheet.cell(row_idx, 1).value
-
-                        if not song_id or jumlah_cell in (None, ''):
-                            continue
+                        # Simpan ke temporary file dari hasil decrypt
+                        with tempfile.NamedTemporaryFile(suffix='.xlsx', delete=False) as temp_file:
+                            temp_file.write(decrypted.getvalue())
+                            temp_path = temp_file.name
 
                         try:
-                            jumlah = int(float(jumlah_cell))
-                            if jumlah == 0:
-                                continue  # ⛔ abaikan data dengan jumlah 0
-                            result[group_key][song_id] += jumlah
-                            all_data["ALL"][song_id] += jumlah  # 🆕 Rekap data global
-                        except ValueError:
-                            print(f"[WARN] Baris {row_idx+1} di file {file}: jumlah tidak valid → {jumlah_cell}")
+                            # 3. Coba baca dari hasil decrypt
+                            df = pd.read_excel(temp_path, sheet_name="Lap1")
+                            self.log_message(f"File {file} berhasil dibaca setelah dekripsi")
+                        except Exception as e:
+                            self.log_message(f"Gagal baca file setelah dekripsi: {str(e)}")
                             continue
+                        finally:
+                            # 4. Hapus file sementara
+                            try:
+                                os.unlink(temp_path)
+                            except:
+                                pass
+
+                    except Exception as e:
+                        self.log_message(f"Gagal proses file terenkripsi {file}: {str(e)}")
+                        continue
+
+                # 4. Proses data dari DataFrame
+                group_key = os.path.basename(file)[:5]
+                
+                for index, row in df.iterrows():
+                    try:
+                        # Gunakan iloc untuk akses kolom by index
+                        song_id = str(row.iloc[0]).strip() if pd.notna(row.iloc[0]) else ""
+                        jumlah_cell = row.iloc[1] if len(row) > 1 else None
+                        
+                        if not song_id or pd.isna(jumlah_cell):
+                            continue
+                            
+                        try:
+                            # Handle berbagai format angka
+                            jumlah = int(float(str(jumlah_cell))) if str(jumlah_cell).strip() else 0
+                            if jumlah == 0:
+                                continue
+                                
+                            # Update hasil
+                            result[group_key][song_id] += jumlah
+                            all_data["ALL"][song_id] += jumlah
+                        except ValueError:
+                            print(f"[WARN] Baris {index+1} di file {file}: jumlah tidak valid → {jumlah_cell}")
+                            
+                    except Exception as e:
+                        print(f"[ERROR] Baris {index+1} di file {file}: {str(e)}")
+                        continue
+
             except Exception as e:
-                self.log_message(f"Gagal proses file {file}: {e}")
+                self.log_message(f"Error utama saat proses file {file}: {str(e)}")
 
         # Simpan output per group
         for group, items in result.items():
