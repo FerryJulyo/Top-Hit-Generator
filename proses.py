@@ -10,6 +10,7 @@ import pandas as pd
 import xlrd
 import tempfile
 
+from openpyxl.styles import Alignment
 from openpyxl.utils import get_column_letter
 from openpyxl import load_workbook
 from tempfile import NamedTemporaryFile
@@ -35,6 +36,7 @@ class BatchDecryptGUI:
         self.failure_count = 0
 
         self.df_db = None
+        self.df_db_sing = None
 
         self.setup_ui()
 
@@ -146,7 +148,8 @@ class BatchDecryptGUI:
 
         try:
             self.log_message("Sedang membaca file master...")
-            self.df_db = pd.read_excel(db_path, sheet_name="Song", usecols=["SongId", "Song", "Sing1", "Sing2", "Sing3", "Sing4", "Sing5"])
+            self.df_db = pd.read_excel(db_path, sheet_name="Song", usecols=["SongId", "Song","RomanSong", "Sing1","SingId1", "Sing2","SingId2", "Sing3","SingId3", "Sing4","SingId4", "Sing5","SingId5"])
+            self.df_db_sing = pd.read_excel(db_path, sheet_name="Sing", usecols=["SingId", "RomanSing"])
         except Exception as e:
             self.log_message(f"Gagal membaca database: {e}")
             return
@@ -214,14 +217,27 @@ class BatchDecryptGUI:
 
         # Buat dictionary lookup dari master
         song_dict = {}
+        sing_dict = {}
         if self.df_db is not None:
             for _, row in self.df_db.iterrows():
                 song_id = str(row["SongId"]).strip()
                 song_name = str(row["Song"]).strip() if not pd.isna(row["Song"]) else ""
+                rosong_name = str(row["RomanSong"]).strip() if not pd.isna(row["RomanSong"]) else ""
                 singers = [str(row[col]).strip() for col in ["Sing1", "Sing2", "Sing3", "Sing4", "Sing5"] if not pd.isna(row[col]) and str(row[col]).strip()]
+                singers_id = [str(row[col]).strip() for col in ["SingId1", "SingId2", "SingId3", "SingId4", "SingId5"] if not pd.isna(row[col]) and str(row[col]).strip()]
                 song_dict[song_id] = {
                     "Song": song_name,
-                    "Singer": " - ".join(singers)
+                    "RomanSong": rosong_name,
+                    "Singer": " - ".join(singers),
+                    "SingerId": " - ".join(singers_id)
+                }
+
+        if self.df_db_sing is not None:
+            for _, row in self.df_db_sing.iterrows():
+                sing_id = str(row["SingId"]).strip()
+                roman_name = str(row["RomanSing"]).strip() if not pd.isna(row["RomanSing"]) else ""
+                sing_dict[song_id] = {
+                    "RomanSing": roman_name
                 }
 
         # Proses semua file terenkripsi
@@ -326,8 +342,9 @@ class BatchDecryptGUI:
                 elif song_id_clean.startswith("5"):
                     lang = "Korea"
 
+
                 # 3️⃣ Cari kecocokan master SongId (LIKE match)
-                matched_info = {"Song": "", "Singer": ""}
+                matched_info = {"Song": "","RomanSong": "", "Singer": "","SingId": ""}
                 final_song_id = song_id_clean  # default
                 for master_id, info in song_dict.items():
                     if master_id and song_id_clean in master_id:
@@ -335,14 +352,31 @@ class BatchDecryptGUI:
                         if master_id != song_id_clean:
                             final_song_id = master_id  # ganti jika tidak persis sama
                         break
-
                 # 4️⃣ Tambahkan ke kategori lang
-                lang_data[lang].append({
-                    "Judul Lagu": matched_info["Song"],
-                    "Penyanyi": matched_info["Singer"],
-                    "Jumlah Pengguna": jumlah,
-                    "ID": final_song_id
-                })
+                if lang in ["Mandarin", "Korea", "Jepang"]:
+                    penyanyi_ids = matched_info["SingId"].split(" - ")  # split ID dari "SingerId"
+                    penyanyi_roman = []
+
+                    for pid in penyanyi_ids:
+                        roman = sing_dict.get(pid, {}).get("RomanSing", "")  # cari dari sing_dict
+                        if roman:
+                            penyanyi_roman.append(roman)
+                        else:
+                            penyanyi_roman.append(pid)  # fallback ke ID jika nama tidak ditemukan
+
+                    lang_data[lang].append({
+                        "Judul Lagu": matched_info["RomanSong"],
+                        "Penyanyi": " - ".join(penyanyi_roman),
+                        "Jumlah Pengguna": jumlah,
+                        "ID": final_song_id
+                    })
+                else:
+                    lang_data[lang].append({
+                        "Judul Lagu": matched_info["Song"],
+                        "Penyanyi": matched_info["Singer"],
+                        "Jumlah Pengguna": jumlah,
+                        "ID": final_song_id
+                    })
 
             # Buat Excel writer untuk setiap group
             output_file = os.path.join(output_path, f"IDLAGU_Outlet_{group}.xlsx")
@@ -389,11 +423,11 @@ class BatchDecryptGUI:
                     formula = category_sums.get(lang, "0")
                     sum_row.append(f"={formula}")
                 total_col_letter = get_column_letter(len(headers))
-                sum_row.append(f"=SUM(A3:{total_col_letter}3)")
+                sum_row.append(f"=SUM(A2:{total_col_letter}2)")
                 total_sheet.append(sum_row)
 
                 # Baris label "Prosentase"
-                total_sheet.append(["Prosentase"] * len(headers) + ["Total"])
+                # total_sheet.append(["Prosentase"] * len(headers) + ["Total"])
 
                 # Baris header ulang
                 total_sheet.append(headers + [""])
@@ -402,8 +436,8 @@ class BatchDecryptGUI:
                 percent_row = []
                 for i in range(len(headers)):
                     col_letter = get_column_letter(i + 1)
-                    percent_row.append(f"={col_letter}3/H3")  # asumsi total di H3
-                percent_row.append("=H3/H3")
+                    percent_row.append(f"={col_letter}2/H2")  # asumsi total di H2
+                percent_row.append("=H2/H2")
                 total_sheet.append(percent_row)
 
                 # Optional: rapikan align center
@@ -439,7 +473,7 @@ class BatchDecryptGUI:
                     lang = "Korea"
 
                 # 🔁 Match master
-                matched_info = {"Song": "", "Singer": ""}
+                matched_info = {"Song": "","RomanSong": "", "Singer": "","SingId": ""}
                 final_song_id = song_id_clean
                 for master_id, info in song_dict.items():
                     if master_id and song_id_clean in master_id:
@@ -448,12 +482,31 @@ class BatchDecryptGUI:
                             final_song_id = master_id
                         break
 
-                lang_data_all[lang].append({
-                    "Judul Lagu": matched_info["Song"],
-                    "Penyanyi": matched_info["Singer"],
-                    "Jumlah Pengguna": jumlah,
-                    "ID": final_song_id
-                })
+                # 4️⃣ Tambahkan ke kategori lang
+                if lang in ["Mandarin", "Korea", "Jepang"]:
+                    penyanyi_ids = matched_info["SingId"].split(" - ")  # split ID dari "SingerId"
+                    penyanyi_roman = []
+
+                    for pid in penyanyi_ids:
+                        roman = sing_dict.get(pid, {}).get("RomanSing", "")  # cari dari sing_dict
+                        if roman:
+                            penyanyi_roman.append(roman)
+                        else:
+                            penyanyi_roman.append(pid)  # fallback ke ID jika nama tidak ditemukan
+
+                    lang_data[lang].append({
+                        "Judul Lagu": matched_info["RomanSong"],
+                        "Penyanyi": " - ".join(penyanyi_roman),
+                        "Jumlah Pengguna": jumlah,
+                        "ID": final_song_id
+                    })
+                else:
+                    lang_data[lang].append({
+                        "Judul Lagu": matched_info["Song"],
+                        "Penyanyi": matched_info["Singer"],
+                        "Jumlah Pengguna": jumlah,
+                        "ID": final_song_id
+                    })
 
             # 🔁 Simpan ke file
             output_file_all = os.path.join(output_path, "IDLAGU_ALL.xlsx")
@@ -500,11 +553,11 @@ class BatchDecryptGUI:
                     formula = category_sums.get(lang, "0")
                     sum_row.append(f"={formula}")
                 total_col_letter = get_column_letter(len(headers))
-                sum_row.append(f"=SUM(A3:{total_col_letter}3)")
+                sum_row.append(f"=SUM(A2:{total_col_letter}2)")
                 total_sheet.append(sum_row)
 
                 # Baris label "Prosentase"
-                total_sheet.append(["Prosentase"] * len(headers) + ["Total"])
+                # total_sheet.append(["Prosentase"] * len(headers) + ["Total"])
 
                 # Baris header ulang
                 total_sheet.append(headers + [""])
@@ -513,8 +566,8 @@ class BatchDecryptGUI:
                 percent_row = []
                 for i in range(len(headers)):
                     col_letter = get_column_letter(i + 1)
-                    percent_row.append(f"={col_letter}3/H3")  # asumsi total di H3
-                percent_row.append("=H3/H3")
+                    percent_row.append(f"={col_letter}2/H2")  # asumsi total di H2
+                percent_row.append("=H2/H2")
                 total_sheet.append(percent_row)
 
                 # Optional: rapikan align center
