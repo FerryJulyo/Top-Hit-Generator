@@ -454,7 +454,7 @@ class BatchDecryptGUI:
 
         # 🔽 Simpan file rekap semua grup
         if all_data["ALL"]:
-            lang_data = defaultdict(list)
+            lang_data_all = defaultdict(list)
             for song_id_raw, jumlah in all_data["ALL"].items():
                 # 🔁 Normalisasi
                 song_id_clean = re.sub(r"[A-Za-z]", "", song_id_raw).lstrip("0")
@@ -497,14 +497,14 @@ class BatchDecryptGUI:
                         else:
                             penyanyi_roman.append(pid)  # fallback ke ID jika nama tidak ditemukan
 
-                    lang_data[lang].append({
+                    lang_data_all[lang].append({
                         "Judul Lagu": matched_info["RomanSong"],
                         "Penyanyi": " - ".join(penyanyi_roman),
                         "Jumlah Pengguna": jumlah,
                         "ID": final_song_id
                     })
                 else:
-                    lang_data[lang].append({
+                    lang_data_all[lang].append({
                         "Judul Lagu": matched_info["Song"],
                         "Penyanyi": matched_info["Singer"],
                         "Jumlah Pengguna": jumlah,
