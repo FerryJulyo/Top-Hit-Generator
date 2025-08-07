@@ -10,21 +10,21 @@ import pandas as pd
 import xlrd
 import tempfile
 
-from openpyxl.styles import Alignment
+from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 from openpyxl import load_workbook
 from tempfile import NamedTemporaryFile
 from xlrd.biffh import XLRDError
-from tkinter import filedialog, messagebox, ttk
+from tkinter import filedialog, messagebox, ttk, StringVar
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 from collections import defaultdict
 
-class BatchDecryptGUI:
+class GenerateTopHit:
     def __init__(self, root):
         self.root = root
         self.root.title("Generate Top Hit")
-        self.root.geometry("750x600")
+        self.root.geometry("720x640")
 
         self.source_folder = tk.StringVar()
         self.destination_folder = tk.StringVar()
@@ -59,8 +59,8 @@ class BatchDecryptGUI:
         self.btn_browse_database = ttk.Button(main_frame, text="Pilih", command=self.browse_database)
         self.btn_browse_database.grid(row=2, column=2, pady=(10, 0))
 
-        self.btn_start = ttk.Button(main_frame, text="Mulai Proses", command=self.start_decryption)
-        self.btn_start.grid(row=3, column=0, columnspan=3, pady=20)
+        # self.btn_start = ttk.Button(main_frame, text="Mulai Proses", command=self.start_decryption)
+        # self.btn_start.grid(row=3, column=0, columnspan=3, pady=20)
 
         self.progress = ttk.Progressbar(main_frame, orient="horizontal", length=400, mode="determinate")
         self.progress.grid(row=4, column=0, columnspan=3, pady=(0, 10))
@@ -91,6 +91,20 @@ class BatchDecryptGUI:
         scrollbar = ttk.Scrollbar(log_frame, orient="vertical", command=self.log_text.yview)
         scrollbar.grid(row=0, column=1, sticky=(tk.N, tk.S))
         self.log_text.configure(yscrollcommand=scrollbar.set)
+
+        self.vod_mode = tk.StringVar(value="VOD1")
+        ttk.Label(main_frame, text="Mode:").grid(row=3, column=0, sticky=tk.W, pady=(10, 0))
+        ttk.Radiobutton(main_frame, text="VOD1", variable=self.vod_mode, value="VOD1").grid(row=3, column=1, sticky=tk.W, pady=(10, 0))
+        ttk.Radiobutton(main_frame, text="VOD2", variable=self.vod_mode, value="VOD2").grid(row=3, column=1, sticky=tk.E, pady=(10, 0))
+
+        self.btn_start = ttk.Button(main_frame, text="Mulai Proses", command=self.start_decryption)
+        self.btn_start.grid(row=4, column=0, columnspan=3, pady=20)
+
+        # Adjust grid positions for remaining elements
+        self.progress.grid(row=5, column=0, columnspan=3, pady=(0, 10))
+        self.progress_label.grid(row=6, column=0, columnspan=3)
+        progress_log_frame.grid(row=7, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=10)
+        log_frame.grid(row=8, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=10)
 
     def browse_source(self):
         folder = filedialog.askdirectory()
@@ -135,7 +149,9 @@ class BatchDecryptGUI:
         src = self.source_folder.get()
         dst = self.destination_folder.get()
         db_path = self.database_file.get()
+        vod_mode = self.vod_mode.get()
 
+        # Validation checks
         if not os.path.isdir(src):
             messagebox.showerror("Error", "Folder sumber tidak valid.")
             return
@@ -149,11 +165,24 @@ class BatchDecryptGUI:
         try:
             self.log_message("Sedang membaca file master...")
             self.df_db = pd.read_excel(db_path, sheet_name="Song", usecols=["SongId", "Song","RomanSong", "Sing1","SingId1", "Sing2","SingId2", "Sing3","SingId3", "Sing4","SingId4", "Sing5","SingId5"],dtype=str)
+            self.df_db_del = pd.read_excel(db_path, sheet_name="Delete Song", usecols=["SongId", "Song","RomanSong", "Sing1","SingId1", "Sing2","SingId2", "Sing3","SingId3", "Sing4","SingId4", "Sing5","SingId5"],dtype=str)
             self.df_db_sing = pd.read_excel(db_path, sheet_name="Sing", usecols=["SingId", "RomanSing"],dtype=str)
+            # Step 1: Filter df_db_del dengan syarat SongId 7-9 karakter alfanumerik
+            filtered_df_del = self.df_db_del[
+                self.df_db_del["SongId"].apply(lambda x: isinstance(x, str) and x.isalnum() and 7 <= len(x) <= 9)
+            ].copy()
+
+            # Step 2: Cari baris yang SongId-nya belum ada di df_db
+            missing_rows = filtered_df_del[~filtered_df_del["SongId"].isin(self.df_db["SongId"])]
+
+            # Step 3: Gabungkan ke df_db
+            self.df_db = pd.concat([self.df_db, missing_rows], ignore_index=True)
+
         except Exception as e:
             self.log_message(f"Gagal membaca database: {e}")
             return
 
+        # Reset counters
         self.total_files = 0
         self.success_count = 0
         self.failure_count = 0
@@ -161,45 +190,84 @@ class BatchDecryptGUI:
         self.progress_text.delete(1.0, tk.END)
         self.log_text.delete(1.0, tk.END)
 
-        files = [f for f in os.listdir(src) if f.endswith(".enc")]
-        self.total_files = len(files)
+        processed_files = []
 
-        if self.total_files == 0:
-            self.log_message("Tidak ada file .enc ditemukan di folder sumber.")
-            return
+        if vod_mode == "VOD2":
+            # VOD2 Mode: Process TXT files only
+            txt_files = [f for f in os.listdir(src) if f.endswith(".txt")]
+            self.total_files = len(txt_files)
 
-        total_export_steps = len(files) + len(set(f[:5] for f in files)) + 1
-        self.progress["maximum"] = total_export_steps
+            if self.total_files == 0:
+                self.log_message("Tidak ada file .txt ditemukan di folder sumber.")
+                return
 
-        decrypted_files = []
+            for idx, file_name in enumerate(txt_files):
+                txt_file = os.path.join(src, file_name)
+                xls_file = os.path.join(dst, file_name[:-4] + ".xlsx")
+                
+                try:
+                    # Convert TXT to XLS
+                    if self.process_txt_to_xls(txt_file, xls_file):
+                        processed_files.append(xls_file)
+                        self.success_count += 1
+                        self.log_message(f"✓ Berhasil: {os.path.basename(txt_file)}")
+                        self.log_progress(f"✓ {os.path.basename(txt_file)} berhasil dikonversi ke XLSX")
+                    else:
+                        self.failure_count += 1
+                        self.log_message(f"✗ Gagal: {os.path.basename(txt_file)}")
+                except Exception as e:
+                    self.failure_count += 1
+                    self.log_message(f"✗ Gagal: {os.path.basename(txt_file)} - {str(e)}")
+                    self.log_progress(f"✗ {os.path.basename(txt_file)} gagal: {str(e)}")
 
-        for idx, file_name in enumerate(files):
-            enc_file = os.path.join(src, file_name)
-            dec_file = os.path.join(dst, file_name[:-4] + ".xls")
-            try:
-                self.decrypt_file(enc_file, dec_file, self.encryption_key.get())
-                decrypted_files.append(dec_file)
-                self.success_count += 1
-                self.log_message(f"✓ Berhasil: {os.path.basename(enc_file)}")
-                self.log_progress(f"✓ {os.path.basename(enc_file)} berhasil didekripsi")
-            except Exception as e:
-                self.failure_count += 1
-                self.log_message(f"✗ Gagal: {os.path.basename(enc_file)} - {str(e)}")
-                self.log_progress(f"✗ {os.path.basename(enc_file)} gagal: {str(e)}")
+                # Update progress
+                self.progress["value"] = idx + 1
+                self.progress_label.config(text=f"{idx + 1}/{self.total_files} file diproses")
+                self.root.update_idletasks()
 
-            self.progress["value"] = idx + 1
-            self.progress_label.config(text=f"{idx + 1}/{self.total_files} file diproses")
-            self.root.update_idletasks()
+        else:
+            # VOD1 Mode: Process encrypted files only
+            enc_files = [f for f in os.listdir(src) if f.endswith(".enc")]
+            self.total_files = len(enc_files)
 
-        self.process_and_merge_data(decrypted_files, dst, progress_update_callback=self.update_progress)
-        self.progress["value"] = self.progress["maximum"]
+            if self.total_files == 0:
+                self.log_message("Tidak ada file .enc ditemukan di folder sumber.")
+                return
 
+            for idx, file_name in enumerate(enc_files):
+                enc_file = os.path.join(src, file_name)
+                dec_file = os.path.join(dst, file_name[:-4] + ".xls")
+                
+                try:
+                    # Decrypt the file
+                    self.decrypt_file(enc_file, dec_file, self.encryption_key.get())
+                    processed_files.append(dec_file)
+                    self.success_count += 1
+                    self.log_message(f"✓ Berhasil: {os.path.basename(enc_file)}")
+                    self.log_progress(f"✓ {os.path.basename(enc_file)} berhasil didekripsi")
+                except Exception as e:
+                    self.failure_count += 1
+                    self.log_message(f"✗ Gagal: {os.path.basename(enc_file)} - {str(e)}")
+                    self.log_progress(f"✗ {os.path.basename(enc_file)} gagal: {str(e)}")
 
+                # Update progress
+                self.progress["value"] = idx + 1
+                self.progress_label.config(text=f"{idx + 1}/{self.total_files} file diproses")
+                self.root.update_idletasks()
+
+        # Process and merge the files if we have any successful conversions
+        if processed_files:
+            total_export_steps = len(processed_files) + len(set(os.path.basename(f)[:5] for f in processed_files)) + 1
+            self.progress["maximum"] = total_export_steps
+            self.process_and_merge_data(processed_files, dst, progress_update_callback=self.update_progress)
+            self.progress["value"] = self.progress["maximum"]
+
+        # Show summary
         summary = f"Selesai! {self.success_count} berhasil, {self.failure_count} gagal dari {self.total_files} file."
         self.set_buttons_state(tk.NORMAL)
         self.log_message(summary)
         messagebox.showinfo("Selesai", summary)
-
+    
     def decrypt_file(self, in_file, out_file, key):
         hashed_key = hashlib.sha256(key.encode()).digest()
         cipher = AES.new(hashed_key, AES.MODE_ECB)
@@ -415,31 +483,66 @@ class BatchDecryptGUI:
                 # Setelah semua sheet selesai, tulis sheet "Total"
                 total_sheet = writer.book.create_sheet("Total")
 
-                # Baris header kategori
                 headers = list(language_categories.keys())
-                total_sheet.append(headers + ["Total"])
+                total_col_letter = get_column_letter(len(headers))
 
-                # Baris jumlah (dengan formula per sheet)
+                # 🔷 Merge & judul bagian pertama
+                total_sheet.merge_cells('A1:H1')
+                total_sheet["A1"].value = "Kategori Bahasa"
+                total_sheet["A1"].font = Font(bold=True)
+                total_sheet["A1"].alignment = Alignment(horizontal="center")
+                total_sheet["A1"].fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+
+                # 🔷 Header pertama di A2
+                for idx, header in enumerate(headers):
+                    cell = total_sheet.cell(row=2, column=idx + 1)
+                    cell.value = header
+                    cell.font = Font(bold=True)
+                    cell.alignment = Alignment(horizontal="center")
+                    cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+
+                # 🔷 Total kolom ke-(len+1)
+                total_sheet.cell(row=2, column=len(headers) + 1).value = "Total"
+                total_sheet.cell(row=2, column=len(headers) + 1).font = Font(bold=True)
+                total_sheet.cell(row=2, column=len(headers) + 1).alignment = Alignment(horizontal="center")
+                total_sheet.cell(row=2, column=len(headers) + 1).fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+
+                # 🔷 Baris jumlah (dengan formula per sheet) di A3
                 sum_row = []
                 for lang in headers:
                     formula = category_sums.get(lang, "0")
                     sum_row.append(f"={formula}")
-                total_col_letter = get_column_letter(len(headers))
-                sum_row.append(f"=SUM(A2:{total_col_letter}2)")
+                sum_row.append(f"=SUM(A3:{total_col_letter}3)")
                 total_sheet.append(sum_row)
 
-                # Baris label "Prosentase"
-                # total_sheet.append(["Prosentase"] * len(headers) + ["Total"])
+                # 🔷 Merge & judul bagian kedua (A5:H5)
+                total_sheet.merge_cells("A5:H5")
+                total_sheet["A5"].value = "Persentase"
+                total_sheet["A5"].font = Font(bold=True)
+                total_sheet["A5"].alignment = Alignment(horizontal="center")
+                total_sheet["A5"].fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
 
-                # Baris header ulang
-                total_sheet.append(headers + [""])
+                # 🔷 Header ulang di A6
+                for idx, header in enumerate(headers):
+                    cell = total_sheet.cell(row=6, column=idx + 1)
+                    cell.value = header
+                    cell.font = Font(bold=True)
+                    cell.alignment = Alignment(horizontal="center")
+                    cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
 
-                # Baris prosentase
+                # 🔷 Header "Total" kolom terakhir
+                cell = total_sheet.cell(row=6, column=len(headers) + 1)
+                cell.value = "Total"
+                cell.font = Font(bold=True)
+                cell.alignment = Alignment(horizontal="center")
+                cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+
+                # 🔷 Baris Persentase di A7
                 percent_row = []
                 for i in range(len(headers)):
                     col_letter = get_column_letter(i + 1)
-                    percent_row.append(f"={col_letter}2/H2")  # asumsi total di H2
-                percent_row.append("=H2/H2")
+                    percent_row.append(f"={col_letter}3/H3")  # Total di kolom terakhir baris 3
+                percent_row.append("=H3/H3")
                 total_sheet.append(percent_row)
 
                 # Optional: rapikan align center
@@ -546,38 +649,72 @@ class BatchDecryptGUI:
                 # Setelah semua sheet selesai, tulis sheet "Total"
                 total_sheet = writer.book.create_sheet("Total")
 
-                # Baris header kategori
                 headers = list(language_categories.keys())
-                total_sheet.append(headers + ["Total"])
+                total_col_letter = get_column_letter(len(headers))
 
-                # Baris jumlah (dengan formula per sheet)
+                # 🔷 Merge & judul bagian pertama
+                total_sheet.merge_cells('A1:H1')
+                total_sheet["A1"].value = "Kategori Bahasa"
+                total_sheet["A1"].font = Font(bold=True)
+                total_sheet["A1"].alignment = Alignment(horizontal="center")
+                total_sheet["A1"].fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+
+                # 🔷 Header pertama di A2
+                for idx, header in enumerate(headers):
+                    cell = total_sheet.cell(row=2, column=idx + 1)
+                    cell.value = header
+                    cell.font = Font(bold=True)
+                    cell.alignment = Alignment(horizontal="center")
+                    cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+
+                # 🔷 Total kolom ke-(len+1)
+                total_sheet.cell(row=2, column=len(headers) + 1).value = "Total"
+                total_sheet.cell(row=2, column=len(headers) + 1).font = Font(bold=True)
+                total_sheet.cell(row=2, column=len(headers) + 1).alignment = Alignment(horizontal="center")
+                total_sheet.cell(row=2, column=len(headers) + 1).fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+
+                # 🔷 Baris jumlah (dengan formula per sheet) di A3
                 sum_row = []
                 for lang in headers:
                     formula = category_sums.get(lang, "0")
                     sum_row.append(f"={formula}")
-                total_col_letter = get_column_letter(len(headers))
-                sum_row.append(f"=SUM(A2:{total_col_letter}2)")
+                sum_row.append(f"=SUM(A3:{total_col_letter}3)")
                 total_sheet.append(sum_row)
 
-                # Baris label "Prosentase"
-                # total_sheet.append(["Prosentase"] * len(headers) + ["Total"])
+                # 🔷 Merge & judul bagian kedua (A5:H5)
+                total_sheet.merge_cells("A5:H5")
+                total_sheet["A5"].value = "Persentase"
+                total_sheet["A5"].font = Font(bold=True)
+                total_sheet["A5"].alignment = Alignment(horizontal="center")
+                total_sheet["A5"].fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
 
-                # Baris header ulang
-                total_sheet.append(headers + ["Total"])
+                # 🔷 Header ulang di A6
+                for idx, header in enumerate(headers):
+                    cell = total_sheet.cell(row=6, column=idx + 1)
+                    cell.value = header
+                    cell.font = Font(bold=True)
+                    cell.alignment = Alignment(horizontal="center")
+                    cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
 
-                # Baris prosentase
+                # 🔷 Header "Total" kolom terakhir
+                cell = total_sheet.cell(row=6, column=len(headers) + 1)
+                cell.value = "Total"
+                cell.font = Font(bold=True)
+                cell.alignment = Alignment(horizontal="center")
+                cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+
+                # 🔷 Baris Persentase di A7
                 percent_row = []
                 for i in range(len(headers)):
-                    col_letter = get_column_letter(i + 2)
-                    percent_row.append(f"={col_letter}2/H2")  # asumsi total di H2
-                percent_row.append("=H2/H2")
+                    col_letter = get_column_letter(i + 1)
+                    percent_row.append(f"={col_letter}3/H3")  # Total di kolom terakhir baris 3
+                percent_row.append("=H3/H3")
                 total_sheet.append(percent_row)
 
                 # Optional: rapikan align center
                 for row in total_sheet.iter_rows(min_row=1, max_row=5, min_col=1, max_col=8):
                     for cell in row:
                         cell.alignment = Alignment(horizontal="center")
-
 
             self.log_message(f"File gabungan berhasil dibuat: {output_file_all}")
             if progress_update_callback:
@@ -587,8 +724,42 @@ class BatchDecryptGUI:
         self.progress["value"] += 1
         self.root.update_idletasks()
 
+    def process_txt_to_xls(self, txt_file, xls_file):
+        try:
+            # Read the TXT file line by line
+            with open(txt_file, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            
+            # Process each line to extract first and fourth columns
+            data = []
+            for line in lines:
+                parts = line.strip().split('||')
+                if len(parts) >= 4:  # Ensure we have at least 4 columns
+                    song_id = parts[0].strip()
+                    count = parts[3].strip()
+                    
+                    # Only add if both values exist and count is numeric
+                    if song_id and count and count.isdigit():
+                        data.append([song_id, int(count)])
+            
+            # Create a DataFrame and group by song ID to sum counts
+            df = pd.DataFrame(data, columns=['ID', 'Jumlah'])
+            df = df.groupby('ID', as_index=False)['Jumlah'].sum()
+            
+            # Sort by count in descending order
+            df = df.sort_values('Jumlah', ascending=False)
+            
+            # Save to XLS file
+            df.to_excel(xls_file, index=False,sheet_name='Lap1')
+            
+            return True
+        
+        except Exception as e:
+            self.log_message(f"Error processing {txt_file}: {str(e)}")
+            return False
+
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = BatchDecryptGUI(root)
+    app = GenerateTopHit(root)
     root.mainloop()
