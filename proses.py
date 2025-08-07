@@ -148,8 +148,8 @@ class BatchDecryptGUI:
 
         try:
             self.log_message("Sedang membaca file master...")
-            self.df_db = pd.read_excel(db_path, sheet_name="Song", usecols=["SongId", "Song","RomanSong", "Sing1","SingId1", "Sing2","SingId2", "Sing3","SingId3", "Sing4","SingId4", "Sing5","SingId5"])
-            self.df_db_sing = pd.read_excel(db_path, sheet_name="Sing", usecols=["SingId", "RomanSing"])
+            self.df_db = pd.read_excel(db_path, sheet_name="Song", usecols=["SongId", "Song","RomanSong", "Sing1","SingId1", "Sing2","SingId2", "Sing3","SingId3", "Sing4","SingId4", "Sing5","SingId5"],dtype=str)
+            self.df_db_sing = pd.read_excel(db_path, sheet_name="Sing", usecols=["SingId", "RomanSing"],dtype=str)
         except Exception as e:
             self.log_message(f"Gagal membaca database: {e}")
             return
@@ -229,14 +229,14 @@ class BatchDecryptGUI:
                     "Song": song_name,
                     "RomanSong": rosong_name,
                     "Singer": " - ".join(singers),
-                    "SingerId": " - ".join(singers_id)
+                    "SingId": " - ".join(singers_id)
                 }
 
         if self.df_db_sing is not None:
             for _, row in self.df_db_sing.iterrows():
                 sing_id = str(row["SingId"]).strip()
                 roman_name = str(row["RomanSing"]).strip() if not pd.isna(row["RomanSing"]) else ""
-                sing_dict[song_id] = {
+                sing_dict[sing_id] = {
                     "RomanSing": roman_name
                 }
 
@@ -353,8 +353,10 @@ class BatchDecryptGUI:
                             final_song_id = master_id  # ganti jika tidak persis sama
                         break
                 # 4️⃣ Tambahkan ke kategori lang
-                if lang in ["Mandarin", "Korea", "Jepang"]:
+                if lang in ["Mandarin", "Korea", "Jepang", "Lain-Lain"]:
+
                     penyanyi_ids = matched_info["SingId"].split(" - ")  # split ID dari "SingerId"
+                    penyanyi_ids = [pid.replace(".0", "") for pid in penyanyi_ids]
                     penyanyi_roman = []
 
                     for pid in penyanyi_ids:
@@ -452,7 +454,7 @@ class BatchDecryptGUI:
 
         # 🔽 Simpan file rekap semua grup
         if all_data["ALL"]:
-            lang_data_all = defaultdict(list)
+            lang_data = defaultdict(list)
             for song_id_raw, jumlah in all_data["ALL"].items():
                 # 🔁 Normalisasi
                 song_id_clean = re.sub(r"[A-Za-z]", "", song_id_raw).lstrip("0")
@@ -483,8 +485,9 @@ class BatchDecryptGUI:
                         break
 
                 # 4️⃣ Tambahkan ke kategori lang
-                if lang in ["Mandarin", "Korea", "Jepang"]:
+                if lang in ["Mandarin", "Korea", "Jepang", "Lain-Lain"]:
                     penyanyi_ids = matched_info["SingId"].split(" - ")  # split ID dari "SingerId"
+                    penyanyi_ids = [pid.replace(".0", "") for pid in penyanyi_ids]
                     penyanyi_roman = []
 
                     for pid in penyanyi_ids:
