@@ -563,12 +563,12 @@ class BatchDecryptGUI:
                 # total_sheet.append(["Prosentase"] * len(headers) + ["Total"])
 
                 # Baris header ulang
-                total_sheet.append(headers + [""])
+                total_sheet.append(headers + ["Total"])
 
                 # Baris prosentase
                 percent_row = []
                 for i in range(len(headers)):
-                    col_letter = get_column_letter(i + 1)
+                    col_letter = get_column_letter(i + 2)
                     percent_row.append(f"={col_letter}2/H2")  # asumsi total di H2
                 percent_row.append("=H2/H2")
                 total_sheet.append(percent_row)
