@@ -164,8 +164,8 @@ class GenerateTopHit:
 
         try:
             self.log_message("Sedang membaca file master...")
-            self.df_db = pd.read_excel(db_path, sheet_name="Song", usecols=["SongId", "Song","RomanSong", "Sing1","SingId1", "Sing2","SingId2", "Sing3","SingId3", "Sing4","SingId4", "Sing5","SingId5"],dtype=str)
-            self.df_db_del = pd.read_excel(db_path, sheet_name="Delete Song", usecols=["SongId", "Song","RomanSong", "Sing1","SingId1", "Sing2","SingId2", "Sing3","SingId3", "Sing4","SingId4", "Sing5","SingId5"],dtype=str)
+            self.df_db = pd.read_excel(db_path, sheet_name="Song", usecols=["SongId", "Song","RomanSong","Collector", "Sing1","SingId1", "Sing2","SingId2", "Sing3","SingId3", "Sing4","SingId4", "Sing5","SingId5"],dtype=str)
+            self.df_db_del = pd.read_excel(db_path, sheet_name="Delete Song", usecols=["SongId", "Song","RomanSong","Collector", "Sing1","SingId1", "Sing2","SingId2", "Sing3","SingId3", "Sing4","SingId4", "Sing5","SingId5"],dtype=str)
             self.df_db_sing = pd.read_excel(db_path, sheet_name="Sing", usecols=["SingId", "RomanSing"],dtype=str)
             # Step 1: Filter df_db_del dengan syarat SongId 7-9 karakter alfanumerik
             filtered_df_del = self.df_db_del[
@@ -257,7 +257,7 @@ class GenerateTopHit:
 
         # Process and merge the files if we have any successful conversions
         if processed_files:
-            total_export_steps = len(processed_files) + len(set(os.path.basename(f)[:5] for f in processed_files)) + 1
+            total_export_steps = len(processed_files) + len(set(os.path.basename(f)[:5] for f in processed_files)) * 2 + 1
             self.progress["maximum"] = total_export_steps
             self.process_and_merge_data(processed_files, dst, progress_update_callback=self.update_progress)
             self.progress["value"] = self.progress["maximum"]
@@ -281,7 +281,10 @@ class GenerateTopHit:
 
     def process_and_merge_data(self, file_list, output_path, progress_update_callback=None):
         result = defaultdict(lambda: defaultdict(int))
-        all_data = defaultdict(lambda: defaultdict(int))  # 🆕 Rekap semua data
+        all_data = defaultdict(lambda: defaultdict(int))
+        collector_result = defaultdict(lambda: defaultdict(int))
+        collector_all_data = defaultdict(lambda: defaultdict(int))
+        # 🆕 Rekap semua data
 
         # Buat dictionary lookup dari master
         song_dict = {}
@@ -291,11 +294,13 @@ class GenerateTopHit:
                 song_id = str(row["SongId"]).strip()
                 song_name = str(row["Song"]).strip() if not pd.isna(row["Song"]) else ""
                 rosong_name = str(row["RomanSong"]).strip() if not pd.isna(row["RomanSong"]) else ""
+                label = str(row["Collector"]).strip() if not pd.isna(row["Collector"]) else ""
                 singers = [str(row[col]).strip() for col in ["Sing1", "Sing2", "Sing3", "Sing4", "Sing5"] if not pd.isna(row[col]) and str(row[col]).strip()]
                 singers_id = [str(row[col]).strip() for col in ["SingId1", "SingId2", "SingId3", "SingId4", "SingId5"] if not pd.isna(row[col]) and str(row[col]).strip()]
                 song_dict[song_id] = {
                     "Song": song_name,
                     "RomanSong": rosong_name,
+                    "Label": label,
                     "Singer": " - ".join(singers),
                     "SingId": " - ".join(singers_id)
                 }
@@ -376,6 +381,12 @@ class GenerateTopHit:
                             # Update hasil
                             result[group_key][song_id] += jumlah
                             all_data["ALL"][song_id] += jumlah
+
+                            label = song_dict.get(song_id, {}).get("Label", "").upper()
+                            collector_group = label if label in ["KCI", "WAMI", "RAI"] else "Lain-Lain"
+                            collector_result[collector_group][song_id] += jumlah
+                            collector_all_data["ALL"][song_id] += jumlah
+
                         except ValueError:
                             print(f"[WARN] Baris {index+1} di file {file}: jumlah tidak valid → {jumlah_cell}")
                             
@@ -396,20 +407,7 @@ class GenerateTopHit:
                 song_id_clean = song_id_clean.lstrip("0")             # Hapus prefix 0
 
                 # 2️⃣ Kategorisasi berdasarkan awal angka
-                lang = "Lain-Lain"
-                if song_id_clean.startswith(("10", "11", "12", "13", "14", "15", "16", "17", "19")):
-                    lang = "Indonesia Pop"
-                elif song_id_clean.startswith("18"):
-                    lang = "Indonesia Daerah"
-                elif song_id_clean.startswith("2"):
-                    lang = "English"
-                elif song_id_clean.startswith("3"):
-                    lang = "Mandarin"
-                elif song_id_clean.startswith("4"):
-                    lang = "Jepang"
-                elif song_id_clean.startswith("5"):
-                    lang = "Korea"
-
+                lang = self.get_language_category(song_id_clean)
 
                 # 3️⃣ Cari kecocokan master SongId (LIKE match)
                 matched_info = {"Song": "","RomanSong": "", "Singer": "","SingId": ""}
@@ -554,7 +552,6 @@ class GenerateTopHit:
             if progress_update_callback:
                 progress_update_callback()
 
-
         # 🔽 Simpan file rekap semua grup
         if all_data["ALL"]:
             lang_data_all = defaultdict(list)
@@ -563,19 +560,7 @@ class GenerateTopHit:
                 song_id_clean = re.sub(r"[A-Za-z]", "", song_id_raw).lstrip("0")
 
                 # 🔁 Kategorisasi
-                lang = "Lain-Lain"
-                if song_id_clean.startswith(("10", "11", "12", "13", "14", "15", "16", "17", "19")):
-                    lang = "Indonesia Pop"
-                elif song_id_clean.startswith("18"):
-                    lang = "Indonesia Daerah"
-                elif song_id_clean.startswith("2"):
-                    lang = "English"
-                elif song_id_clean.startswith("3"):
-                    lang = "Mandarin"
-                elif song_id_clean.startswith("4"):
-                    lang = "Jepang"
-                elif song_id_clean.startswith("5"):
-                    lang = "Korea"
+                lang = self.get_language_category(song_id_clean)
 
                 # 🔁 Match master
                 matched_info = {"Song": "","RomanSong": "", "Singer": "","SingId": ""}
@@ -719,6 +704,307 @@ class GenerateTopHit:
             self.log_message(f"File gabungan berhasil dibuat: {output_file_all}")
             if progress_update_callback:
                 progress_update_callback()
+    
+            collector_categories = {
+                "KCI": "KCI",
+                "WAMI": "WAMI", 
+                "RAI": "RAI",
+                "Lain-Lain": "Lain-Lain"
+            }
+
+        for group, items in result.items():
+            collector_data = defaultdict(list)
+            
+            for song_id_raw, jumlah in items.items():
+                song_id_clean = re.sub(r"[A-Za-z]", "", song_id_raw).lstrip("0")
+                
+                # Match dengan master data
+                matched_info = {"Song": "","RomanSong": "", "Singer": "","SingId": "", "Label": ""}
+                final_song_id = song_id_clean  # default
+                
+                for master_id, info in song_dict.items():
+                    if master_id and song_id_clean in master_id:
+                        matched_info = info
+                        if master_id != song_id_clean:
+                            final_song_id = master_id
+                        break
+                
+                label = matched_info.get("Label", "").upper()
+                collector_group = label if label in ["KCI", "WAMI", "RAI"] else "Lain-Lain"
+                
+                # Tentukan Roman Song/Singer berdasarkan bahasa
+                lang = self.get_language_category(song_id_clean)
+                
+                if lang in ["Mandarin", "Korea", "Jepang", "Lain-Lain"]:
+                    # Gunakan Roman Song dan Roman Singer
+                    penyanyi_ids = matched_info.get("SingId", "").split(" - ")
+                    penyanyi_roman = [sing_dict.get(pid, {}).get("RomanSing", pid) for pid in penyanyi_ids]
+                    
+                    collector_data[collector_group].append({
+                        "Judul Lagu": matched_info.get("RomanSong", song_id_clean),
+                        "Penyanyi": " - ".join(penyanyi_roman),
+                        "Jumlah Pengguna": jumlah,
+                        "ID": song_id_raw
+                    })
+                else:
+                    # Gunakan original Song dan Singer
+                    collector_data[collector_group].append({
+                        "Judul Lagu": matched_info.get("Song", song_id_clean),
+                        "Penyanyi": matched_info.get("Singer", ""),
+                        "Jumlah Pengguna": jumlah,
+                        "ID": song_id_raw
+                    })
+
+            # Simpan file outlet dengan sheet by collector
+            output_file = os.path.join(output_path, f"LABEL_Outlet_{group}.xlsx")
+            
+            category_sums_collector = {}
+            
+            with pd.ExcelWriter(output_file, engine="openpyxl") as writer:
+                for collector, records in collector_data.items():
+                    df_sheet = pd.DataFrame(records)
+                    df_sheet.sort_values(by="Jumlah Pengguna", ascending=False, inplace=True)
+                    sheet_name = collector[:31]
+                    df_sheet.to_excel(writer, sheet_name=sheet_name, index=False)
+                    
+                    # Tambahkan total
+                    worksheet = writer.sheets[sheet_name]
+                    row_count = len(df_sheet) + 2
+                    worksheet.cell(row=row_count, column=1).value = "Jumlah"
+                    worksheet.cell(row=row_count, column=3).value = f"=SUM(C2:C{row_count-1})"
+                    
+                    # Simpan referensi formula untuk sheet Total
+                    category_sums_collector[collector] = f"='{sheet_name}'!C{row_count}"
+                
+                # 🆕 TAMBAH SHEET TOTAL UNTUK COLLECTOR
+                total_sheet = writer.book.create_sheet("Total")
+                
+                headers_collector = list(collector_categories.keys())
+                total_col_letter = get_column_letter(len(headers_collector))
+                
+                # 🔷 Merge & judul bagian pertama
+                total_sheet.merge_cells('A1:E1')
+                total_sheet["A1"].value = "Kategori Label"
+                total_sheet["A1"].font = Font(bold=True)
+                total_sheet["A1"].alignment = Alignment(horizontal="center")
+                total_sheet["A1"].fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Header pertama di A2
+                for idx, header in enumerate(headers_collector):
+                    cell = total_sheet.cell(row=2, column=idx + 1)
+                    cell.value = header
+                    cell.font = Font(bold=True)
+                    cell.alignment = Alignment(horizontal="center")
+                    cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Total kolom terakhir
+                total_sheet.cell(row=2, column=len(headers_collector) + 1).value = "Total"
+                total_sheet.cell(row=2, column=len(headers_collector) + 1).font = Font(bold=True)
+                total_sheet.cell(row=2, column=len(headers_collector) + 1).alignment = Alignment(horizontal="center")
+                total_sheet.cell(row=2, column=len(headers_collector) + 1).fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Baris jumlah (dengan formula per sheet) di A3
+                sum_row = []
+                for collector in headers_collector:
+                    formula = category_sums_collector.get(collector, "0")
+                    sum_row.append(f"={formula}")
+                sum_row.append(f"=SUM(A3:{total_col_letter}3)")
+                total_sheet.append(sum_row)
+                
+                # 🔷 Merge & judul bagian kedua (A5:E5)
+                total_sheet.merge_cells("A5:E5")
+                total_sheet["A5"].value = "Persentase"
+                total_sheet["A5"].font = Font(bold=True)
+                total_sheet["A5"].alignment = Alignment(horizontal="center")
+                total_sheet["A5"].fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Header ulang di A6
+                for idx, header in enumerate(headers_collector):
+                    cell = total_sheet.cell(row=6, column=idx + 1)
+                    cell.value = header
+                    cell.font = Font(bold=True)
+                    cell.alignment = Alignment(horizontal="center")
+                    cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Header "Total" kolom terakhir
+                cell = total_sheet.cell(row=6, column=len(headers_collector) + 1)
+                cell.value = "Total"
+                cell.font = Font(bold=True)
+                cell.alignment = Alignment(horizontal="center")
+                cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Baris Persentase di A7
+                percent_row = []
+                total_col_letter_percent = get_column_letter(len(headers_collector) + 1)
+                for i in range(len(headers_collector)):
+                    col_letter = get_column_letter(i + 1)
+                    percent_row.append(f"={col_letter}3/{total_col_letter_percent}3")
+                percent_row.append(f"={total_col_letter_percent}3/{total_col_letter_percent}3")
+                total_sheet.append(percent_row)
+                
+                # Optional: rapikan align center
+                for row in total_sheet.iter_rows(min_row=1, max_row=7, min_col=1, max_col=len(headers_collector)+1):
+                    for cell in row:
+                        cell.alignment = Alignment(horizontal="center")
+            
+            self.log_message(f"File LABEL berhasil dibuat: {output_file}")
+            if progress_update_callback:
+                progress_update_callback()
+
+        # 🆕 BUAT FILE ALL_DATA UNTUK COLLECTOR
+        if collector_all_data["ALL"]:
+            collector_data_all = defaultdict(list)
+            
+            for song_id_raw, jumlah in collector_all_data["ALL"].items():
+                song_id_clean = re.sub(r"[A-Za-z]", "", song_id_raw).lstrip("0")
+                
+                # Match dengan master data
+                matched_info = {"Song": "","RomanSong": "", "Singer": "","SingId": "", "Label": ""}
+                final_song_id = song_id_clean  # default
+                
+                for master_id, info in song_dict.items():
+                    if master_id and song_id_clean in master_id:
+                        matched_info = info
+                        if master_id != song_id_clean:
+                            final_song_id = master_id  # ganti jika tidak persis sama
+                        break
+                
+                label = matched_info.get("Label", "").upper()
+                collector_group = label if label in ["KCI", "WAMI", "RAI"] else "Lain-Lain"
+                
+                # Tentukan Roman Song/Singer berdasarkan bahasa
+                lang = self.get_language_category(song_id_clean)
+                
+                if lang in ["Mandarin", "Korea", "Jepang", "Lain-Lain"]:
+                    # Gunakan Roman Song dan Roman Singer
+                    penyanyi_ids = matched_info.get("SingId", "").split(" - ")
+                    penyanyi_roman = [sing_dict.get(pid, {}).get("RomanSing", pid) for pid in penyanyi_ids]
+                    
+                    collector_data_all[collector_group].append({
+                        "Judul Lagu": matched_info.get("RomanSong", song_id_clean),
+                        "Penyanyi": " - ".join(penyanyi_roman),
+                        "Jumlah Pengguna": jumlah,
+                        "ID": song_id_raw
+                    })
+                else:
+                    # Gunakan original Song dan Singer
+                    collector_data_all[collector_group].append({
+                        "Judul Lagu": matched_info.get("Song", song_id_clean),
+                        "Penyanyi": matched_info.get("Singer", ""),
+                        "Jumlah Pengguna": jumlah,
+                        "ID": song_id_raw
+                    })
+            
+            # Simpan ke file ALL_DATA collector
+            output_file_collector_all = os.path.join(output_path, "LABEL_ALL.xlsx")
+            
+            category_sums_collector_all = {}
+            
+            with pd.ExcelWriter(output_file_collector_all, engine="openpyxl") as writer:
+                for collector, records in collector_data_all.items():
+                    df_sheet = pd.DataFrame(records)
+                    df_sheet.sort_values(by="Jumlah Pengguna", ascending=False, inplace=True)
+                    sheet_name = collector[:31]
+                    df_sheet.to_excel(writer, sheet_name=sheet_name, index=False)
+                    
+                    # Tambahkan total
+                    worksheet = writer.sheets[sheet_name]
+                    row_count = len(df_sheet) + 2
+                    worksheet.cell(row=row_count, column=1).value = "Jumlah"
+                    worksheet.cell(row=row_count, column=3).value = f"=SUM(C2:C{row_count-1})"
+                    
+                    # Simpan referensi formula untuk sheet Total
+                    category_sums_collector_all[collector] = f"='{sheet_name}'!C{row_count}"
+                
+                # SHEET TOTAL UNTUK COLLECTOR ALL_DATA
+                total_sheet = writer.book.create_sheet("Total")
+                
+                headers_collector = list(collector_categories.keys())
+                total_col_letter = get_column_letter(len(headers_collector))
+                
+                # 🔷 Merge & judul bagian pertama
+                total_sheet.merge_cells('A1:E1')
+                total_sheet["A1"].value = "Kategori Label"
+                total_sheet["A1"].font = Font(bold=True)
+                total_sheet["A1"].alignment = Alignment(horizontal="center")
+                total_sheet["A1"].fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Header pertama di A2
+                for idx, header in enumerate(headers_collector):
+                    cell = total_sheet.cell(row=2, column=idx + 1)
+                    cell.value = header
+                    cell.font = Font(bold=True)
+                    cell.alignment = Alignment(horizontal="center")
+                    cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Total kolom terakhir
+                total_sheet.cell(row=2, column=len(headers_collector) + 1).value = "Total"
+                total_sheet.cell(row=2, column=len(headers_collector) + 1).font = Font(bold=True)
+                total_sheet.cell(row=2, column=len(headers_collector) + 1).alignment = Alignment(horizontal="center")
+                total_sheet.cell(row=2, column=len(headers_collector) + 1).fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Baris jumlah (dengan formula per sheet) di A3
+                sum_row = []
+                for collector in headers_collector:
+                    formula = category_sums_collector_all.get(collector, "0")
+                    sum_row.append(f"={formula}")
+                sum_row.append(f"=SUM(A3:{total_col_letter}3)")
+                total_sheet.append(sum_row)
+                
+                # 🔷 Merge & judul bagian kedua (A5:E5)
+                total_sheet.merge_cells("A5:E5")
+                total_sheet["A5"].value = "Persentase"
+                total_sheet["A5"].font = Font(bold=True)
+                total_sheet["A5"].alignment = Alignment(horizontal="center")
+                total_sheet["A5"].fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Header ulang di A6
+                for idx, header in enumerate(headers_collector):
+                    cell = total_sheet.cell(row=6, column=idx + 1)
+                    cell.value = header
+                    cell.font = Font(bold=True)
+                    cell.alignment = Alignment(horizontal="center")
+                    cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Header "Total" kolom terakhir
+                cell = total_sheet.cell(row=6, column=len(headers_collector) + 1)
+                cell.value = "Total"
+                cell.font = Font(bold=True)
+                cell.alignment = Alignment(horizontal="center")
+                cell.fill = PatternFill(start_color="ccccff", end_color="ccccff", fill_type="solid")
+                
+                # 🔷 Baris Persentase di A7
+                percent_row = []
+                total_col_letter_percent = get_column_letter(len(headers_collector) + 1)
+                for i in range(len(headers_collector)):
+                    col_letter = get_column_letter(i + 1)
+                    percent_row.append(f"={col_letter}3/{total_col_letter_percent}3")
+                percent_row.append(f"={total_col_letter_percent}3/{total_col_letter_percent}3")
+                total_sheet.append(percent_row)
+                
+                # Optional: rapikan align center
+                for row in total_sheet.iter_rows(min_row=1, max_row=7, min_col=1, max_col=len(headers_collector)+1):
+                    for cell in row:
+                        cell.alignment = Alignment(horizontal="center")
+            
+            self.log_message(f"File LABEL ALL berhasil dibuat: {output_file_collector_all}")
+            if progress_update_callback:
+                progress_update_callback()
+                
+    def get_language_category(self, song_id):
+        if song_id.startswith(("10", "11", "12", "13", "14", "15", "16", "17", "19")):
+            return "Indonesia Pop"
+        elif song_id.startswith("18"):
+            return "Indonesia Daerah"
+        elif song_id.startswith("2"):
+            return "English"
+        elif song_id.startswith("3"):
+            return "Mandarin"
+        elif song_id.startswith("4"):
+            return "Jepang"
+        elif song_id.startswith("5"):
+            return "Korea"
+        return "Lain-Lain"
 
     def update_progress(self):
         self.progress["value"] += 1
